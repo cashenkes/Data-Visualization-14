@@ -1,0 +1,207 @@
+ISO,Country,LastDecade,lastYear
+AFG,Afghanistan,60,7
+AGO,Angola,24,3
+AIA,Anguilla,1,0
+ALB,Albania,11,0
+ANT,Netherlands Antilles,0,0
+ARE,United Arab Emirates (the),1,0
+ARG,Argentina,32,2
+ARM,Armenia,6,1
+ATG,Antigua and Barbuda,1,0
+AUT,Austria,7,0
+AZE,Azerbaijan,3,0
+AZO,Azores Islands,0,0
+BDI,Burundi,17,3
+BEL,Belgium,16,2
+BEN,Benin,8,1
+BFA,Burkina Faso,12,4
+BGD,Bangladesh,47,2
+BGR,Bulgaria,11,0
+BHR,Bahrain,0,0
+BHS,Bahamas (the),7,0
+BIH,Bosnia and Herzegovina,9,1
+BLM,Saint Barthélemy,1,0
+BLR,Belarus,5,0
+BLZ,Belize,3,1
+BMU,Bermuda,0,0
+BOL,Bolivia (Plurinational State of),25,2
+BRA,Brazil,51,7
+BRB,Barbados,1,0
+BRN,Brunei Darussalam,0,0
+BTN,Bhutan,1,0
+BWA,Botswana,6,0
+CAF,Central African Republic,15,0
+CAN,Canada,26,2
+CHE,Switzerland,10,1
+CHL,Chile,28,0
+CHN,China,282,12
+CIV,Côte d’Ivoire,9,1
+CMR,Cameroon,14,1
+COD,Congo (the Democratic Republic of the),39,7
+COG,Congo (the),14,2
+COL,Colombia,45,6
+COM,Comoros (the),5,0
+CPV,Cabo Verde,3,0
+CRI,Costa Rica,13,1
+CSK,Czechoslovakia,0,0
+CUB,Cuba,13,2
+CYM,Cayman Islands (the),0,0
+CYP,Cyprus,0,0
+CZE,Czech Republic (the),6,1
+DDR,Germany Dem Rep,0,0
+DEU,Germany,19,1
+DFR,Germany Fed Rep,0,0
+DJI,Djibouti,4,1
+DMA,Dominica,3,0
+DNK,Denmark,2,0
+DOM,Dominican Republic (the),25,2
+DZA,Algeria,10,1
+ECU,Ecuador,23,2
+EGY,Egypt,5,1
+ERI,Eritrea,1,0
+ESP,Spain,25,1
+EST,Estonia,2,0
+ETH,Ethiopia,22,4
+FIN,Finland,0,0
+FRA,France,44,7
+GAB,Gabon,1,0
+GBR,United Kingdom of Great Britain and Northern Ireland (the),23,3
+GEO,Georgia,11,1
+GHA,Ghana,19,2
+GIN,Guinea,10,1
+GLP,Guadeloupe,1,0
+GMB,Gambia (the),6,0
+GNB,Guinea-Bissau,1,0
+GNQ,Equatorial Guinea,0,0
+GRC,Greece,17,3
+GRD,Grenada,0,0
+GTM,Guatemala,42,5
+GUF,French Guiana,1,1
+GUY,Guyana,2,0
+HKG,Hong Kong,3,0
+HND,Honduras,20,4
+HRV,Croatia,12,2
+HTI,Haiti,36,1
+HUN,Hungary,9,0
+IDN,Indonesia,153,29
+IMN,Isle of Man,1,1
+IND,India,155,11
+IRL,Ireland,6,1
+IRN,Iran (Islamic Republic of),39,9
+IRQ,Iraq,9,1
+ISL,Iceland,0,0
+ISR,Israel,6,2
+ITA,Italy,46,7
+JAM,Jamaica,4,0
+JOR,Jordan,2,0
+JPN,Japan,82,4
+KAZ,Kazakhstan,8,1
+KEN,Kenya,30,1
+KGZ,Kyrgyzstan,7,0
+KHM,Cambodia,11,2
+KNA,Saint Kitts and Nevis,1,0
+KOR,Korea (the Republic of),24,5
+KWT,Kuwait,1,0
+LAO,Lao People's Democratic Republic (the),17,2
+LBN,Lebanon,6,1
+LBR,Liberia,2,0
+LBY,Libya,2,0
+LCA,Saint Lucia,3,1
+LKA,Sri Lanka,39,3
+LSO,Lesotho,7,1
+LTU,Lithuania,4,0
+LUX,Luxembourg,1,0
+LVA,Latvia,2,0
+MAC,Macao,2,0
+MAF,Saint Martin (French Part),1,0
+MAR,Morocco,11,0
+MDA,Moldova (the Republic of),3,0
+MDG,Madagascar,25,3
+MDV,Maldives,2,0
+MEX,Mexico,64,8
+MKD,Macedonia (the former Yugoslav Republic of),8,0
+MLI,Mali,12,1
+MMR,Myanmar,33,2
+MNE,Montenegro,2,0
+MNG,Mongolia,13,4
+MOZ,Mozambique,30,3
+MRT,Mauritania,9,3
+MSR,Montserrat,0,0
+MTQ,Martinique,2,0
+MUS,Mauritius,2,0
+MWI,Malawi,22,1
+MYS,Malaysia,26,5
+NAM,Namibia,9,1
+NER,Niger (the),31,3
+NGA,Nigeria,37,5
+NIC,Nicaragua,16,2
+NLD,Netherlands (the),9,1
+NOR,Norway,3,1
+NPL,Nepal,33,1
+OMN,Oman,8,1
+PAK,Pakistan,61,7
+PAN,Panama,14,3
+PER,Peru,43,4
+PHL,Philippines (the),165,9
+POL,Poland,18,2
+PRI,Puerto Rico,11,3
+PRK,Korea (the Democratic People's Republic of),19,1
+PRT,Portugal,13,0
+PRY,Paraguay,21,1
+PSE,"Palestine, State of",6,1
+QAT,Qatar,1,0
+REU,Réunion,2,0
+ROU,Romania,14,1
+RUS,Russian Federation (the),29,0
+RWA,Rwanda,18,5
+SAU,Saudi Arabia,14,1
+SCG,Serbia Montenegro,0,0
+SDN,Sudan (the),21,1
+SEN,Senegal,10,1
+SGP,Singapore,1,0
+SHN,"Saint Helena, Ascension and Tristan da Cunha",0,0
+SLE,Sierra Leone,8,0
+SLV,El Salvador,16,4
+SOM,Somalia,26,3
+SPI,Canary Is,0,0
+SRB,Serbia,16,1
+SSD,South Sudan,17,1
+STP,Sao Tome and Principe,0,0
+SUN,Soviet Union,0,0
+SUR,Suriname,0,0
+SVK,Slovakia,5,1
+SVN,Slovenia,4,1
+SWE,Sweden,3,1
+SWZ,Swaziland,3,0
+SXM,Sint Maarten (Dutch part),1,0
+SYC,Seychelles,3,0
+SYR,Syrian Arab Republic,4,1
+TCA,Turks and Caicos Islands (the),1,0
+TCD,Chad,13,2
+TGO,Togo,4,1
+THA,Thailand,41,7
+TJK,Tajikistan,20,1
+TKM,Turkmenistan,0,0
+TLS,Timor-Leste,4,1
+TTO,Trinidad and Tobago,1,0
+TUN,Tunisia,4,1
+TUR,Turkey,26,10
+TWN,Taiwan (Province of China),24,1
+TZA,"Tanzania, United Republic of",28,4
+UGA,Uganda,33,6
+UKR,Ukraine,11,3
+URY,Uruguay,11,2
+USA,United States of America (the),240,23
+UZB,Uzbekistan,2,1
+VCT,Saint Vincent and the Grenadines,5,1
+VEN,Venezuela (Bolivarian Republic of),10,1
+VGB,Virgin Island (British),2,0
+VIR,Virgin Island (U.S.),2,0
+VNM,Viet Nam,71,11
+YEM,Yemen,22,5
+YMD,Yemen P Dem Rep,0,0
+YMN,Yemen Arab Rep,0,0
+YUG,Yugoslavia,0,0
+ZAF,South Africa,25,2
+ZMB,Zambia,10,3
+ZWE,Zimbabwe,14,0
