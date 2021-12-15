@@ -1,0 +1,5084 @@
+,Year,ISO,Country,Count
+0,1950,ATG,Antigua and Barbuda,1
+1,1950,CAN,Canada,2
+2,1950,CHN,China,1
+3,1950,COL,Colombia,1
+4,1950,ECU,Ecuador,1
+5,1950,IDN,Indonesia,1
+6,1950,IND,India,4
+7,1950,IRN,Iran ,2
+8,1950,JPN,Japan,3
+9,1950,PAK,Pakistan,1
+10,1950,PER,Peru,2
+11,1950,PHL,Philippines ,1
+12,1950,SDN,Sudan ,1
+13,1950,TUR,Turkey,1
+14,1950,USA,United States of America ,4
+15,1950,VEN,Venezuela ,1
+16,1951,BGD,Bangladesh,1
+17,1951,CHE,Switzerland,1
+18,1951,CHN,China,2
+19,1951,COM,Comoros ,1
+20,1951,IDN,Indonesia,1
+21,1951,IRN,Iran ,1
+22,1951,ITA,Italy,2
+23,1951,JAM,Jamaica,1
+24,1951,JPN,Japan,2
+25,1951,MAR,Morocco,1
+26,1951,MEX,Mexico,1
+27,1951,NIC,Nicaragua,1
+28,1951,PHL,Philippines ,4
+29,1951,SLV,El Salvador,1
+30,1951,TUR,Turkey,1
+31,1951,TWN,Taiwan ,3
+32,1951,USA,United States of America ,3
+33,1952,AUT,Austria,1
+34,1952,CHN,China,2
+35,1952,CRI,Costa Rica,1
+36,1952,DZA,Algeria,1
+37,1952,GBR,United Kingdom of Great Britain and Northern Ireland ,2
+38,1952,HTI,Haiti,1
+39,1952,IND,India,2
+40,1952,JPN,Japan,4
+41,1952,MEX,Mexico,2
+42,1952,PHL,Philippines ,2
+43,1952,SUN,Soviet Union,1
+44,1952,TUR,Turkey,3
+45,1952,USA,United States of America ,5
+46,1952,ZAF,South Africa,1
+47,1953,BEL,Belgium,1
+48,1953,CAN,Canada,1
+49,1953,CHL,Chile,2
+50,1953,CYP,Cyprus,1
+51,1953,DFR,Germany Fed Rep,1
+52,1953,ECU,Ecuador,1
+53,1953,ESP,Spain,1
+54,1953,GRC,Greece,1
+55,1953,IDN,Indonesia,1
+56,1953,IND,India,2
+57,1953,IRN,Iran ,5
+58,1953,ITA,Italy,1
+59,1953,JPN,Japan,5
+60,1953,NLD,Netherlands ,1
+61,1953,PAK,Pakistan,1
+62,1953,PER,Peru,1
+63,1953,TUR,Turkey,2
+64,1953,TWN,Taiwan ,1
+65,1953,USA,United States of America ,6
+66,1953,VNM,Viet Nam,1
+67,1954,AFG,Afghanistan,1
+68,1954,ANT,Netherlands Antilles,1
+69,1954,AUT,Austria,2
+70,1954,CAN,Canada,1
+71,1954,CHN,China,2
+72,1954,COL,Colombia,2
+73,1954,DZA,Algeria,1
+74,1954,EGY,Egypt,1
+75,1954,GRC,Greece,2
+76,1954,HTI,Haiti,2
+77,1954,IDN,Indonesia,1
+78,1954,IND,India,1
+79,1954,IRN,Iran ,1
+80,1954,IRQ,Iraq,1
+81,1954,ITA,Italy,1
+82,1954,JPN,Japan,4
+83,1954,MAR,Morocco,1
+84,1954,MEX,Mexico,1
+85,1954,NPL,Nepal,1
+86,1954,PAK,Pakistan,2
+87,1954,PHL,Philippines ,1
+88,1954,USA,United States of America ,3
+89,1955,AIA,Anguilla,1
+90,1955,BLZ,Belize,1
+91,1955,BRB,Barbados,1
+92,1955,CAN,Canada,1
+93,1955,CHN,China,1
+94,1955,CRI,Costa Rica,1
+95,1955,EGY,Egypt,1
+96,1955,GRC,Greece,1
+97,1955,IDN,Indonesia,1
+98,1955,IND,India,3
+99,1955,JPN,Japan,3
+100,1955,KNA,Saint Kitts and Nevis,1
+101,1955,LBN,Lebanon,1
+102,1955,MEX,Mexico,2
+103,1955,PAK,Pakistan,1
+104,1955,PHL,Philippines ,3
+105,1955,USA,United States of America ,6
+106,1955,VCT,Saint Vincent and the Grenadines,1
+107,1956,AFG,Afghanistan,2
+108,1956,BEL,Belgium,1
+109,1956,BRA,Brazil,2
+110,1956,CHN,China,2
+111,1956,ESP,Spain,1
+112,1956,GLP,Guadeloupe,1
+113,1956,GRC,Greece,1
+114,1956,IDN,Indonesia,1
+115,1956,IND,India,6
+116,1956,IRN,Iran ,2
+117,1956,JPN,Japan,3
+118,1956,KOR,Korea ,1
+119,1956,LBN,Lebanon,1
+120,1956,MOZ,Mozambique,1
+121,1956,PAK,Pakistan,1
+122,1956,PHL,Philippines ,2
+123,1956,SUN,Soviet Union,1
+124,1956,TUR,Turkey,1
+125,1956,USA,United States of America ,4
+126,1956,VNM,Viet Nam,1
+127,1957,BRA,Brazil,1
+128,1957,CHN,China,1
+129,1957,ESP,Spain,1
+130,1957,HKG,Hong Kong,1
+131,1957,IND,India,3
+132,1957,IRN,Iran ,4
+133,1957,JPN,Japan,2
+134,1957,KOR,Korea ,2
+135,1957,LKA,Sri Lanka,1
+136,1957,MEX,Mexico,1
+137,1957,MNG,Mongolia,1
+138,1957,PAK,Pakistan,1
+139,1957,PHL,Philippines ,1
+140,1957,SPI,Canary Is,1
+141,1957,TUN,Tunisia,1
+142,1957,TUR,Turkey,2
+143,1957,USA,United States of America ,3
+144,1958,ARG,Argentina,1
+145,1958,BGD,Bangladesh,2
+146,1958,CHL,Chile,1
+147,1958,COL,Colombia,1
+148,1958,FRA,France,1
+149,1958,IDN,Indonesia,1
+150,1958,IND,India,4
+151,1958,IRN,Iran ,1
+152,1958,JPN,Japan,4
+153,1958,PER,Peru,1
+154,1958,TWN,Taiwan ,1
+155,1958,USA,United States of America ,4
+156,1959,BRA,Brazil,2
+157,1959,CAN,Canada,1
+158,1959,CHN,China,4
+159,1959,COL,Colombia,1
+160,1959,HKG,Hong Kong,1
+161,1959,HTI,Haiti,1
+162,1959,IND,India,3
+163,1959,JPN,Japan,4
+164,1959,KOR,Korea ,2
+165,1959,MEX,Mexico,3
+166,1959,PAK,Pakistan,2
+167,1959,PHL,Philippines ,1
+168,1959,TWN,Taiwan ,2
+169,1959,USA,United States of America ,2
+170,1959,ZAF,South Africa,1
+171,1960,AIA,Anguilla,1
+172,1960,ANT,Netherlands Antilles,1
+173,1960,ATG,Antigua and Barbuda,1
+174,1960,BGD,Bangladesh,3
+175,1960,CHL,Chile,1
+176,1960,DZA,Algeria,1
+177,1960,HKG,Hong Kong,3
+178,1960,IND,India,4
+179,1960,IRN,Iran ,1
+180,1960,ITA,Italy,1
+181,1960,JPN,Japan,2
+182,1960,LCA,Saint Lucia,1
+183,1960,MAR,Morocco,1
+184,1960,MTQ,Martinique,1
+185,1960,MUS,Mauritius,1
+186,1960,NIC,Nicaragua,1
+187,1960,PER,Peru,1
+188,1960,PHL,Philippines ,8
+189,1960,PRI,Puerto Rico,1
+190,1960,TWN,Taiwan ,1
+191,1960,USA,United States of America ,2
+192,1961,BGD,Bangladesh,3
+193,1961,BLZ,Belize,1
+194,1961,CAN,Canada,1
+195,1961,ETH,Ethiopia,1
+196,1961,FRA,France,1
+197,1961,GRC,Greece,1
+198,1961,HKG,Hong Kong,2
+199,1961,HND,Honduras,1
+200,1961,IND,India,5
+201,1961,IRN,Iran ,1
+202,1961,JPN,Japan,4
+203,1961,KOR,Korea ,1
+204,1961,MEX,Mexico,1
+205,1961,SOM,Somalia,1
+206,1961,SUN,Soviet Union,1
+207,1961,TWN,Taiwan ,1
+208,1961,USA,United States of America ,2
+209,1962,ALB,Albania,1
+210,1962,CAN,Canada,1
+211,1962,COL,Colombia,2
+212,1962,DFR,Germany Fed Rep,1
+213,1962,ESP,Spain,1
+214,1962,HKG,Hong Kong,1
+215,1962,HTI,Haiti,1
+216,1962,IND,India,3
+217,1962,IRN,Iran ,1
+218,1962,ITA,Italy,1
+219,1962,JPN,Japan,1
+220,1962,KOR,Korea ,1
+221,1962,MEX,Mexico,1
+222,1962,PER,Peru,3
+223,1962,PHL,Philippines ,2
+224,1962,THA,Thailand,1
+225,1962,TUN,Tunisia,1
+226,1962,TWN,Taiwan ,1
+227,1962,USA,United States of America ,3
+228,1962,VEN,Venezuela ,1
+229,1963,AFG,Afghanistan,1
+230,1963,BEL,Belgium,1
+231,1963,BGD,Bangladesh,3
+232,1963,BHS,Bahamas ,1
+233,1963,CRI,Costa Rica,1
+234,1963,CUB,Cuba,1
+235,1963,DMA,Dominica,1
+236,1963,DOM,Dominican Republic ,1
+237,1963,DZA,Algeria,1
+238,1963,GRD,Grenada,1
+239,1963,HTI,Haiti,3
+240,1963,IDN,Indonesia,2
+241,1963,IND,India,3
+242,1963,ITA,Italy,1
+243,1963,JAM,Jamaica,1
+244,1963,JOR,Jordan,1
+245,1963,JPN,Japan,3
+246,1963,KOR,Korea ,1
+247,1963,LBY,Libya,1
+248,1963,LCA,Saint Lucia,1
+249,1963,MAR,Morocco,2
+250,1963,MMR,Myanmar,2
+251,1963,MTQ,Martinique,1
+252,1963,NPL,Nepal,2
+253,1963,PHL,Philippines ,1
+254,1963,PRY,Paraguay,1
+255,1963,TTO,Trinidad and Tobago,1
+256,1963,TWN,Taiwan ,1
+257,1963,USA,United States of America ,3
+258,1963,YUG,Yugoslavia,1
+259,1964,AZO,Azores Islands,1
+260,1964,BGD,Bangladesh,2
+261,1964,BRA,Brazil,3
+262,1964,CHL,Chile,1
+263,1964,CHN,China,1
+264,1964,CUB,Cuba,1
+265,1964,DOM,Dominican Republic ,1
+266,1964,ECU,Ecuador,1
+267,1964,GLP,Guadeloupe,1
+268,1964,HKG,Hong Kong,2
+269,1964,HTI,Haiti,1
+270,1964,IND,India,7
+271,1964,IRN,Iran ,1
+272,1964,JPN,Japan,4
+273,1964,KEN,Kenya,1
+274,1964,KOR,Korea ,1
+275,1964,LKA,Sri Lanka,1
+276,1964,MAR,Morocco,1
+277,1964,MEX,Mexico,1
+278,1964,NPL,Nepal,1
+279,1964,PAK,Pakistan,2
+280,1964,PAN,Panama,2
+281,1964,PHL,Philippines ,2
+282,1964,SAU,Saudi Arabia,1
+283,1964,SOM,Somalia,1
+284,1964,TUN,Tunisia,2
+285,1964,TUR,Turkey,4
+286,1964,TWN,Taiwan ,1
+287,1964,TZA,Tanzania,2
+288,1964,USA,United States of America ,6
+289,1964,VNM,Viet Nam,3
+290,1964,YUG,Yugoslavia,1
+291,1964,ZAF,South Africa,1
+292,1965,ARG,Argentina,1
+293,1965,BGD,Bangladesh,3
+294,1965,BGR,Bulgaria,1
+295,1965,BHS,Bahamas ,1
+296,1965,BOL,Bolivia ,1
+297,1965,BRA,Brazil,2
+298,1965,BWA,Botswana,1
+299,1965,CAN,Canada,1
+300,1965,CHE,Switzerland,1
+301,1965,CHL,Chile,4
+302,1965,CHN,China,1
+303,1965,COL,Colombia,1
+304,1965,DOM,Dominican Republic ,1
+305,1965,DZA,Algeria,1
+306,1965,ECU,Ecuador,1
+307,1965,ETH,Ethiopia,1
+308,1965,GRC,Greece,2
+309,1965,HKG,Hong Kong,1
+310,1965,HND,Honduras,3
+311,1965,IDN,Indonesia,1
+312,1965,IND,India,2
+313,1965,IRN,Iran ,2
+314,1965,ITA,Italy,2
+315,1965,JOR,Jordan,1
+316,1965,JPN,Japan,5
+317,1965,KEN,Kenya,1
+318,1965,KOR,Korea ,1
+319,1965,MAR,Morocco,2
+320,1965,MEX,Mexico,1
+321,1965,MMR,Myanmar,2
+322,1965,MRT,Mauritania,1
+323,1965,MYS,Malaysia,1
+324,1965,PAK,Pakistan,1
+325,1965,PER,Peru,1
+326,1965,PHL,Philippines ,2
+327,1965,PRY,Paraguay,1
+328,1965,SDN,Sudan ,1
+329,1965,SEN,Senegal,1
+330,1965,SLV,El Salvador,1
+331,1965,SOM,Somalia,1
+332,1965,TUR,Turkey,1
+333,1965,TWN,Taiwan ,2
+334,1965,USA,United States of America ,3
+335,1965,YUG,Yugoslavia,1
+336,1966,ARG,Argentina,1
+337,1966,ATG,Antigua and Barbuda,1
+338,1966,BEL,Belgium,1
+339,1966,BFA,Burkina Faso,1
+340,1966,BGD,Bangladesh,2
+341,1966,BHS,Bahamas ,2
+342,1966,BOL,Bolivia ,2
+343,1966,BRA,Brazil,5
+344,1966,CAN,Canada,1
+345,1966,CHL,Chile,1
+346,1966,COD,Congo ,1
+347,1966,CUB,Cuba,1
+348,1966,DOM,Dominican Republic ,1
+349,1966,DZA,Algeria,1
+350,1966,ECU,Ecuador,1
+351,1966,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+352,1966,GLP,Guadeloupe,1
+353,1966,GRC,Greece,2
+354,1966,HKG,Hong Kong,4
+355,1966,HTI,Haiti,1
+356,1966,IDN,Indonesia,4
+357,1966,IND,India,3
+358,1966,IRN,Iran ,1
+359,1966,ITA,Italy,1
+360,1966,JOR,Jordan,1
+361,1966,JPN,Japan,2
+362,1966,KOR,Korea ,1
+363,1966,LAO,Lao People's Democratic Republic ,1
+364,1966,LKA,Sri Lanka,1
+365,1966,MAR,Morocco,2
+366,1966,MEX,Mexico,1
+367,1966,MLI,Mali,1
+368,1966,MNG,Mongolia,1
+369,1966,NER,Niger ,1
+370,1966,NPL,Nepal,1
+371,1966,PAN,Panama,1
+372,1966,PER,Peru,2
+373,1966,PHL,Philippines ,1
+374,1966,PRT,Portugal,1
+375,1966,PRY,Paraguay,1
+376,1966,SDN,Sudan ,1
+377,1966,SEN,Senegal,2
+378,1966,SUN,Soviet Union,1
+379,1966,TCD,Chad,1
+380,1966,TGO,Togo,1
+381,1966,THA,Thailand,1
+382,1966,TUR,Turkey,4
+383,1966,TWN,Taiwan ,1
+384,1966,UGA,Uganda,1
+385,1966,USA,United States of America ,6
+386,1966,VNM,Viet Nam,1
+387,1967,ALB,Albania,1
+388,1967,ARG,Argentina,1
+389,1967,BEL,Belgium,1
+390,1967,BGD,Bangladesh,2
+391,1967,BRA,Brazil,5
+392,1967,CHN,China,1
+393,1967,COG,Congo ,1
+394,1967,COL,Colombia,2
+395,1967,DZA,Algeria,2
+396,1967,ECU,Ecuador,2
+397,1967,FRA,France,2
+398,1967,GRC,Greece,1
+399,1967,HKG,Hong Kong,2
+400,1967,IDN,Indonesia,7
+401,1967,IND,India,4
+402,1967,IRQ,Iraq,1
+403,1967,JPN,Japan,4
+404,1967,KOR,Korea ,1
+405,1967,LCA,Saint Lucia,1
+406,1967,LKA,Sri Lanka,2
+407,1967,MEX,Mexico,3
+408,1967,MMR,Myanmar,2
+409,1967,MOZ,Mozambique,1
+410,1967,MTQ,Martinique,1
+411,1967,MUS,Mauritius,1
+412,1967,MWI,Malawi,1
+413,1967,MYS,Malaysia,1
+414,1967,NIC,Nicaragua,1
+415,1967,NPL,Nepal,2
+416,1967,PAK,Pakistan,1
+417,1967,PER,Peru,1
+418,1967,PHL,Philippines ,1
+419,1967,PRT,Portugal,1
+420,1967,SYR,Syrian Arab Republic,1
+421,1967,TUR,Turkey,2
+422,1967,TWN,Taiwan ,1
+423,1967,TZA,"Tanzania, United Republic of",1
+424,1967,UGA,Uganda,1
+425,1967,URY,Uruguay,1
+426,1967,USA,United States of America ,5
+427,1967,VCT,Saint Vincent and the Grenadines,1
+428,1967,VEN,Venezuela ,2
+429,1967,YUG,Yugoslavia,1
+430,1968,BGD,Bangladesh,2
+431,1968,BOL,Bolivia ,1
+432,1968,BRA,Brazil,1
+433,1968,BWA,Botswana,1
+434,1968,CHE,Switzerland,1
+435,1968,CHL,Chile,2
+436,1968,COD,Congo ,1
+437,1968,COL,Colombia,1
+438,1968,CRI,Costa Rica,1
+439,1968,CUB,Cuba,1
+440,1968,DFR,Germany Fed Rep,1
+441,1968,DOM,Dominican Republic ,1
+442,1968,ETH,Ethiopia,1
+443,1968,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+444,1968,GHA,Ghana,1
+445,1968,GMB,Gambia ,1
+446,1968,GRC,Greece,1
+447,1968,HKG,Hong Kong,4
+448,1968,HTI,Haiti,1
+449,1968,IDN,Indonesia,3
+450,1968,IND,India,6
+451,1968,IRN,Iran ,4
+452,1968,IRQ,Iraq,1
+453,1968,ITA,Italy,2
+454,1968,JAM,Jamaica,1
+455,1968,JPN,Japan,4
+456,1968,KEN,Kenya,1
+457,1968,KOR,Korea ,1
+458,1968,LAO,Lao People's Democratic Republic ,1
+459,1968,LSO,Lesotho,1
+460,1968,MDG,Madagascar,1
+461,1968,MEX,Mexico,3
+462,1968,MMR,Myanmar,1
+463,1968,MYS,Malaysia,2
+464,1968,NIC,Nicaragua,2
+465,1968,NPL,Nepal,1
+466,1968,PAK,Pakistan,1
+467,1968,PER,Peru,1
+468,1968,PHL,Philippines ,5
+469,1968,TUR,Turkey,3
+470,1968,TZA,"Tanzania, United Republic of",1
+471,1968,USA,United States of America ,3
+472,1968,YUG,Yugoslavia,1
+473,1968,ZAF,South Africa,1
+474,1969,AFG,Afghanistan,1
+475,1969,BEN,Benin,1
+476,1969,BFA,Burkina Faso,3
+477,1969,BGD,Bangladesh,1
+478,1969,BOL,Bolivia ,2
+479,1969,BRA,Brazil,1
+480,1969,CHN,China,2
+481,1969,COL,Colombia,1
+482,1969,CPV,Cabo Verde,1
+483,1969,CRI,Costa Rica,1
+484,1969,CYP,Cyprus,1
+485,1969,DZA,Algeria,1
+486,1969,ECU,Ecuador,1
+487,1969,EGY,Egypt,1
+488,1969,ETH,Ethiopia,2
+489,1969,FRA,France,1
+490,1969,GMB,Gambia ,1
+491,1969,GNB,Guinea-Bissau,1
+492,1969,GTM,Guatemala,2
+493,1969,HKG,Hong Kong,4
+494,1969,HND,Honduras,2
+495,1969,IDN,Indonesia,2
+496,1969,IND,India,4
+497,1969,IRN,Iran ,2
+498,1969,IRQ,Iraq,1
+499,1969,JPN,Japan,1
+500,1969,KOR,Korea ,3
+501,1969,LAO,Lao People's Democratic Republic ,1
+502,1969,LKA,Sri Lanka,1
+503,1969,MAR,Morocco,1
+504,1969,MDG,Madagascar,1
+505,1969,MEX,Mexico,2
+506,1969,MLI,Mali,2
+507,1969,MRT,Mauritania,1
+508,1969,MWI,Malawi,1
+509,1969,NER,Niger ,1
+510,1969,NGA,Nigeria,1
+511,1969,NIC,Nicaragua,1
+512,1969,PER,Peru,2
+513,1969,PHL,Philippines ,2
+514,1969,PRT,Portugal,1
+515,1969,SEN,Senegal,1
+516,1969,SLV,El Salvador,2
+517,1969,SOM,Somalia,1
+518,1969,SUR,Suriname,1
+519,1969,TCD,Chad,1
+520,1969,TUN,Tunisia,1
+521,1969,TUR,Turkey,1
+522,1969,TWN,Taiwan ,2
+523,1969,USA,United States of America ,7
+524,1969,YMN,Yemen Arab Rep,1
+525,1969,YUG,Yugoslavia,1
+526,1969,ZAF,South Africa,1
+527,1970,ARG,Argentina,1
+528,1970,BEN,Benin,1
+529,1970,BGD,Bangladesh,4
+530,1970,BRA,Brazil,2
+531,1970,BRB,Barbados,1
+532,1970,BWA,Botswana,1
+533,1970,CAN,Canada,1
+534,1970,CHE,Switzerland,1
+535,1970,CHN,China,2
+536,1970,CIV,Côte d’Ivoire,1
+537,1970,COL,Colombia,4
+538,1970,CRI,Costa Rica,2
+539,1970,CUB,Cuba,1
+540,1970,CYP,Cyprus,1
+541,1970,DMA,Dominica,1
+542,1970,ECU,Ecuador,3
+543,1970,ETH,Ethiopia,1
+544,1970,FRA,France,2
+545,1970,GLP,Guadeloupe,1
+546,1970,HKG,Hong Kong,4
+547,1970,HUN,Hungary,1
+548,1970,IDN,Indonesia,1
+549,1970,IND,India,4
+550,1970,IRN,Iran ,2
+551,1970,ISR,Israel,1
+552,1970,ITA,Italy,2
+553,1970,KOR,Korea ,2
+554,1970,MAR,Morocco,1
+555,1970,MDG,Madagascar,1
+556,1970,MEX,Mexico,1
+557,1970,MMR,Myanmar,1
+558,1970,MTQ,Martinique,1
+559,1970,MYS,Malaysia,1
+560,1970,NER,Niger ,1
+561,1970,NPL,Nepal,2
+562,1970,PAN,Panama,2
+563,1970,PER,Peru,4
+564,1970,PHL,Philippines ,9
+565,1970,PRI,Puerto Rico,1
+566,1970,ROU,Romania,1
+567,1970,TUR,Turkey,2
+568,1970,USA,United States of America ,3
+569,1970,VNM,Viet Nam,1
+570,1971,AFG,Afghanistan,2
+571,1971,BEL,Belgium,1
+572,1971,BGD,Bangladesh,1
+573,1971,BRA,Brazil,2
+574,1971,CAN,Canada,2
+575,1971,CHL,Chile,2
+576,1971,CMR,Cameroon,1
+577,1971,COL,Colombia,3
+578,1971,ECU,Ecuador,2
+579,1971,ESP,Spain,2
+580,1971,GHA,Ghana,1
+581,1971,GUY,Guyana,1
+582,1971,HKG,Hong Kong,3
+583,1971,HND,Honduras,1
+584,1971,IDN,Indonesia,1
+585,1971,IND,India,5
+586,1971,ITA,Italy,1
+587,1971,JPN,Japan,1
+588,1971,KEN,Kenya,1
+589,1971,KOR,Korea ,2
+590,1971,LAO,Lao People's Democratic Republic ,1
+591,1971,MAR,Morocco,1
+592,1971,MEX,Mexico,1
+593,1971,MOZ,Mozambique,1
+594,1971,NIC,Nicaragua,2
+595,1971,PER,Peru,2
+596,1971,PHL,Philippines ,4
+597,1971,PRY,Paraguay,1
+598,1971,TCD,Chad,1
+599,1971,TGO,Togo,1
+600,1971,TUR,Turkey,2
+601,1971,USA,United States of America ,3
+602,1971,VCT,Saint Vincent and the Grenadines,1
+603,1971,VEN,Venezuela ,1
+604,1971,VNM,Viet Nam,2
+605,1972,AFG,Afghanistan,2
+606,1972,ARG,Argentina,1
+607,1972,BEL,Belgium,1
+608,1972,BGD,Bangladesh,2
+609,1972,BWA,Botswana,1
+610,1972,COL,Colombia,1
+611,1972,DFR,Germany Fed Rep,1
+612,1972,ESP,Spain,1
+613,1972,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+614,1972,HKG,Hong Kong,6
+615,1972,HND,Honduras,1
+616,1972,HTI,Haiti,1
+617,1972,IDN,Indonesia,1
+618,1972,IND,India,4
+619,1972,IRN,Iran ,2
+620,1972,ITA,Italy,2
+621,1972,JPN,Japan,3
+622,1972,KOR,Korea ,2
+623,1972,MDG,Madagascar,1
+624,1972,MEX,Mexico,1
+625,1972,MUS,Mauritius,1
+626,1972,NIC,Nicaragua,1
+627,1972,NLD,Netherlands ,1
+628,1972,NPL,Nepal,2
+629,1972,PAK,Pakistan,1
+630,1972,PAN,Panama,1
+631,1972,PER,Peru,1
+632,1972,PHL,Philippines ,4
+633,1972,TUR,Turkey,1
+634,1972,USA,United States of America ,5
+635,1972,YMD,Yemen P Dem Rep,1
+636,1972,YUG,Yugoslavia,1
+637,1973,ARG,Argentina,1
+638,1973,BGD,Bangladesh,5
+639,1973,BRA,Brazil,1
+640,1973,CAF,Central African Republic,1
+641,1973,CHN,China,1
+642,1973,COL,Colombia,3
+643,1973,CRI,Costa Rica,2
+644,1973,DZA,Algeria,1
+645,1973,ECU,Ecuador,2
+646,1973,ESP,Spain,2
+647,1973,ETH,Ethiopia,1
+648,1973,GMB,Gambia ,1
+649,1973,GTM,Guatemala,1
+650,1973,HKG,Hong Kong,3
+651,1973,HND,Honduras,1
+652,1973,IDN,Indonesia,1
+653,1973,IND,India,2
+654,1973,ISL,Iceland,1
+655,1973,ITA,Italy,3
+656,1973,JAM,Jamaica,1
+657,1973,JPN,Japan,2
+658,1973,MEX,Mexico,4
+659,1973,PAK,Pakistan,1
+660,1973,PAN,Panama,1
+661,1973,PER,Peru,1
+662,1973,PHL,Philippines ,5
+663,1973,PRT,Portugal,1
+664,1973,SOM,Somalia,1
+665,1973,TUN,Tunisia,2
+666,1973,USA,United States of America ,7
+667,1973,VNM,Viet Nam,1
+668,1973,YMN,Yemen Arab Rep,1
+669,1974,ARG,Argentina,1
+670,1974,BGD,Bangladesh,5
+671,1974,BLZ,Belize,1
+672,1974,BOL,Bolivia ,1
+673,1974,BRA,Brazil,4
+674,1974,CAN,Canada,2
+675,1974,CHL,Chile,1
+676,1974,CHN,China,1
+677,1974,COL,Colombia,3
+678,1974,CSK,Czechoslovakia,1
+679,1974,DFR,Germany Fed Rep,1
+680,1974,DZA,Algeria,1
+681,1974,HKG,Hong Kong,5
+682,1974,HND,Honduras,1
+683,1974,HTI,Haiti,1
+684,1974,IDN,Indonesia,1
+685,1974,IND,India,4
+686,1974,ISL,Iceland,1
+687,1974,JPN,Japan,5
+688,1974,LKA,Sri Lanka,1
+689,1974,LSO,Lesotho,1
+690,1974,MEX,Mexico,1
+691,1974,MMR,Myanmar,1
+692,1974,NER,Niger ,1
+693,1974,PAK,Pakistan,1
+694,1974,PER,Peru,3
+695,1974,PHL,Philippines ,9
+696,1974,RWA,Rwanda,1
+697,1974,SUN,Soviet Union,1
+698,1974,SYR,Syrian Arab Republic,1
+699,1974,TTO,Trinidad and Tobago,1
+700,1974,TUR,Turkey,1
+701,1974,TZA,"Tanzania, United Republic of",1
+702,1974,USA,United States of America ,2
+703,1974,YMN,Yemen Arab Rep,1
+704,1974,ZAF,South Africa,1
+705,1975,ARG,Argentina,1
+706,1975,AUT,Austria,1
+707,1975,BRA,Brazil,4
+708,1975,CAN,Canada,2
+709,1975,CHE,Switzerland,1
+710,1975,CHN,China,2
+711,1975,CRI,Costa Rica,1
+712,1975,ECU,Ecuador,2
+713,1975,EGY,Egypt,1
+714,1975,GRD,Grenada,1
+715,1975,HKG,Hong Kong,5
+716,1975,IND,India,7
+717,1975,IRN,Iran ,1
+718,1975,ITA,Italy,1
+719,1975,JPN,Japan,2
+720,1975,KEN,Kenya,1
+721,1975,MAR,Morocco,1
+722,1975,MDG,Madagascar,1
+723,1975,MEX,Mexico,1
+724,1975,MMR,Myanmar,1
+725,1975,MOZ,Mozambique,2
+726,1975,MUS,Mauritius,1
+727,1975,NPL,Nepal,1
+728,1975,PAK,Pakistan,1
+729,1975,PHL,Philippines ,3
+730,1975,PRI,Puerto Rico,1
+731,1975,ROU,Romania,1
+732,1975,SDN,Sudan ,1
+733,1975,SLE,Sierra Leone,1
+734,1975,THA,Thailand,1
+735,1975,TUR,Turkey,1
+736,1975,USA,United States of America ,5
+737,1975,YMD,Yemen P Dem Rep,1
+738,1975,YMN,Yemen Arab Rep,1
+739,1975,ZWE,Zimbabwe,1
+740,1976,AFG,Afghanistan,2
+741,1976,AUT,Austria,1
+742,1976,BEL,Belgium,2
+743,1976,BEN,Benin,1
+744,1976,BFA,Burkina Faso,1
+745,1976,BGD,Bangladesh,3
+746,1976,CAN,Canada,1
+747,1976,CHE,Switzerland,1
+748,1976,CHN,China,2
+749,1976,COD,Congo ,1
+750,1976,COL,Colombia,2
+751,1976,CRI,Costa Rica,2
+752,1976,CUB,Cuba,1
+753,1976,DFR,Germany Fed Rep,1
+754,1976,DNK,Denmark,1
+755,1976,ECU,Ecuador,4
+756,1976,ETH,Ethiopia,1
+757,1976,FRA,France,1
+758,1976,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+759,1976,GLP,Guadeloupe,1
+760,1976,GMB,Gambia ,1
+761,1976,GTM,Guatemala,1
+762,1976,HKG,Hong Kong,5
+763,1976,HND,Honduras,1
+764,1976,IDN,Indonesia,6
+765,1976,IND,India,6
+766,1976,IRN,Iran ,1
+767,1976,ISL,Iceland,1
+768,1976,ITA,Italy,3
+769,1976,JPN,Japan,2
+770,1976,KOR,Korea ,1
+771,1976,MDG,Madagascar,1
+772,1976,MEX,Mexico,2
+773,1976,MLI,Mali,1
+774,1976,MMR,Myanmar,1
+775,1976,MRT,Mauritania,1
+776,1976,NIC,Nicaragua,1
+777,1976,NLD,Netherlands ,1
+778,1976,NPL,Nepal,1
+779,1976,PAK,Pakistan,1
+780,1976,PHL,Philippines ,7
+781,1976,RWA,Rwanda,1
+782,1976,SDN,Sudan ,1
+783,1976,SEN,Senegal,1
+784,1976,SUN,Soviet Union,1
+785,1976,SWE,Sweden,1
+786,1976,TUR,Turkey,5
+787,1976,USA,United States of America ,1
+788,1977,ARG,Argentina,2
+789,1977,BFA,Burkina Faso,1
+790,1977,BGD,Bangladesh,6
+791,1977,BGR,Bulgaria,1
+792,1977,BOL,Bolivia ,2
+793,1977,BRA,Brazil,5
+794,1977,CAN,Canada,2
+795,1977,CHE,Switzerland,1
+796,1977,CHL,Chile,1
+797,1977,COD,Congo ,1
+798,1977,COL,Colombia,1
+799,1977,COM,Comoros ,1
+800,1977,CUB,Cuba,1
+801,1977,DJI,Djibouti,1
+802,1977,ECU,Ecuador,1
+803,1977,ETH,Ethiopia,2
+804,1977,FRA,France,1
+805,1977,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+806,1977,GHA,Ghana,2
+807,1977,GRC,Greece,1
+808,1977,HKG,Hong Kong,4
+809,1977,HTI,Haiti,1
+810,1977,IDN,Indonesia,8
+811,1977,IND,India,5
+812,1977,IRN,Iran ,5
+813,1977,ITA,Italy,2
+814,1977,JAM,Jamaica,1
+815,1977,JPN,Japan,6
+816,1977,KEN,Kenya,1
+817,1977,KOR,Korea ,2
+818,1977,LAO,Lao People's Democratic Republic ,1
+819,1977,LKA,Sri Lanka,3
+820,1977,MAR,Morocco,1
+821,1977,MDG,Madagascar,1
+822,1977,MEX,Mexico,1
+823,1977,MMR,Myanmar,1
+824,1977,MOZ,Mozambique,2
+825,1977,MYS,Malaysia,1
+826,1977,OMN,Oman,2
+827,1977,PAK,Pakistan,1
+828,1977,PER,Peru,3
+829,1977,PHL,Philippines ,12
+830,1977,POL,Poland,1
+831,1977,REU,Réunion,1
+832,1977,ROU,Romania,1
+833,1977,SOM,Somalia,2
+834,1977,SWE,Sweden,2
+835,1977,SYR,Syrian Arab Republic,2
+836,1977,TCD,Chad,1
+837,1977,THA,Thailand,1
+838,1977,TUN,Tunisia,1
+839,1977,TUR,Turkey,2
+840,1977,TWN,Taiwan ,3
+841,1977,TZA,"Tanzania, United Republic of",3
+842,1977,USA,United States of America ,6
+843,1977,VCT,Saint Vincent and the Grenadines,1
+844,1977,VNM,Viet Nam,1
+845,1977,YMD,Yemen P Dem Rep,1
+846,1977,YMN,Yemen Arab Rep,1
+847,1977,ZAF,South Africa,1
+848,1978,AFG,Afghanistan,1
+849,1978,ARG,Argentina,2
+850,1978,BDI,Burundi,1
+851,1978,BEN,Benin,1
+852,1978,BGD,Bangladesh,4
+853,1978,BHR,Bahrain,1
+854,1978,BLZ,Belize,1
+855,1978,BOL,Bolivia ,2
+856,1978,BRA,Brazil,2
+857,1978,CHL,Chile,1
+858,1978,CHN,China,1
+859,1978,COD,Congo ,2
+860,1978,CUB,Cuba,1
+861,1978,DFR,Germany Fed Rep,2
+862,1978,DJI,Djibouti,1
+863,1978,DOM,Dominican Republic ,1
+864,1978,ESP,Spain,1
+865,1978,ETH,Ethiopia,1
+866,1978,FRA,France,1
+867,1978,GMB,Gambia ,1
+868,1978,GNB,Guinea-Bissau,1
+869,1978,GRC,Greece,1
+870,1978,HKG,Hong Kong,6
+871,1978,HND,Honduras,1
+872,1978,IDN,Indonesia,7
+873,1978,IND,India,13
+874,1978,IRN,Iran ,3
+875,1978,IRQ,Iraq,1
+876,1978,ITA,Italy,2
+877,1978,JPN,Japan,5
+878,1978,KOR,Korea ,2
+879,1978,LAO,Lao People's Democratic Republic ,1
+880,1978,LKA,Sri Lanka,3
+881,1978,MDG,Madagascar,1
+882,1978,MDV,Maldives,1
+883,1978,MEX,Mexico,3
+884,1978,MMR,Myanmar,1
+885,1978,MOZ,Mozambique,2
+886,1978,MRT,Mauritania,1
+887,1978,MYS,Malaysia,1
+888,1978,NGA,Nigeria,1
+889,1978,NPL,Nepal,1
+890,1978,PAK,Pakistan,1
+891,1978,PAN,Panama,1
+892,1978,PER,Peru,1
+893,1978,PHL,Philippines ,16
+894,1978,RWA,Rwanda,2
+895,1978,SDN,Sudan ,1
+896,1978,SEN,Senegal,2
+897,1978,THA,Thailand,3
+898,1978,TUR,Turkey,2
+899,1978,TZA,"Tanzania, United Republic of",1
+900,1978,USA,United States of America ,5
+901,1978,VNM,Viet Nam,2
+902,1978,ZAF,South Africa,1
+903,1978,ZMB,Zambia,1
+904,1979,AIA,Anguilla,1
+905,1979,ALB,Albania,1
+906,1979,ARG,Argentina,1
+907,1979,BFA,Burkina Faso,1
+908,1979,BGD,Bangladesh,3
+909,1979,BLZ,Belize,1
+910,1979,BRA,Brazil,2
+911,1979,CAN,Canada,1
+912,1979,CHL,Chile,1
+913,1979,CHN,China,4
+914,1979,COL,Colombia,3
+915,1979,DFR,Germany Fed Rep,1
+916,1979,DMA,Dominica,1
+917,1979,DOM,Dominican Republic ,2
+918,1979,DZA,Algeria,1
+919,1979,EGY,Egypt,2
+920,1979,ESP,Spain,1
+921,1979,FRA,France,1
+922,1979,GLP,Guadeloupe,1
+923,1979,GRC,Greece,1
+924,1979,GTM,Guatemala,1
+925,1979,HKG,Hong Kong,6
+926,1979,HND,Honduras,1
+927,1979,HTI,Haiti,1
+928,1979,IDN,Indonesia,12
+929,1979,IND,India,11
+930,1979,IRN,Iran ,3
+931,1979,ITA,Italy,2
+932,1979,JAM,Jamaica,2
+933,1979,JPN,Japan,2
+934,1979,KEN,Kenya,1
+935,1979,KOR,Korea ,1
+936,1979,LKA,Sri Lanka,1
+937,1979,MAR,Morocco,1
+938,1979,MEX,Mexico,2
+939,1979,MLI,Mali,1
+940,1979,MMR,Myanmar,2
+941,1979,MOZ,Mozambique,1
+942,1979,MTQ,Martinique,1
+943,1979,MUS,Mauritius,2
+944,1979,MWI,Malawi,1
+945,1979,NIC,Nicaragua,1
+946,1979,NPL,Nepal,1
+947,1979,PAK,Pakistan,2
+948,1979,PER,Peru,1
+949,1979,PHL,Philippines ,6
+950,1979,PRI,Puerto Rico,1
+951,1979,PRT,Portugal,2
+952,1979,PRY,Paraguay,1
+953,1979,SEN,Senegal,1
+954,1979,TUN,Tunisia,1
+955,1979,TUR,Turkey,1
+956,1979,TZA,"Tanzania, United Republic of",1
+957,1979,UGA,Uganda,1
+958,1979,USA,United States of America ,4
+959,1979,VCT,Saint Vincent and the Grenadines,1
+960,1979,YUG,Yugoslavia,3
+961,1979,ZMB,Zambia,1
+962,1980,AFG,Afghanistan,1
+963,1980,ARG,Argentina,2
+964,1980,AUT,Austria,1
+965,1980,AZO,Azores Islands,1
+966,1980,BEN,Benin,1
+967,1980,BFA,Burkina Faso,1
+968,1980,BGD,Bangladesh,2
+969,1980,BOL,Bolivia ,1
+970,1980,BRA,Brazil,3
+971,1980,BRB,Barbados,1
+972,1980,CAN,Canada,1
+973,1980,CHN,China,5
+974,1980,CIV,Côte d’Ivoire,1
+975,1980,COL,Colombia,1
+976,1980,CPV,Cabo Verde,1
+977,1980,CRI,Costa Rica,1
+978,1980,CUB,Cuba,1
+979,1980,DJI,Djibouti,1
+980,1980,DMA,Dominica,1
+981,1980,DNK,Denmark,1
+982,1980,DOM,Dominican Republic ,1
+983,1980,DZA,Algeria,1
+984,1980,ECU,Ecuador,1
+985,1980,ESP,Spain,1
+986,1980,ETH,Ethiopia,1
+987,1980,FRA,France,1
+988,1980,GHA,Ghana,1
+989,1980,GIN,Guinea,1
+990,1980,GMB,Gambia ,1
+991,1980,GNB,Guinea-Bissau,1
+992,1980,GRC,Greece,1
+993,1980,GRD,Grenada,1
+994,1980,HKG,Hong Kong,4
+995,1980,HTI,Haiti,2
+996,1980,IDN,Indonesia,5
+997,1980,IND,India,15
+998,1980,IRN,Iran ,5
+999,1980,ITA,Italy,1
+1000,1980,JAM,Jamaica,1
+1001,1980,JPN,Japan,3
+1002,1980,KOR,Korea ,2
+1003,1980,LBR,Liberia,2
+1004,1980,LCA,Saint Lucia,1
+1005,1980,LKA,Sri Lanka,1
+1006,1980,MEX,Mexico,4
+1007,1980,MLI,Mali,1
+1008,1980,MOZ,Mozambique,1
+1009,1980,MRT,Mauritania,1
+1010,1980,MTQ,Martinique,1
+1011,1980,MUS,Mauritius,1
+1012,1980,NER,Niger ,1
+1013,1980,NIC,Nicaragua,1
+1014,1980,NPL,Nepal,1
+1015,1980,PAK,Pakistan,2
+1016,1980,PER,Peru,2
+1017,1980,PHL,Philippines ,9
+1018,1980,POL,Poland,1
+1019,1980,REU,Réunion,2
+1020,1980,SDN,Sudan ,1
+1021,1980,SEN,Senegal,1
+1022,1980,SOM,Somalia,1
+1023,1980,TCD,Chad,1
+1024,1980,TGO,Togo,1
+1025,1980,THA,Thailand,1
+1026,1980,TUR,Turkey,2
+1027,1980,TZA,"Tanzania, United Republic of",1
+1028,1980,USA,United States of America ,8
+1029,1980,VCT,Saint Vincent and the Grenadines,1
+1030,1980,VEN,Venezuela ,1
+1031,1980,VNM,Viet Nam,3
+1032,1980,YUG,Yugoslavia,1
+1033,1980,ZAF,South Africa,1
+1034,1981,AGO,Angola,1
+1035,1981,AUT,Austria,1
+1036,1981,BFA,Burkina Faso,2
+1037,1981,BGD,Bangladesh,3
+1038,1981,BGR,Bulgaria,1
+1039,1981,BRA,Brazil,2
+1040,1981,BWA,Botswana,1
+1041,1981,CAF,Central African Republic,1
+1042,1981,CAN,Canada,1
+1043,1981,CHN,China,8
+1044,1981,COL,Colombia,3
+1045,1981,COM,Comoros ,1
+1046,1981,CSK,Czechoslovakia,2
+1047,1981,CUB,Cuba,1
+1048,1981,DJI,Djibouti,1
+1049,1981,DNK,Denmark,1
+1050,1981,DOM,Dominican Republic ,1
+1051,1981,DZA,Algeria,2
+1052,1981,ESP,Spain,1
+1053,1981,ETH,Ethiopia,2
+1054,1981,FRA,France,1
+1055,1981,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+1056,1981,GIN,Guinea,1
+1057,1981,GRC,Greece,2
+1058,1981,HKG,Hong Kong,4
+1059,1981,HND,Honduras,1
+1060,1981,IDN,Indonesia,6
+1061,1981,IND,India,7
+1062,1981,IRN,Iran ,4
+1063,1981,ITA,Italy,2
+1064,1981,JAM,Jamaica,1
+1065,1981,JOR,Jordan,1
+1066,1981,JPN,Japan,5
+1067,1981,KOR,Korea ,2
+1068,1981,LAO,Lao People's Democratic Republic ,1
+1069,1981,LKA,Sri Lanka,2
+1070,1981,MDG,Madagascar,2
+1071,1981,MEX,Mexico,2
+1072,1981,MLI,Mali,1
+1073,1981,MMR,Myanmar,1
+1074,1981,MOZ,Mozambique,2
+1075,1981,NAM,Namibia,1
+1076,1981,NGA,Nigeria,1
+1077,1981,NPL,Nepal,2
+1078,1981,OMN,Oman,1
+1079,1981,PAK,Pakistan,4
+1080,1981,PER,Peru,4
+1081,1981,PHL,Philippines ,12
+1082,1981,PRI,Puerto Rico,1
+1083,1981,PRT,Portugal,1
+1084,1981,SOM,Somalia,1
+1085,1981,SUN,Soviet Union,2
+1086,1981,SWZ,Swaziland,1
+1087,1981,THA,Thailand,2
+1088,1981,TUR,Turkey,1
+1089,1981,TWN,Taiwan ,1
+1090,1981,USA,United States of America ,4
+1091,1981,VEN,Venezuela ,1
+1092,1981,YMD,Yemen P Dem Rep,2
+1093,1981,YUG,Yugoslavia,2
+1094,1981,ZAF,South Africa,2
+1095,1981,ZMB,Zambia,1
+1096,1981,ZWE,Zimbabwe,1
+1097,1982,AFG,Afghanistan,1
+1098,1982,ALB,Albania,1
+1099,1982,ARG,Argentina,1
+1100,1982,AUT,Austria,2
+1101,1982,BEL,Belgium,1
+1102,1982,BEN,Benin,1
+1103,1982,BGD,Bangladesh,3
+1104,1982,BOL,Bolivia ,1
+1105,1982,BRA,Brazil,1
+1106,1982,CAN,Canada,1
+1107,1982,CHE,Switzerland,1
+1108,1982,CHL,Chile,1
+1109,1982,CHN,China,7
+1110,1982,COL,Colombia,2
+1111,1982,CPV,Cabo Verde,1
+1112,1982,CSK,Czechoslovakia,1
+1113,1982,CUB,Cuba,1
+1114,1982,DZA,Algeria,1
+1115,1982,ECU,Ecuador,1
+1116,1982,ESP,Spain,2
+1117,1982,FRA,France,6
+1118,1982,GTM,Guatemala,1
+1119,1982,HKG,Hong Kong,5
+1120,1982,HND,Honduras,2
+1121,1982,IDN,Indonesia,12
+1122,1982,IND,India,7
+1123,1982,ITA,Italy,3
+1124,1982,JPN,Japan,6
+1125,1982,KEN,Kenya,1
+1126,1982,KOR,Korea ,2
+1127,1982,LBR,Liberia,1
+1128,1982,LKA,Sri Lanka,3
+1129,1982,MAR,Morocco,1
+1130,1982,MDG,Madagascar,1
+1131,1982,MEX,Mexico,6
+1132,1982,MMR,Myanmar,1
+1133,1982,MNG,Mongolia,1
+1134,1982,MRT,Mauritania,1
+1135,1982,MUS,Mauritius,2
+1136,1982,MWI,Malawi,1
+1137,1982,NIC,Nicaragua,1
+1138,1982,NPL,Nepal,2
+1139,1982,PAK,Pakistan,1
+1140,1982,PER,Peru,4
+1141,1982,PHL,Philippines ,13
+1142,1982,POL,Poland,2
+1143,1982,PRY,Paraguay,1
+1144,1982,SAU,Saudi Arabia,1
+1145,1982,SLV,El Salvador,3
+1146,1982,SUN,Soviet Union,2
+1147,1982,TUN,Tunisia,1
+1148,1982,TZA,"Tanzania, United Republic of",1
+1149,1982,UGA,Uganda,1
+1150,1982,USA,United States of America ,13
+1151,1982,VNM,Viet Nam,1
+1152,1982,YMD,Yemen P Dem Rep,1
+1153,1982,YMN,Yemen Arab Rep,1
+1154,1982,ZMB,Zambia,1
+1155,1983,AFG,Afghanistan,1
+1156,1983,AIA,Anguilla,2
+1157,1983,ARG,Argentina,2
+1158,1983,ATG,Antigua and Barbuda,1
+1159,1983,AUT,Austria,1
+1160,1983,BEL,Belgium,1
+1161,1983,BFA,Burkina Faso,1
+1162,1983,BGD,Bangladesh,9
+1163,1983,BGR,Bulgaria,1
+1164,1983,BOL,Bolivia ,3
+1165,1983,BRA,Brazil,4
+1166,1983,CAF,Central African Republic,1
+1167,1983,CAN,Canada,1
+1168,1983,CHE,Switzerland,3
+1169,1983,CHL,Chile,1
+1170,1983,CHN,China,9
+1171,1983,COD,Congo ,1
+1172,1983,COG,Congo ,1
+1173,1983,COL,Colombia,3
+1174,1983,COM,Comoros ,1
+1175,1983,CRI,Costa Rica,2
+1176,1983,CUB,Cuba,1
+1177,1983,CYP,Cyprus,1
+1178,1983,DFR,Germany Fed Rep,2
+1179,1983,DJI,Djibouti,1
+1180,1983,DNK,Denmark,1
+1181,1983,DOM,Dominican Republic ,1
+1182,1983,ECU,Ecuador,2
+1183,1983,ESP,Spain,2
+1184,1983,ETH,Ethiopia,1
+1185,1983,FRA,France,8
+1186,1983,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+1187,1983,GIN,Guinea,1
+1188,1983,GRC,Greece,2
+1189,1983,GTM,Guatemala,1
+1190,1983,HKG,Hong Kong,5
+1191,1983,IDN,Indonesia,9
+1192,1983,IND,India,10
+1193,1983,IRL,Ireland,1
+1194,1983,IRN,Iran ,2
+1195,1983,ISL,Iceland,2
+1196,1983,ISR,Israel,1
+1197,1983,ITA,Italy,3
+1198,1983,JPN,Japan,7
+1199,1983,KEN,Kenya,1
+1200,1983,LBN,Lebanon,1
+1201,1983,LCA,Saint Lucia,1
+1202,1983,LKA,Sri Lanka,1
+1203,1983,LSO,Lesotho,1
+1204,1983,LUX,Luxembourg,1
+1205,1983,MAR,Morocco,1
+1206,1983,MDG,Madagascar,1
+1207,1983,MEX,Mexico,3
+1208,1983,MMR,Myanmar,1
+1209,1983,MOZ,Mozambique,1
+1210,1983,MUS,Mauritius,1
+1211,1983,MYS,Malaysia,1
+1212,1983,NPL,Nepal,2
+1213,1983,PAK,Pakistan,4
+1214,1983,PAN,Panama,1
+1215,1983,PER,Peru,5
+1216,1983,PHL,Philippines ,7
+1217,1983,POL,Poland,2
+1218,1983,PRT,Portugal,3
+1219,1983,PRY,Paraguay,2
+1220,1983,PSE,"Palestine, State of",1
+1221,1983,ROU,Romania,1
+1222,1983,SDN,Sudan ,3
+1223,1983,SEN,Senegal,1
+1224,1983,SOM,Somalia,1
+1225,1983,STP,Sao Tome and Principe,1
+1226,1983,SUN,Soviet Union,4
+1227,1983,THA,Thailand,1
+1228,1983,TUR,Turkey,1
+1229,1983,TWN,Taiwan ,1
+1230,1983,TZA,"Tanzania, United Republic of",1
+1231,1983,USA,United States of America ,12
+1232,1983,VNM,Viet Nam,3
+1233,1983,YUG,Yugoslavia,2
+1234,1983,ZAF,South Africa,1
+1235,1983,ZMB,Zambia,1
+1236,1984,AFG,Afghanistan,1
+1237,1984,AIA,Anguilla,1
+1238,1984,ARG,Argentina,1
+1239,1984,AUT,Austria,2
+1240,1984,BEL,Belgium,2
+1241,1984,BEN,Benin,1
+1242,1984,BFA,Burkina Faso,2
+1243,1984,BGD,Bangladesh,2
+1244,1984,BOL,Bolivia ,1
+1245,1984,BRA,Brazil,7
+1246,1984,BRB,Barbados,1
+1247,1984,CAN,Canada,1
+1248,1984,CHE,Switzerland,1
+1249,1984,CHL,Chile,2
+1250,1984,CHN,China,6
+1251,1984,CMR,Cameroon,1
+1252,1984,COL,Colombia,1
+1253,1984,CPV,Cabo Verde,1
+1254,1984,CSK,Czechoslovakia,1
+1255,1984,DDR,Germany Dem Rep,2
+1256,1984,DFR,Germany Fed Rep,2
+1257,1984,DMA,Dominica,1
+1258,1984,DZA,Algeria,1
+1259,1984,ESP,Spain,3
+1260,1984,FRA,France,5
+1261,1984,GBR,United Kingdom of Great Britain and Northern Ireland ,2
+1262,1984,GHA,Ghana,1
+1263,1984,GRC,Greece,2
+1264,1984,GTM,Guatemala,1
+1265,1984,HND,Honduras,1
+1266,1984,HUN,Hungary,1
+1267,1984,IDN,Indonesia,10
+1268,1984,IND,India,14
+1269,1984,ISL,Iceland,1
+1270,1984,ITA,Italy,3
+1271,1984,JPN,Japan,3
+1272,1984,KNA,Saint Kitts and Nevis,1
+1273,1984,KOR,Korea ,2
+1274,1984,LAO,Lao People's Democratic Republic ,1
+1275,1984,LKA,Sri Lanka,4
+1276,1984,MAR,Morocco,1
+1277,1984,MDG,Madagascar,1
+1278,1984,MEX,Mexico,2
+1279,1984,MLI,Mali,1
+1280,1984,MOZ,Mozambique,1
+1281,1984,MRT,Mauritania,1
+1282,1984,MUS,Mauritius,1
+1283,1984,NER,Niger ,1
+1284,1984,NLD,Netherlands ,1
+1285,1984,NPL,Nepal,1
+1286,1984,PAK,Pakistan,2
+1287,1984,PAN,Panama,1
+1288,1984,PER,Peru,1
+1289,1984,PHL,Philippines ,5
+1290,1984,REU,Réunion,1
+1291,1984,ROU,Romania,1
+1292,1984,RWA,Rwanda,1
+1293,1984,SEN,Senegal,1
+1294,1984,SLE,Sierra Leone,1
+1295,1984,SUN,Soviet Union,4
+1296,1984,SWZ,Swaziland,2
+1297,1984,THA,Thailand,2
+1298,1984,TUR,Turkey,3
+1299,1984,TWN,Taiwan ,1
+1300,1984,TZA,"Tanzania, United Republic of",1
+1301,1984,USA,United States of America ,14
+1302,1984,VNM,Viet Nam,3
+1303,1984,ZAF,South Africa,2
+1304,1985,AGO,Angola,1
+1305,1985,ALB,Albania,2
+1306,1985,ARG,Argentina,3
+1307,1985,AUT,Austria,1
+1308,1985,BEL,Belgium,2
+1309,1985,BEN,Benin,1
+1310,1985,BFA,Burkina Faso,1
+1311,1985,BGD,Bangladesh,7
+1312,1985,BMU,Bermuda,1
+1313,1985,BOL,Bolivia ,1
+1314,1985,BRA,Brazil,4
+1315,1985,BTN,Bhutan,1
+1316,1985,CAN,Canada,2
+1317,1985,CHE,Switzerland,1
+1318,1985,CHL,Chile,1
+1319,1985,CHN,China,14
+1320,1985,COL,Colombia,1
+1321,1985,COM,Comoros ,1
+1322,1985,CSK,Czechoslovakia,2
+1323,1985,CUB,Cuba,2
+1324,1985,DDR,Germany Dem Rep,1
+1325,1985,DFR,Germany Fed Rep,1
+1326,1985,DNK,Denmark,1
+1327,1985,DOM,Dominican Republic ,1
+1328,1985,DZA,Algeria,2
+1329,1985,ECU,Ecuador,1
+1330,1985,ESP,Spain,3
+1331,1985,ETH,Ethiopia,3
+1332,1985,FRA,France,3
+1333,1985,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+1334,1985,GHA,Ghana,1
+1335,1985,GRC,Greece,2
+1336,1985,GTM,Guatemala,1
+1337,1985,HKG,Hong Kong,4
+1338,1985,IDN,Indonesia,6
+1339,1985,IND,India,12
+1340,1985,IRN,Iran ,1
+1341,1985,ITA,Italy,1
+1342,1985,JAM,Jamaica,1
+1343,1985,JPN,Japan,2
+1344,1985,KOR,Korea ,1
+1345,1985,LAO,Lao People's Democratic Republic ,1
+1346,1985,LKA,Sri Lanka,1
+1347,1985,LSO,Lesotho,1
+1348,1985,MEX,Mexico,1
+1349,1985,MLI,Mali,1
+1350,1985,MOZ,Mozambique,2
+1351,1985,MRT,Mauritania,2
+1352,1985,MUS,Mauritius,1
+1353,1985,NGA,Nigeria,1
+1354,1985,NLD,Netherlands ,1
+1355,1985,NPL,Nepal,1
+1356,1985,PAK,Pakistan,1
+1357,1985,PER,Peru,4
+1358,1985,PHL,Philippines ,7
+1359,1985,PRI,Puerto Rico,2
+1360,1985,PRT,Portugal,1
+1361,1985,SAU,Saudi Arabia,1
+1362,1985,SEN,Senegal,2
+1363,1985,SLE,Sierra Leone,1
+1364,1985,SOM,Somalia,1
+1365,1985,SUN,Soviet Union,4
+1366,1985,SWE,Sweden,1
+1367,1985,TCA,Turks and Caicos Islands ,1
+1368,1985,TCD,Chad,1
+1369,1985,THA,Thailand,1
+1370,1985,TUR,Turkey,2
+1371,1985,TZA,"Tanzania, United Republic of",1
+1372,1985,USA,United States of America ,15
+1373,1985,VEN,Venezuela ,1
+1374,1985,VNM,Viet Nam,2
+1375,1985,YUG,Yugoslavia,2
+1376,1986,ARG,Argentina,2
+1377,1986,BFA,Burkina Faso,1
+1378,1986,BGD,Bangladesh,7
+1379,1986,BGR,Bulgaria,1
+1380,1986,BMU,Bermuda,1
+1381,1986,BOL,Bolivia ,1
+1382,1986,BRA,Brazil,3
+1383,1986,BWA,Botswana,1
+1384,1986,CAN,Canada,4
+1385,1986,CHE,Switzerland,2
+1386,1986,CHL,Chile,2
+1387,1986,CHN,China,11
+1388,1986,CMR,Cameroon,1
+1389,1986,COL,Colombia,5
+1390,1986,CUB,Cuba,2
+1391,1986,DOM,Dominican Republic ,1
+1392,1986,ETH,Ethiopia,1
+1393,1986,FRA,France,1
+1394,1986,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+1395,1986,GMB,Gambia ,1
+1396,1986,GNB,Guinea-Bissau,1
+1397,1986,GRC,Greece,1
+1398,1986,GTM,Guatemala,1
+1399,1986,HKG,Hong Kong,3
+1400,1986,HND,Honduras,1
+1401,1986,HTI,Haiti,2
+1402,1986,HUN,Hungary,1
+1403,1986,IDN,Indonesia,7
+1404,1986,IND,India,13
+1405,1986,IRL,Ireland,1
+1406,1986,IRN,Iran ,4
+1407,1986,ITA,Italy,1
+1408,1986,JAM,Jamaica,1
+1409,1986,JPN,Japan,6
+1410,1986,KOR,Korea ,1
+1411,1986,LCA,Saint Lucia,1
+1412,1986,LKA,Sri Lanka,1
+1413,1986,MDG,Madagascar,2
+1414,1986,MEX,Mexico,1
+1415,1986,MLI,Mali,1
+1416,1986,MNG,Mongolia,1
+1417,1986,MYS,Malaysia,1
+1418,1986,NER,Niger ,1
+1419,1986,NGA,Nigeria,3
+1420,1986,NLD,Netherlands ,1
+1421,1986,NPL,Nepal,4
+1422,1986,PAK,Pakistan,2
+1423,1986,PAN,Panama,1
+1424,1986,PER,Peru,4
+1425,1986,PHL,Philippines ,7
+1426,1986,PRT,Portugal,1
+1427,1986,SDN,Sudan ,1
+1428,1986,SEN,Senegal,1
+1429,1986,SLV,El Salvador,1
+1430,1986,SOM,Somalia,1
+1431,1986,STP,Sao Tome and Principe,1
+1432,1986,SUN,Soviet Union,2
+1433,1986,TCD,Chad,1
+1434,1986,THA,Thailand,1
+1435,1986,TUN,Tunisia,1
+1436,1986,TUR,Turkey,2
+1437,1986,TWN,Taiwan ,4
+1438,1986,TZA,"Tanzania, United Republic of",2
+1439,1986,UGA,Uganda,1
+1440,1986,URY,Uruguay,1
+1441,1986,USA,United States of America ,7
+1442,1986,VCT,Saint Vincent and the Grenadines,1
+1443,1986,VEN,Venezuela ,2
+1444,1986,VNM,Viet Nam,2
+1445,1986,YUG,Yugoslavia,1
+1446,1986,ZAF,South Africa,1
+1447,1986,ZMB,Zambia,1
+1448,1987,AFG,Afghanistan,1
+1449,1987,AGO,Angola,1
+1450,1987,ARG,Argentina,3
+1451,1987,BEL,Belgium,1
+1452,1987,BEN,Benin,2
+1453,1987,BFA,Burkina Faso,1
+1454,1987,BGD,Bangladesh,6
+1455,1987,BMU,Bermuda,1
+1456,1987,BOL,Bolivia ,1
+1457,1987,BRA,Brazil,3
+1458,1987,BRB,Barbados,1
+1459,1987,CAN,Canada,3
+1460,1987,CHE,Switzerland,2
+1461,1987,CHL,Chile,4
+1462,1987,CHN,China,15
+1463,1987,CMR,Cameroon,1
+1464,1987,COD,Congo ,2
+1465,1987,COL,Colombia,3
+1466,1987,COM,Comoros ,1
+1467,1987,CSK,Czechoslovakia,2
+1468,1987,CUB,Cuba,1
+1469,1987,DOM,Dominican Republic ,1
+1470,1987,DZA,Algeria,2
+1471,1987,ECU,Ecuador,4
+1472,1987,EGY,Egypt,1
+1473,1987,ESP,Spain,2
+1474,1987,ETH,Ethiopia,2
+1475,1987,FRA,France,2
+1476,1987,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+1477,1987,GIN,Guinea,1
+1478,1987,GMB,Gambia ,1
+1479,1987,GNB,Guinea-Bissau,3
+1480,1987,GRC,Greece,3
+1481,1987,GTM,Guatemala,4
+1482,1987,HKG,Hong Kong,4
+1483,1987,HTI,Haiti,4
+1484,1987,IDN,Indonesia,10
+1485,1987,IND,India,11
+1486,1987,IRL,Ireland,1
+1487,1987,IRN,Iran ,7
+1488,1987,ITA,Italy,6
+1489,1987,JAM,Jamaica,1
+1490,1987,JOR,Jordan,1
+1491,1987,JPN,Japan,2
+1492,1987,KHM,Cambodia,1
+1493,1987,KNA,Saint Kitts and Nevis,1
+1494,1987,KOR,Korea ,3
+1495,1987,LAO,Lao People's Democratic Republic ,2
+1496,1987,LBN,Lebanon,1
+1497,1987,LCA,Saint Lucia,1
+1498,1987,LKA,Sri Lanka,2
+1499,1987,LSO,Lesotho,1
+1500,1987,MAR,Morocco,1
+1501,1987,MDV,Maldives,1
+1502,1987,MEX,Mexico,3
+1503,1987,MLI,Mali,3
+1504,1987,MOZ,Mozambique,1
+1505,1987,MRT,Mauritania,2
+1506,1987,MWI,Malawi,1
+1507,1987,MYS,Malaysia,1
+1508,1987,NER,Niger ,1
+1509,1987,NGA,Nigeria,5
+1510,1987,NPL,Nepal,3
+1511,1987,PER,Peru,4
+1512,1987,PHL,Philippines ,6
+1513,1987,POL,Poland,1
+1514,1987,PRK,Korea ,2
+1515,1987,REU,Réunion,1
+1516,1987,SDN,Sudan ,3
+1517,1987,SEN,Senegal,1
+1518,1987,SOM,Somalia,2
+1519,1987,SUN,Soviet Union,4
+1520,1987,TCD,Chad,2
+1521,1987,THA,Thailand,1
+1522,1987,TUR,Turkey,2
+1523,1987,TWN,Taiwan ,1
+1524,1987,TZA,"Tanzania, United Republic of",1
+1525,1987,UGA,Uganda,1
+1526,1987,USA,United States of America ,11
+1527,1987,VCT,Saint Vincent and the Grenadines,2
+1528,1987,VEN,Venezuela ,2
+1529,1987,VNM,Viet Nam,3
+1530,1987,YMN,Yemen Arab Rep,1
+1531,1987,ZAF,South Africa,1
+1532,1988,AFG,Afghanistan,1
+1533,1988,ALB,Albania,1
+1534,1988,ARG,Argentina,1
+1535,1988,BEN,Benin,1
+1536,1988,BFA,Burkina Faso,2
+1537,1988,BGD,Bangladesh,7
+1538,1988,BHS,Bahamas ,1
+1539,1988,BOL,Bolivia ,1
+1540,1988,BRA,Brazil,6
+1541,1988,BWA,Botswana,2
+1542,1988,CAN,Canada,2
+1543,1988,CHE,Switzerland,1
+1544,1988,CHL,Chile,1
+1545,1988,CHN,China,18
+1546,1988,CMR,Cameroon,2
+1547,1988,COL,Colombia,3
+1548,1988,CPV,Cabo Verde,1
+1549,1988,CRI,Costa Rica,2
+1550,1988,CUB,Cuba,3
+1551,1988,DFR,Germany Fed Rep,1
+1552,1988,DJI,Djibouti,1
+1553,1988,DOM,Dominican Republic ,1
+1554,1988,DZA,Algeria,3
+1555,1988,ETH,Ethiopia,5
+1556,1988,FRA,France,1
+1557,1988,GAB,Gabon,2
+1558,1988,GHA,Ghana,1
+1559,1988,GLP,Guadeloupe,1
+1560,1988,GMB,Gambia ,1
+1561,1988,GRC,Greece,2
+1562,1988,GTM,Guatemala,3
+1563,1988,GUY,Guyana,1
+1564,1988,HKG,Hong Kong,1
+1565,1988,HND,Honduras,3
+1566,1988,HTI,Haiti,5
+1567,1988,IDN,Indonesia,5
+1568,1988,IND,India,12
+1569,1988,IRN,Iran ,3
+1570,1988,ISL,Iceland,1
+1571,1988,JAM,Jamaica,2
+1572,1988,JPN,Japan,2
+1573,1988,KEN,Kenya,1
+1574,1988,KOR,Korea ,1
+1575,1988,LAO,Lao People's Democratic Republic ,1
+1576,1988,LCA,Saint Lucia,1
+1577,1988,LKA,Sri Lanka,1
+1578,1988,MAR,Morocco,3
+1579,1988,MDG,Madagascar,1
+1580,1988,MEX,Mexico,5
+1581,1988,MLI,Mali,3
+1582,1988,MOZ,Mozambique,2
+1583,1988,MRT,Mauritania,2
+1584,1988,MYS,Malaysia,1
+1585,1988,NAM,Namibia,1
+1586,1988,NER,Niger ,3
+1587,1988,NGA,Nigeria,2
+1588,1988,NIC,Nicaragua,1
+1589,1988,NPL,Nepal,4
+1590,1988,PAK,Pakistan,3
+1591,1988,PAN,Panama,1
+1592,1988,PER,Peru,4
+1593,1988,PHL,Philippines ,8
+1594,1988,PRY,Paraguay,1
+1595,1988,RWA,Rwanda,1
+1596,1988,SDN,Sudan ,5
+1597,1988,SEN,Senegal,3
+1598,1988,SLV,El Salvador,2
+1599,1988,SOM,Somalia,1
+1600,1988,SUN,Soviet Union,2
+1601,1988,TCD,Chad,4
+1602,1988,TGO,Togo,1
+1603,1988,THA,Thailand,1
+1604,1988,TUN,Tunisia,3
+1605,1988,TUR,Turkey,2
+1606,1988,TZA,"Tanzania, United Republic of",2
+1607,1988,UGA,Uganda,1
+1608,1988,USA,United States of America ,22
+1609,1988,VEN,Venezuela ,3
+1610,1988,VNM,Viet Nam,2
+1611,1988,YUG,Yugoslavia,1
+1612,1988,ZAF,South Africa,2
+1613,1989,AGO,Angola,3
+1614,1989,ALB,Albania,1
+1615,1989,ANT,Netherlands Antilles,1
+1616,1989,ATG,Antigua and Barbuda,1
+1617,1989,BDI,Burundi,1
+1618,1989,BEN,Benin,1
+1619,1989,BGD,Bangladesh,8
+1620,1989,BMU,Bermuda,1
+1621,1989,BOL,Bolivia ,1
+1622,1989,BRA,Brazil,8
+1623,1989,CAN,Canada,2
+1624,1989,CHL,Chile,1
+1625,1989,CHN,China,14
+1626,1989,CIV,Côte d’Ivoire,1
+1627,1989,CMR,Cameroon,1
+1628,1989,COD,Congo ,1
+1629,1989,COL,Colombia,1
+1630,1989,COM,Comoros ,2
+1631,1989,DJI,Djibouti,1
+1632,1989,DMA,Dominica,1
+1633,1989,DOM,Dominican Republic ,1
+1634,1989,DZA,Algeria,1
+1635,1989,ECU,Ecuador,1
+1636,1989,ESP,Spain,3
+1637,1989,ETH,Ethiopia,1
+1638,1989,FRA,France,2
+1639,1989,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+1640,1989,GHA,Ghana,2
+1641,1989,GLP,Guadeloupe,1
+1642,1989,GTM,Guatemala,1
+1643,1989,GUY,Guyana,1
+1644,1989,HKG,Hong Kong,4
+1645,1989,HND,Honduras,1
+1646,1989,HTI,Haiti,3
+1647,1989,IDN,Indonesia,7
+1648,1989,IND,India,9
+1649,1989,IRN,Iran ,3
+1650,1989,JOR,Jordan,1
+1651,1989,JPN,Japan,4
+1652,1989,KNA,Saint Kitts and Nevis,1
+1653,1989,KOR,Korea ,1
+1654,1989,LKA,Sri Lanka,1
+1655,1989,LSO,Lesotho,1
+1656,1989,MDG,Madagascar,1
+1657,1989,MEX,Mexico,3
+1658,1989,MLI,Mali,1
+1659,1989,MOZ,Mozambique,1
+1660,1989,MSR,Montserrat,1
+1661,1989,MTQ,Martinique,1
+1662,1989,MUS,Mauritius,1
+1663,1989,MWI,Malawi,3
+1664,1989,NER,Niger ,2
+1665,1989,NGA,Nigeria,1
+1666,1989,NPL,Nepal,1
+1667,1989,PAK,Pakistan,1
+1668,1989,PER,Peru,1
+1669,1989,PHL,Philippines ,12
+1670,1989,PRI,Puerto Rico,2
+1671,1989,PRT,Portugal,1
+1672,1989,REU,Réunion,1
+1673,1989,RWA,Rwanda,1
+1674,1989,SLV,El Salvador,1
+1675,1989,SOM,Somalia,2
+1676,1989,STP,Sao Tome and Principe,1
+1677,1989,SUN,Soviet Union,5
+1678,1989,TGO,Togo,1
+1679,1989,THA,Thailand,1
+1680,1989,TWN,Taiwan ,1
+1681,1989,TZA,"Tanzania, United Republic of",1
+1682,1989,UGA,Uganda,1
+1683,1989,USA,United States of America ,19
+1684,1989,VEN,Venezuela ,2
+1685,1989,VIR,Virgin Island ,1
+1686,1989,VNM,Viet Nam,3
+1687,1989,YMD,Yemen P Dem Rep,1
+1688,1989,YMN,Yemen Arab Rep,1
+1689,1989,ZMB,Zambia,1
+1690,1990,AFG,Afghanistan,1
+1691,1990,ARG,Argentina,1
+1692,1990,ATG,Antigua and Barbuda,1
+1693,1990,AUT,Austria,5
+1694,1990,BEL,Belgium,6
+1695,1990,BFA,Burkina Faso,1
+1696,1990,BGD,Bangladesh,8
+1697,1990,BGR,Bulgaria,1
+1698,1990,BHS,Bahamas ,1
+1699,1990,BLZ,Belize,2
+1700,1990,BOL,Bolivia ,1
+1701,1990,BRA,Brazil,2
+1702,1990,BWA,Botswana,1
+1703,1990,CAN,Canada,1
+1704,1990,CHE,Switzerland,4
+1705,1990,CHL,Chile,1
+1706,1990,CHN,China,18
+1707,1990,CMR,Cameroon,2
+1708,1990,COD,Congo ,1
+1709,1990,COL,Colombia,4
+1710,1990,CRI,Costa Rica,2
+1711,1990,CUB,Cuba,2
+1712,1990,DEU,Germany,6
+1713,1990,DNK,Denmark,3
+1714,1990,ECU,Ecuador,1
+1715,1990,ESP,Spain,3
+1716,1990,ETH,Ethiopia,1
+1717,1990,FIN,Finland,2
+1718,1990,FRA,France,10
+1719,1990,GBR,United Kingdom of Great Britain and Northern Ireland ,8
+1720,1990,GLP,Guadeloupe,1
+1721,1990,GRC,Greece,4
+1722,1990,GRD,Grenada,1
+1723,1990,GTM,Guatemala,1
+1724,1990,HND,Honduras,1
+1725,1990,HTI,Haiti,1
+1726,1990,IDN,Indonesia,7
+1727,1990,IND,India,14
+1728,1990,IRL,Ireland,4
+1729,1990,IRN,Iran ,4
+1730,1990,ITA,Italy,5
+1731,1990,JAM,Jamaica,1
+1732,1990,JPN,Japan,3
+1733,1990,KEN,Kenya,2
+1734,1990,KNA,Saint Kitts and Nevis,1
+1735,1990,KOR,Korea ,3
+1736,1990,LBR,Liberia,1
+1737,1990,LKA,Sri Lanka,2
+1738,1990,LSO,Lesotho,2
+1739,1990,LUX,Luxembourg,6
+1740,1990,MEX,Mexico,3
+1741,1990,MNG,Mongolia,2
+1742,1990,MOZ,Mozambique,3
+1743,1990,MSR,Montserrat,1
+1744,1990,MTQ,Martinique,1
+1745,1990,MWI,Malawi,1
+1746,1990,NAM,Namibia,1
+1747,1990,NER,Niger ,1
+1748,1990,NGA,Nigeria,1
+1749,1990,NIC,Nicaragua,2
+1750,1990,NLD,Netherlands ,6
+1751,1990,NOR,Norway,2
+1752,1990,NPL,Nepal,2
+1753,1990,PAK,Pakistan,4
+1754,1990,PER,Peru,7
+1755,1990,PHL,Philippines ,13
+1756,1990,POL,Poland,1
+1757,1990,PRY,Paraguay,1
+1758,1990,ROU,Romania,1
+1759,1990,SDN,Sudan ,2
+1760,1990,SUN,Soviet Union,8
+1761,1990,SWE,Sweden,2
+1762,1990,SWZ,Swaziland,1
+1763,1990,TCA,Turks and Caicos Islands ,1
+1764,1990,THA,Thailand,1
+1765,1990,TJK,Tajikistan,1
+1766,1990,TTO,Trinidad and Tobago,1
+1767,1990,TUN,Tunisia,1
+1768,1990,TUR,Turkey,2
+1769,1990,TWN,Taiwan ,2
+1770,1990,TZA,"Tanzania, United Republic of",4
+1771,1990,UGA,Uganda,3
+1772,1990,USA,United States of America ,24
+1773,1990,VEN,Venezuela ,1
+1774,1990,VNM,Viet Nam,5
+1775,1990,YUG,Yugoslavia,2
+1776,1990,ZAF,South Africa,3
+1777,1990,ZMB,Zambia,2
+1778,1990,ZWE,Zimbabwe,1
+1779,1991,AFG,Afghanistan,6
+1780,1991,ARG,Argentina,1
+1781,1991,AUT,Austria,2
+1782,1991,BEN,Benin,1
+1783,1991,BFA,Burkina Faso,1
+1784,1991,BGD,Bangladesh,8
+1785,1991,BOL,Bolivia ,1
+1786,1991,BRA,Brazil,4
+1787,1991,CAN,Canada,2
+1788,1991,CHL,Chile,4
+1789,1991,CHN,China,13
+1790,1991,CIV,Côte d’Ivoire,1
+1791,1991,CMR,Cameroon,2
+1792,1991,COD,Congo ,1
+1793,1991,COL,Colombia,6
+1794,1991,COM,Comoros ,1
+1795,1991,CRI,Costa Rica,5
+1796,1991,CYP,Cyprus,1
+1797,1991,DEU,Germany,1
+1798,1991,DFR,Germany Fed Rep,1
+1799,1991,DOM,Dominican Republic ,1
+1800,1991,DZA,Algeria,1
+1801,1991,ECU,Ecuador,1
+1802,1991,EGY,Egypt,1
+1803,1991,ESP,Spain,1
+1804,1991,ETH,Ethiopia,1
+1805,1991,FRA,France,3
+1806,1991,GBR,United Kingdom of Great Britain and Northern Ireland ,2
+1807,1991,GEO,Georgia,1
+1808,1991,GHA,Ghana,2
+1809,1991,GRC,Greece,1
+1810,1991,GTM,Guatemala,3
+1811,1991,HKG,Hong Kong,1
+1812,1991,IDN,Indonesia,12
+1813,1991,IND,India,11
+1814,1991,IRL,Ireland,1
+1815,1991,IRN,Iran ,6
+1816,1991,IRQ,Iraq,1
+1817,1991,ISR,Israel,1
+1818,1991,ITA,Italy,1
+1819,1991,JAM,Jamaica,1
+1820,1991,JOR,Jordan,2
+1821,1991,JPN,Japan,6
+1822,1991,KEN,Kenya,2
+1823,1991,KHM,Cambodia,1
+1824,1991,KOR,Korea ,2
+1825,1991,LAO,Lao People's Democratic Republic ,3
+1826,1991,LKA,Sri Lanka,1
+1827,1991,MDG,Madagascar,1
+1828,1991,MDV,Maldives,1
+1829,1991,MEX,Mexico,4
+1830,1991,MLI,Mali,1
+1831,1991,MMR,Myanmar,2
+1832,1991,MNG,Mongolia,1
+1833,1991,MRT,Mauritania,1
+1834,1991,MUS,Mauritius,1
+1835,1991,MWI,Malawi,1
+1836,1991,MYS,Malaysia,1
+1837,1991,NER,Niger ,2
+1838,1991,NGA,Nigeria,2
+1839,1991,NIC,Nicaragua,2
+1840,1991,NPL,Nepal,3
+1841,1991,PAK,Pakistan,4
+1842,1991,PAN,Panama,4
+1843,1991,PER,Peru,5
+1844,1991,PHL,Philippines ,12
+1845,1991,PRT,Portugal,1
+1846,1991,ROU,Romania,3
+1847,1991,RWA,Rwanda,1
+1848,1991,SDN,Sudan ,2
+1849,1991,SLV,El Salvador,1
+1850,1991,SUN,Soviet Union,8
+1851,1991,TCD,Chad,2
+1852,1991,THA,Thailand,4
+1853,1991,TUR,Turkey,2
+1854,1991,TWN,Taiwan ,1
+1855,1991,TZA,"Tanzania, United Republic of",2
+1856,1991,UGA,Uganda,1
+1857,1991,URY,Uruguay,1
+1858,1991,USA,United States of America ,36
+1859,1991,VEN,Venezuela ,1
+1860,1991,VNM,Viet Nam,7
+1861,1991,YEM,Yemen,2
+1862,1991,ZAF,South Africa,1
+1863,1991,ZMB,Zambia,1
+1864,1992,AFG,Afghanistan,3
+1865,1992,ALB,Albania,1
+1866,1992,ARG,Argentina,3
+1867,1992,BDI,Burundi,1
+1868,1992,BEL,Belgium,1
+1869,1992,BGD,Bangladesh,6
+1870,1992,BHS,Bahamas ,1
+1871,1992,BOL,Bolivia ,3
+1872,1992,BRA,Brazil,5
+1873,1992,BTN,Bhutan,1
+1874,1992,CAF,Central African Republic,1
+1875,1992,CAN,Canada,3
+1876,1992,CHL,Chile,3
+1877,1992,CHN,China,18
+1878,1992,CMR,Cameroon,1
+1879,1992,COD,Congo ,1
+1880,1992,COL,Colombia,1
+1881,1992,CPV,Cabo Verde,1
+1882,1992,CRI,Costa Rica,1
+1883,1992,CUB,Cuba,2
+1884,1992,DEU,Germany,2
+1885,1992,DNK,Denmark,1
+1886,1992,DOM,Dominican Republic ,1
+1887,1992,DZA,Algeria,2
+1888,1992,ECU,Ecuador,2
+1889,1992,EGY,Egypt,1
+1890,1992,ETH,Ethiopia,1
+1891,1992,FRA,France,4
+1892,1992,GEO,Georgia,1
+1893,1992,GTM,Guatemala,2
+1894,1992,HKG,Hong Kong,3
+1895,1992,HTI,Haiti,1
+1896,1992,HUN,Hungary,1
+1897,1992,IDN,Indonesia,4
+1898,1992,IND,India,9
+1899,1992,IRN,Iran ,4
+1900,1992,ISR,Israel,1
+1901,1992,ITA,Italy,2
+1902,1992,JOR,Jordan,1
+1903,1992,JPN,Japan,4
+1904,1992,KGZ,Kyrgyzstan,2
+1905,1992,KHM,Cambodia,2
+1906,1992,KOR,Korea ,2
+1907,1992,LAO,Lao People's Democratic Republic ,3
+1908,1992,LBN,Lebanon,1
+1909,1992,LKA,Sri Lanka,2
+1910,1992,LTU,Lithuania,1
+1911,1992,MEX,Mexico,3
+1912,1992,MMR,Myanmar,1
+1913,1992,MOZ,Mozambique,1
+1914,1992,MWI,Malawi,2
+1915,1992,NGA,Nigeria,2
+1916,1992,NIC,Nicaragua,2
+1917,1992,NLD,Netherlands ,2
+1918,1992,NOR,Norway,1
+1919,1992,NPL,Nepal,2
+1920,1992,PAK,Pakistan,5
+1921,1992,PAN,Panama,2
+1922,1992,PER,Peru,3
+1923,1992,PHL,Philippines ,9
+1924,1992,POL,Poland,1
+1925,1992,PRI,Puerto Rico,1
+1926,1992,PRY,Paraguay,1
+1927,1992,RUS,Russian Federation ,3
+1928,1992,SCG,Serbia Montenegro,1
+1929,1992,SLV,El Salvador,2
+1930,1992,SWZ,Swaziland,1
+1931,1992,THA,Thailand,4
+1932,1992,TJK,Tajikistan,3
+1933,1992,TUR,Turkey,2
+1934,1992,TWN,Taiwan ,1
+1935,1992,TZA,"Tanzania, United Republic of",1
+1936,1992,UGA,Uganda,1
+1937,1992,UKR,Ukraine,1
+1938,1992,URY,Uruguay,1
+1939,1992,USA,United States of America ,32
+1940,1992,UZB,Uzbekistan,2
+1941,1992,VCT,Saint Vincent and the Grenadines,1
+1942,1992,VEN,Venezuela ,1
+1943,1992,VNM,Viet Nam,5
+1944,1992,ZMB,Zambia,1
+1945,1992,ZWE,Zimbabwe,1
+1946,1993,AFG,Afghanistan,4
+1947,1993,ARG,Argentina,4
+1948,1993,AUT,Austria,1
+1949,1993,BEL,Belgium,2
+1950,1993,BGD,Bangladesh,12
+1951,1993,BGR,Bulgaria,1
+1952,1993,BLR,Belarus,1
+1953,1993,CAN,Canada,1
+1954,1993,CHE,Switzerland,3
+1955,1993,CHL,Chile,3
+1956,1993,CHN,China,18
+1957,1993,CMR,Cameroon,1
+1958,1993,COL,Colombia,6
+1959,1993,CRI,Costa Rica,2
+1960,1993,CUB,Cuba,5
+1961,1993,DEU,Germany,3
+1962,1993,DJI,Djibouti,1
+1963,1993,DOM,Dominican Republic ,2
+1964,1993,DZA,Algeria,2
+1965,1993,ECU,Ecuador,3
+1966,1993,EGY,Egypt,1
+1967,1993,ERI,Eritrea,2
+1968,1993,ETH,Ethiopia,2
+1969,1993,FRA,France,3
+1970,1993,GBR,United Kingdom of Great Britain and Northern Ireland ,2
+1971,1993,GIN,Guinea,1
+1972,1993,GNB,Guinea-Bissau,1
+1973,1993,GRC,Greece,2
+1974,1993,HKG,Hong Kong,7
+1975,1993,HND,Honduras,2
+1976,1993,HTI,Haiti,2
+1977,1993,IDN,Indonesia,4
+1978,1993,IND,India,12
+1979,1993,IRL,Ireland,1
+1980,1993,IRN,Iran ,6
+1981,1993,ITA,Italy,1
+1982,1993,JAM,Jamaica,1
+1983,1993,JPN,Japan,9
+1984,1993,KAZ,Kazakhstan,1
+1985,1993,KOR,Korea ,2
+1986,1993,LAO,Lao People's Democratic Republic ,1
+1987,1993,LKA,Sri Lanka,3
+1988,1993,LTU,Lithuania,1
+1989,1993,LUX,Luxembourg,1
+1990,1993,MAC,Macao,4
+1991,1993,MEX,Mexico,8
+1992,1993,MKD,Macedonia ,1
+1993,1993,MNG,Mongolia,1
+1994,1993,MRT,Mauritania,1
+1995,1993,MTQ,Martinique,1
+1996,1993,MYS,Malaysia,2
+1997,1993,NIC,Nicaragua,1
+1998,1993,NLD,Netherlands ,1
+1999,1993,NOR,Norway,1
+2000,1993,NPL,Nepal,3
+2001,1993,PAK,Pakistan,5
+2002,1993,PER,Peru,2
+2003,1993,PHL,Philippines ,11
+2004,1993,PRK,Korea ,1
+2005,1993,REU,Réunion,1
+2006,1993,ROU,Romania,2
+2007,1993,RUS,Russian Federation ,6
+2008,1993,SDN,Sudan ,2
+2009,1993,SEN,Senegal,1
+2010,1993,SLV,El Salvador,1
+2011,1993,TCD,Chad,1
+2012,1993,THA,Thailand,6
+2013,1993,TJK,Tajikistan,1
+2014,1993,TKM,Turkmenistan,1
+2015,1993,TTO,Trinidad and Tobago,2
+2016,1993,TUR,Turkey,1
+2017,1993,TZA,"Tanzania, United Republic of",2
+2018,1993,UKR,Ukraine,2
+2019,1993,URY,Uruguay,1
+2020,1993,USA,United States of America ,30
+2021,1993,VEN,Venezuela ,1
+2022,1993,VNM,Viet Nam,4
+2023,1993,YEM,Yemen,1
+2024,1993,ZAF,South Africa,2
+2025,1994,AFG,Afghanistan,1
+2026,1994,ARG,Argentina,1
+2027,1994,AUT,Austria,1
+2028,1994,BEL,Belgium,1
+2029,1994,BEN,Benin,1
+2030,1994,BFA,Burkina Faso,1
+2031,1994,BGD,Bangladesh,9
+2032,1994,BOL,Bolivia ,3
+2033,1994,BRA,Brazil,4
+2034,1994,BTN,Bhutan,2
+2035,1994,CAN,Canada,3
+2036,1994,CHE,Switzerland,1
+2037,1994,CHN,China,18
+2038,1994,CMR,Cameroon,1
+2039,1994,COD,Congo ,1
+2040,1994,COG,Congo ,1
+2041,1994,COL,Colombia,4
+2042,1994,CPV,Cabo Verde,1
+2043,1994,CRI,Costa Rica,2
+2044,1994,CUB,Cuba,2
+2045,1994,DEU,Germany,4
+2046,1994,DJI,Djibouti,2
+2047,1994,DZA,Algeria,4
+2048,1994,ECU,Ecuador,1
+2049,1994,EGY,Egypt,1
+2050,1994,ESP,Spain,4
+2051,1994,ETH,Ethiopia,2
+2052,1994,FRA,France,3
+2053,1994,GAB,Gabon,1
+2054,1994,GBR,United Kingdom of Great Britain and Northern Ireland ,2
+2055,1994,GIN,Guinea,1
+2056,1994,GNB,Guinea-Bissau,1
+2057,1994,GRC,Greece,1
+2058,1994,GTM,Guatemala,2
+2059,1994,HKG,Hong Kong,1
+2060,1994,HND,Honduras,3
+2061,1994,HTI,Haiti,1
+2062,1994,IDN,Indonesia,15
+2063,1994,IND,India,6
+2064,1994,IRN,Iran ,6
+2065,1994,ITA,Italy,3
+2066,1994,JAM,Jamaica,1
+2067,1994,JPN,Japan,5
+2068,1994,KEN,Kenya,2
+2069,1994,KGZ,Kyrgyzstan,2
+2070,1994,KHM,Cambodia,2
+2071,1994,KOR,Korea ,1
+2072,1994,LAO,Lao People's Democratic Republic ,2
+2073,1994,LCA,Saint Lucia,1
+2074,1994,LKA,Sri Lanka,3
+2075,1994,MDA,Moldova ,2
+2076,1994,MDG,Madagascar,3
+2077,1994,MEX,Mexico,2
+2078,1994,MMR,Myanmar,1
+2079,1994,MNG,Mongolia,1
+2080,1994,MOZ,Mozambique,1
+2081,1994,MUS,Mauritius,1
+2082,1994,NER,Niger ,1
+2083,1994,NGA,Nigeria,1
+2084,1994,NIC,Nicaragua,1
+2085,1994,NLD,Netherlands ,1
+2086,1994,PAK,Pakistan,3
+2087,1994,PER,Peru,2
+2088,1994,PHL,Philippines ,19
+2089,1994,POL,Poland,1
+2090,1994,PRI,Puerto Rico,1
+2091,1994,ROU,Romania,3
+2092,1994,RUS,Russian Federation ,9
+2093,1994,SDN,Sudan ,1
+2094,1994,SEN,Senegal,1
+2095,1994,SLV,El Salvador,1
+2096,1994,SOM,Somalia,3
+2097,1994,TGO,Togo,1
+2098,1994,THA,Thailand,7
+2099,1994,TJK,Tajikistan,1
+2100,1994,TUR,Turkey,2
+2101,1994,TWN,Taiwan ,5
+2102,1994,TZA,"Tanzania, United Republic of",2
+2103,1994,UGA,Uganda,1
+2104,1994,UKR,Ukraine,1
+2105,1994,USA,United States of America ,16
+2106,1994,VEN,Venezuela ,2
+2107,1994,VNM,Viet Nam,3
+2108,1994,ZAF,South Africa,2
+2109,1995,AFG,Afghanistan,3
+2110,1995,AGO,Angola,1
+2111,1995,ALB,Albania,2
+2112,1995,ANT,Netherlands Antilles,1
+2113,1995,ARG,Argentina,4
+2114,1995,ATG,Antigua and Barbuda,1
+2115,1995,AUT,Austria,1
+2116,1995,AZE,Azerbaijan,3
+2117,1995,BEL,Belgium,1
+2118,1995,BEN,Benin,1
+2119,1995,BFA,Burkina Faso,1
+2120,1995,BGD,Bangladesh,11
+2121,1995,BHS,Bahamas ,1
+2122,1995,BLR,Belarus,1
+2123,1995,BLZ,Belize,1
+2124,1995,BRA,Brazil,6
+2125,1995,BRB,Barbados,1
+2126,1995,BWA,Botswana,1
+2127,1995,CAF,Central African Republic,2
+2128,1995,CAN,Canada,4
+2129,1995,CHL,Chile,3
+2130,1995,CHN,China,15
+2131,1995,CIV,Côte d’Ivoire,1
+2132,1995,COD,Congo ,1
+2133,1995,COL,Colombia,6
+2134,1995,CPV,Cabo Verde,1
+2135,1995,CRI,Costa Rica,2
+2136,1995,CUB,Cuba,3
+2137,1995,CYP,Cyprus,1
+2138,1995,DEU,Germany,2
+2139,1995,DJI,Djibouti,1
+2140,1995,DMA,Dominica,2
+2141,1995,DOM,Dominican Republic ,3
+2142,1995,ECU,Ecuador,3
+2143,1995,EGY,Egypt,3
+2144,1995,ERI,Eritrea,1
+2145,1995,ESP,Spain,2
+2146,1995,ETH,Ethiopia,1
+2147,1995,FRA,France,1
+2148,1995,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+2149,1995,GEO,Georgia,1
+2150,1995,GHA,Ghana,1
+2151,1995,GLP,Guadeloupe,1
+2152,1995,GRC,Greece,3
+2153,1995,GTM,Guatemala,2
+2154,1995,HND,Honduras,3
+2155,1995,IDN,Indonesia,8
+2156,1995,IND,India,9
+2157,1995,IRN,Iran ,3
+2158,1995,ISL,Iceland,2
+2159,1995,ISR,Israel,1
+2160,1995,JPN,Japan,4
+2161,1995,KAZ,Kazakhstan,1
+2162,1995,KNA,Saint Kitts and Nevis,1
+2163,1995,KOR,Korea ,2
+2164,1995,LAO,Lao People's Democratic Republic ,4
+2165,1995,LBR,Liberia,2
+2166,1995,LBY,Libya,1
+2167,1995,LKA,Sri Lanka,1
+2168,1995,LUX,Luxembourg,1
+2169,1995,MAR,Morocco,3
+2170,1995,MEX,Mexico,11
+2171,1995,MKD,Macedonia ,1
+2172,1995,MMR,Myanmar,2
+2173,1995,MRT,Mauritania,1
+2174,1995,MSR,Montserrat,2
+2175,1995,MTQ,Martinique,1
+2176,1995,MWI,Malawi,2
+2177,1995,MYS,Malaysia,2
+2178,1995,NAM,Namibia,1
+2179,1995,NER,Niger ,1
+2180,1995,NIC,Nicaragua,4
+2181,1995,NLD,Netherlands ,1
+2182,1995,NOR,Norway,1
+2183,1995,NPL,Nepal,4
+2184,1995,PAK,Pakistan,3
+2185,1995,PAN,Panama,2
+2186,1995,PER,Peru,1
+2187,1995,PHL,Philippines ,16
+2188,1995,PRI,Puerto Rico,2
+2189,1995,PRK,Korea ,2
+2190,1995,PRY,Paraguay,2
+2191,1995,ROU,Romania,1
+2192,1995,RUS,Russian Federation ,8
+2193,1995,SEN,Senegal,1
+2194,1995,SLV,El Salvador,2
+2195,1995,SOM,Somalia,1
+2196,1995,TCD,Chad,1
+2197,1995,TGO,Togo,2
+2198,1995,THA,Thailand,3
+2199,1995,TJK,Tajikistan,1
+2200,1995,TUR,Turkey,4
+2201,1995,TZA,"Tanzania, United Republic of",2
+2202,1995,UKR,Ukraine,2
+2203,1995,USA,United States of America ,18
+2204,1995,VEN,Venezuela ,1
+2205,1995,VGB,Virgin Island ,1
+2206,1995,VIR,Virgin Island ,2
+2207,1995,VNM,Viet Nam,2
+2208,1995,ZAF,South Africa,2
+2209,1995,ZMB,Zambia,1
+2210,1996,AFG,Afghanistan,2
+2211,1996,ALB,Albania,1
+2212,1996,AUT,Austria,1
+2213,1996,AZO,Azores Islands,1
+2214,1996,BEN,Benin,2
+2215,1996,BFA,Burkina Faso,2
+2216,1996,BGD,Bangladesh,8
+2217,1996,BLR,Belarus,1
+2218,1996,BOL,Bolivia ,1
+2219,1996,BRA,Brazil,4
+2220,1996,CAF,Central African Republic,1
+2221,1996,CAN,Canada,2
+2222,1996,CHN,China,20
+2223,1996,CIV,Côte d’Ivoire,1
+2224,1996,CMR,Cameroon,1
+2225,1996,COD,Congo ,2
+2226,1996,COL,Colombia,4
+2227,1996,CRI,Costa Rica,3
+2228,1996,CUB,Cuba,3
+2229,1996,CYP,Cyprus,1
+2230,1996,CZE,Czech Republic ,1
+2231,1996,DEU,Germany,1
+2232,1996,DJI,Djibouti,1
+2233,1996,DOM,Dominican Republic ,2
+2234,1996,DZA,Algeria,1
+2235,1996,ECU,Ecuador,1
+2236,1996,EGY,Egypt,2
+2237,1996,ESP,Spain,2
+2238,1996,ETH,Ethiopia,2
+2239,1996,FRA,France,3
+2240,1996,GAB,Gabon,1
+2241,1996,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+2242,1996,GHA,Ghana,1
+2243,1996,GMB,Gambia ,1
+2244,1996,GNB,Guinea-Bissau,1
+2245,1996,GRC,Greece,1
+2246,1996,GTM,Guatemala,2
+2247,1996,GUF,French Guiana,1
+2248,1996,GUY,Guyana,1
+2249,1996,HND,Honduras,3
+2250,1996,HRV,Croatia,1
+2251,1996,HTI,Haiti,4
+2252,1996,HUN,Hungary,1
+2253,1996,IDN,Indonesia,9
+2254,1996,IND,India,13
+2255,1996,IRL,Ireland,1
+2256,1996,IRN,Iran ,4
+2257,1996,ISL,Iceland,1
+2258,1996,ITA,Italy,3
+2259,1996,JAM,Jamaica,1
+2260,1996,JPN,Japan,2
+2261,1996,KEN,Kenya,2
+2262,1996,KHM,Cambodia,1
+2263,1996,KOR,Korea ,2
+2264,1996,LAO,Lao People's Democratic Republic ,1
+2265,1996,LBR,Liberia,1
+2266,1996,LCA,Saint Lucia,1
+2267,1996,LKA,Sri Lanka,1
+2268,1996,LSO,Lesotho,2
+2269,1996,MAR,Morocco,2
+2270,1996,MDG,Madagascar,1
+2271,1996,MEX,Mexico,6
+2272,1996,MLI,Mali,2
+2273,1996,MNG,Mongolia,3
+2274,1996,MOZ,Mozambique,1
+2275,1996,MRT,Mauritania,1
+2276,1996,MSR,Montserrat,1
+2277,1996,MTQ,Martinique,1
+2278,1996,MUS,Mauritius,1
+2279,1996,MYS,Malaysia,5
+2280,1996,NER,Niger ,2
+2281,1996,NGA,Nigeria,2
+2282,1996,NIC,Nicaragua,2
+2283,1996,NPL,Nepal,4
+2284,1996,PAK,Pakistan,3
+2285,1996,PER,Peru,2
+2286,1996,PHL,Philippines ,7
+2287,1996,PRI,Puerto Rico,1
+2288,1996,PRK,Korea ,2
+2289,1996,PRT,Portugal,2
+2290,1996,ROU,Romania,2
+2291,1996,RUS,Russian Federation ,4
+2292,1996,RWA,Rwanda,2
+2293,1996,SDN,Sudan ,5
+2294,1996,SLE,Sierra Leone,4
+2295,1996,SLV,El Salvador,1
+2296,1996,SOM,Somalia,2
+2297,1996,SWZ,Swaziland,1
+2298,1996,TCD,Chad,1
+2299,1996,TGO,Togo,2
+2300,1996,THA,Thailand,2
+2301,1996,TJK,Tajikistan,2
+2302,1996,TTO,Trinidad and Tobago,1
+2303,1996,TUR,Turkey,2
+2304,1996,TWN,Taiwan ,2
+2305,1996,TZA,"Tanzania, United Republic of",1
+2306,1996,UGA,Uganda,1
+2307,1996,UKR,Ukraine,1
+2308,1996,USA,United States of America ,15
+2309,1996,VEN,Venezuela ,2
+2310,1996,VGB,Virgin Island ,1
+2311,1996,VNM,Viet Nam,7
+2312,1996,YEM,Yemen,2
+2313,1996,ZAF,South Africa,4
+2314,1996,ZWE,Zimbabwe,1
+2315,1997,AFG,Afghanistan,4
+2316,1997,AGO,Angola,1
+2317,1997,ALB,Albania,1
+2318,1997,ARG,Argentina,1
+2319,1997,ARM,Armenia,2
+2320,1997,AUT,Austria,1
+2321,1997,AZE,Azerbaijan,1
+2322,1997,AZO,Azores Islands,1
+2323,1997,BDI,Burundi,2
+2324,1997,BEN,Benin,2
+2325,1997,BFA,Burkina Faso,1
+2326,1997,BGD,Bangladesh,9
+2327,1997,BGR,Bulgaria,1
+2328,1997,BLR,Belarus,2
+2329,1997,BOL,Bolivia ,4
+2330,1997,BRA,Brazil,5
+2331,1997,CAN,Canada,3
+2332,1997,CHE,Switzerland,1
+2333,1997,CHL,Chile,5
+2334,1997,CHN,China,21
+2335,1997,CMR,Cameroon,2
+2336,1997,COD,Congo ,4
+2337,1997,COG,Congo ,1
+2338,1997,COL,Colombia,1
+2339,1997,CUB,Cuba,2
+2340,1997,CZE,Czech Republic ,1
+2341,1997,DEU,Germany,2
+2342,1997,DJI,Djibouti,1
+2343,1997,DZA,Algeria,2
+2344,1997,ECU,Ecuador,3
+2345,1997,EGY,Egypt,2
+2346,1997,ESP,Spain,3
+2347,1997,ETH,Ethiopia,3
+2348,1997,FRA,France,3
+2349,1997,GBR,United Kingdom of Great Britain and Northern Ireland ,3
+2350,1997,GEO,Georgia,3
+2351,1997,GHA,Ghana,1
+2352,1997,GMB,Gambia ,1
+2353,1997,GNB,Guinea-Bissau,1
+2354,1997,GRC,Greece,1
+2355,1997,GUY,Guyana,1
+2356,1997,HKG,Hong Kong,2
+2357,1997,HND,Honduras,1
+2358,1997,HRV,Croatia,1
+2359,1997,HUN,Hungary,1
+2360,1997,IDN,Indonesia,6
+2361,1997,IND,India,13
+2362,1997,IRN,Iran ,6
+2363,1997,IRQ,Iraq,1
+2364,1997,ISR,Israel,1
+2365,1997,ITA,Italy,3
+2366,1997,JOR,Jordan,1
+2367,1997,JPN,Japan,4
+2368,1997,KAZ,Kazakhstan,2
+2369,1997,KEN,Kenya,5
+2370,1997,KGZ,Kyrgyzstan,2
+2371,1997,KHM,Cambodia,2
+2372,1997,KOR,Korea ,2
+2373,1997,KWT,Kuwait,1
+2374,1997,LKA,Sri Lanka,2
+2375,1997,MAR,Morocco,1
+2376,1997,MDA,Moldova ,1
+2377,1997,MDG,Madagascar,3
+2378,1997,MEX,Mexico,9
+2379,1997,MLI,Mali,1
+2380,1997,MMR,Myanmar,1
+2381,1997,MOZ,Mozambique,5
+2382,1997,MRT,Mauritania,1
+2383,1997,MSR,Montserrat,1
+2384,1997,MWI,Malawi,3
+2385,1997,MYS,Malaysia,5
+2386,1997,NER,Niger ,3
+2387,1997,NIC,Nicaragua,1
+2388,1997,NLD,Netherlands ,1
+2389,1997,NPL,Nepal,2
+2390,1997,PAK,Pakistan,6
+2391,1997,PER,Peru,4
+2392,1997,PHL,Philippines ,4
+2393,1997,POL,Poland,2
+2394,1997,PRK,Korea ,2
+2395,1997,PRT,Portugal,2
+2396,1997,PRY,Paraguay,2
+2397,1997,ROU,Romania,2
+2398,1997,RUS,Russian Federation ,5
+2399,1997,SDN,Sudan ,1
+2400,1997,SLE,Sierra Leone,2
+2401,1997,SLV,El Salvador,1
+2402,1997,SOM,Somalia,4
+2403,1997,SVK,Slovakia,1
+2404,1997,SYC,Seychelles,1
+2405,1997,TCD,Chad,2
+2406,1997,THA,Thailand,3
+2407,1997,TJK,Tajikistan,2
+2408,1997,TTO,Trinidad and Tobago,2
+2409,1997,TWN,Taiwan ,2
+2410,1997,TZA,"Tanzania, United Republic of",5
+2411,1997,UGA,Uganda,4
+2412,1997,UKR,Ukraine,3
+2413,1997,URY,Uruguay,1
+2414,1997,USA,United States of America ,33
+2415,1997,VEN,Venezuela ,2
+2416,1997,VNM,Viet Nam,4
+2417,1997,ZAF,South Africa,2
+2418,1998,AFG,Afghanistan,7
+2419,1998,AGO,Angola,1
+2420,1998,ALB,Albania,1
+2421,1998,ARG,Argentina,2
+2422,1998,ARM,Armenia,1
+2423,1998,ATG,Antigua and Barbuda,1
+2424,1998,AUT,Austria,1
+2425,1998,AZE,Azerbaijan,1
+2426,1998,AZO,Azores Islands,1
+2427,1998,BEL,Belgium,2
+2428,1998,BEN,Benin,2
+2429,1998,BFA,Burkina Faso,2
+2430,1998,BGD,Bangladesh,8
+2431,1998,BGR,Bulgaria,1
+2432,1998,BLZ,Belize,1
+2433,1998,BOL,Bolivia ,3
+2434,1998,BRA,Brazil,11
+2435,1998,BRN,Brunei Darussalam,1
+2436,1998,CAF,Central African Republic,1
+2437,1998,CAN,Canada,3
+2438,1998,CHE,Switzerland,1
+2439,1998,CHN,China,18
+2440,1998,CMR,Cameroon,3
+2441,1998,COD,Congo ,5
+2442,1998,COG,Congo ,1
+2443,1998,COL,Colombia,2
+2444,1998,COM,Comoros ,1
+2445,1998,CPV,Cabo Verde,1
+2446,1998,CRI,Costa Rica,3
+2447,1998,CUB,Cuba,2
+2448,1998,CYP,Cyprus,1
+2449,1998,CZE,Czech Republic ,1
+2450,1998,DEU,Germany,1
+2451,1998,DJI,Djibouti,1
+2452,1998,DOM,Dominican Republic ,1
+2453,1998,ECU,Ecuador,3
+2454,1998,ESP,Spain,2
+2455,1998,ETH,Ethiopia,1
+2456,1998,FRA,France,2
+2457,1998,GBR,United Kingdom of Great Britain and Northern Ireland ,4
+2458,1998,GHA,Ghana,1
+2459,1998,GIN,Guinea,1
+2460,1998,GLP,Guadeloupe,1
+2461,1998,GNB,Guinea-Bissau,1
+2462,1998,GRC,Greece,2
+2463,1998,GTM,Guatemala,4
+2464,1998,HND,Honduras,3
+2465,1998,HTI,Haiti,1
+2466,1998,IDN,Indonesia,7
+2467,1998,IND,India,16
+2468,1998,IRL,Ireland,1
+2469,1998,IRN,Iran ,8
+2470,1998,IRQ,Iraq,1
+2471,1998,ISR,Israel,1
+2472,1998,ITA,Italy,3
+2473,1998,JPN,Japan,7
+2474,1998,KAZ,Kazakhstan,1
+2475,1998,KEN,Kenya,2
+2476,1998,KGZ,Kyrgyzstan,2
+2477,1998,KHM,Cambodia,2
+2478,1998,KNA,Saint Kitts and Nevis,1
+2479,1998,KOR,Korea ,5
+2480,1998,LBR,Liberia,2
+2481,1998,LKA,Sri Lanka,2
+2482,1998,MDG,Madagascar,1
+2483,1998,MEX,Mexico,10
+2484,1998,MLI,Mali,2
+2485,1998,MOZ,Mozambique,4
+2486,1998,MRT,Mauritania,1
+2487,1998,MWI,Malawi,1
+2488,1998,MYS,Malaysia,4
+2489,1998,NAM,Namibia,1
+2490,1998,NER,Niger ,1
+2491,1998,NGA,Nigeria,3
+2492,1998,NIC,Nicaragua,6
+2493,1998,NLD,Netherlands ,2
+2494,1998,NPL,Nepal,4
+2495,1998,PAK,Pakistan,5
+2496,1998,PAN,Panama,1
+2497,1998,PER,Peru,5
+2498,1998,PHL,Philippines ,7
+2499,1998,POL,Poland,2
+2500,1998,PRI,Puerto Rico,1
+2501,1998,PRK,Korea ,1
+2502,1998,PRY,Paraguay,1
+2503,1998,ROU,Romania,3
+2504,1998,RUS,Russian Federation ,8
+2505,1998,RWA,Rwanda,1
+2506,1998,SDN,Sudan ,6
+2507,1998,SEN,Senegal,2
+2508,1998,SGP,Singapore,1
+2509,1998,SLE,Sierra Leone,1
+2510,1998,SLV,El Salvador,3
+2511,1998,SOM,Somalia,2
+2512,1998,SVK,Slovakia,1
+2513,1998,SVN,Slovenia,1
+2514,1998,TCD,Chad,1
+2515,1998,TGO,Togo,2
+2516,1998,TJK,Tajikistan,3
+2517,1998,TUR,Turkey,6
+2518,1998,TWN,Taiwan ,4
+2519,1998,TZA,"Tanzania, United Republic of",4
+2520,1998,UGA,Uganda,3
+2521,1998,UKR,Ukraine,1
+2522,1998,URY,Uruguay,1
+2523,1998,USA,United States of America ,32
+2524,1998,UZB,Uzbekistan,1
+2525,1998,VIR,Virgin Island ,1
+2526,1998,VNM,Viet Nam,6
+2527,1998,YEM,Yemen,2
+2528,1998,ZAF,South Africa,2
+2529,1998,ZMB,Zambia,1
+2530,1998,ZWE,Zimbabwe,4
+2531,1999,AFG,Afghanistan,5
+2532,1999,AGO,Angola,2
+2533,1999,AIA,Anguilla,1
+2534,1999,ARG,Argentina,1
+2535,1999,ATG,Antigua and Barbuda,2
+2536,1999,AUT,Austria,2
+2537,1999,AZE,Azerbaijan,1
+2538,1999,BDI,Burundi,4
+2539,1999,BEL,Belgium,2
+2540,1999,BEN,Benin,2
+2541,1999,BFA,Burkina Faso,1
+2542,1999,BGD,Bangladesh,12
+2543,1999,BGR,Bulgaria,1
+2544,1999,BHS,Bahamas ,1
+2545,1999,BIH,Bosnia and Herzegovina,1
+2546,1999,BLR,Belarus,1
+2547,1999,BOL,Bolivia ,3
+2548,1999,BRA,Brazil,4
+2549,1999,BTN,Bhutan,1
+2550,1999,CAF,Central African Republic,3
+2551,1999,CAN,Canada,3
+2552,1999,CHE,Switzerland,3
+2553,1999,CHL,Chile,1
+2554,1999,CHN,China,21
+2555,1999,CMR,Cameroon,3
+2556,1999,COD,Congo ,2
+2557,1999,COG,Congo ,2
+2558,1999,COL,Colombia,7
+2559,1999,COM,Comoros ,1
+2560,1999,CRI,Costa Rica,1
+2561,1999,CUB,Cuba,2
+2562,1999,DEU,Germany,4
+2563,1999,DJI,Djibouti,1
+2564,1999,DMA,Dominica,1
+2565,1999,DNK,Denmark,1
+2566,1999,DOM,Dominican Republic ,1
+2567,1999,DZA,Algeria,2
+2568,1999,ECU,Ecuador,1
+2569,1999,ERI,Eritrea,1
+2570,1999,ESP,Spain,3
+2571,1999,ETH,Ethiopia,8
+2572,1999,FRA,France,8
+2573,1999,GBR,United Kingdom of Great Britain and Northern Ireland ,3
+2574,1999,GHA,Ghana,4
+2575,1999,GIN,Guinea,1
+2576,1999,GLP,Guadeloupe,1
+2577,1999,GMB,Gambia ,1
+2578,1999,GNB,Guinea-Bissau,1
+2579,1999,GRC,Greece,1
+2580,1999,GRD,Grenada,1
+2581,1999,GTM,Guatemala,2
+2582,1999,HKG,Hong Kong,1
+2583,1999,HND,Honduras,1
+2584,1999,HTI,Haiti,1
+2585,1999,HUN,Hungary,3
+2586,1999,IDN,Indonesia,8
+2587,1999,IND,India,13
+2588,1999,IRL,Ireland,1
+2589,1999,IRN,Iran ,8
+2590,1999,ISR,Israel,1
+2591,1999,ITA,Italy,2
+2592,1999,JOR,Jordan,1
+2593,1999,JPN,Japan,3
+2594,1999,KAZ,Kazakhstan,1
+2595,1999,KEN,Kenya,4
+2596,1999,KHM,Cambodia,3
+2597,1999,KNA,Saint Kitts and Nevis,1
+2598,1999,KOR,Korea ,2
+2599,1999,LAO,Lao People's Democratic Republic ,1
+2600,1999,LBR,Liberia,1
+2601,1999,LCA,Saint Lucia,1
+2602,1999,LKA,Sri Lanka,2
+2603,1999,LSO,Lesotho,1
+2604,1999,LTU,Lithuania,2
+2605,1999,LVA,Latvia,1
+2606,1999,MAR,Morocco,1
+2607,1999,MDA,Moldova ,2
+2608,1999,MDG,Madagascar,2
+2609,1999,MEX,Mexico,11
+2610,1999,MLI,Mali,1
+2611,1999,MMR,Myanmar,1
+2612,1999,MOZ,Mozambique,1
+2613,1999,MRT,Mauritania,3
+2614,1999,MTQ,Martinique,1
+2615,1999,MUS,Mauritius,2
+2616,1999,MWI,Malawi,1
+2617,1999,MYS,Malaysia,1
+2618,1999,NER,Niger ,4
+2619,1999,NGA,Nigeria,9
+2620,1999,NIC,Nicaragua,4
+2621,1999,NLD,Netherlands ,1
+2622,1999,NPL,Nepal,3
+2623,1999,PAK,Pakistan,6
+2624,1999,PAN,Panama,2
+2625,1999,PER,Peru,5
+2626,1999,PHL,Philippines ,18
+2627,1999,POL,Poland,2
+2628,1999,PRI,Puerto Rico,1
+2629,1999,PRK,Korea ,1
+2630,1999,PRY,Paraguay,2
+2631,1999,ROU,Romania,4
+2632,1999,RUS,Russian Federation ,10
+2633,1999,RWA,Rwanda,4
+2634,1999,SCG,Serbia Montenegro,3
+2635,1999,SDN,Sudan ,8
+2636,1999,SEN,Senegal,2
+2637,1999,SLE,Sierra Leone,3
+2638,1999,SLV,El Salvador,1
+2639,1999,SOM,Somalia,2
+2640,1999,SPI,Canary Is,1
+2641,1999,SVK,Slovakia,1
+2642,1999,SWE,Sweden,1
+2643,1999,SYR,Syrian Arab Republic,1
+2644,1999,TCD,Chad,1
+2645,1999,TGO,Togo,1
+2646,1999,THA,Thailand,7
+2647,1999,TJK,Tajikistan,3
+2648,1999,TUR,Turkey,6
+2649,1999,TWN,Taiwan ,2
+2650,1999,TZA,"Tanzania, United Republic of",1
+2651,1999,UGA,Uganda,4
+2652,1999,URY,Uruguay,2
+2653,1999,USA,United States of America ,22
+2654,1999,UZB,Uzbekistan,1
+2655,1999,VCT,Saint Vincent and the Grenadines,1
+2656,1999,VEN,Venezuela ,3
+2657,1999,VIR,Virgin Island ,1
+2658,1999,VNM,Viet Nam,5
+2659,1999,YEM,Yemen,1
+2660,1999,ZAF,South Africa,5
+2661,1999,ZMB,Zambia,4
+2662,1999,ZWE,Zimbabwe,2
+2663,2000,AFG,Afghanistan,5
+2664,2000,AGO,Angola,6
+2665,2000,ARG,Argentina,8
+2666,2000,ARM,Armenia,1
+2667,2000,AUT,Austria,2
+2668,2000,AZE,Azerbaijan,3
+2669,2000,BDI,Burundi,4
+2670,2000,BEN,Benin,3
+2671,2000,BGD,Bangladesh,15
+2672,2000,BGR,Bulgaria,4
+2673,2000,BIH,Bosnia and Herzegovina,3
+2674,2000,BLR,Belarus,1
+2675,2000,BLZ,Belize,1
+2676,2000,BOL,Bolivia ,4
+2677,2000,BRA,Brazil,6
+2678,2000,BTN,Bhutan,1
+2679,2000,BWA,Botswana,1
+2680,2000,CAF,Central African Republic,3
+2681,2000,CAN,Canada,1
+2682,2000,CHE,Switzerland,1
+2683,2000,CHL,Chile,3
+2684,2000,CHN,China,29
+2685,2000,CMR,Cameroon,2
+2686,2000,COD,Congo ,2
+2687,2000,COG,Congo ,1
+2688,2000,COL,Colombia,4
+2689,2000,CRI,Costa Rica,1
+2690,2000,CUB,Cuba,2
+2691,2000,CYP,Cyprus,3
+2692,2000,CZE,Czech Republic ,1
+2693,2000,DJI,Djibouti,1
+2694,2000,DZA,Algeria,5
+2695,2000,ECU,Ecuador,5
+2696,2000,EGY,Egypt,1
+2697,2000,ESP,Spain,5
+2698,2000,ETH,Ethiopia,9
+2699,2000,FRA,France,7
+2700,2000,GBR,United Kingdom of Great Britain and Northern Ireland ,6
+2701,2000,GEO,Georgia,1
+2702,2000,GIN,Guinea,2
+2703,2000,GMB,Gambia ,1
+2704,2000,GRC,Greece,6
+2705,2000,GTM,Guatemala,3
+2706,2000,GUF,French Guiana,1
+2707,2000,HND,Honduras,2
+2708,2000,HRV,Croatia,3
+2709,2000,HTI,Haiti,2
+2710,2000,HUN,Hungary,1
+2711,2000,IDN,Indonesia,15
+2712,2000,IND,India,21
+2713,2000,IRL,Ireland,2
+2714,2000,IRN,Iran ,7
+2715,2000,ISL,Iceland,2
+2716,2000,ISR,Israel,3
+2717,2000,ITA,Italy,4
+2718,2000,JAM,Jamaica,1
+2719,2000,JOR,Jordan,3
+2720,2000,JPN,Japan,8
+2721,2000,KAZ,Kazakhstan,2
+2722,2000,KEN,Kenya,5
+2723,2000,KGZ,Kyrgyzstan,1
+2724,2000,KHM,Cambodia,1
+2725,2000,KOR,Korea ,6
+2726,2000,LAO,Lao People's Democratic Republic ,3
+2727,2000,LBR,Liberia,2
+2728,2000,LKA,Sri Lanka,4
+2729,2000,LSO,Lesotho,1
+2730,2000,LVA,Latvia,1
+2731,2000,MAR,Morocco,3
+2732,2000,MDA,Moldova ,2
+2733,2000,MDG,Madagascar,3
+2734,2000,MEX,Mexico,8
+2735,2000,MKD,Macedonia ,1
+2736,2000,MLI,Mali,1
+2737,2000,MNG,Mongolia,3
+2738,2000,MOZ,Mozambique,7
+2739,2000,MWI,Malawi,2
+2740,2000,MYS,Malaysia,4
+2741,2000,NAM,Namibia,2
+2742,2000,NER,Niger ,4
+2743,2000,NGA,Nigeria,12
+2744,2000,NIC,Nicaragua,5
+2745,2000,NOR,Norway,1
+2746,2000,NPL,Nepal,3
+2747,2000,PAK,Pakistan,4
+2748,2000,PAN,Panama,1
+2749,2000,PER,Peru,3
+2750,2000,PHL,Philippines ,13
+2751,2000,POL,Poland,1
+2752,2000,PRK,Korea ,1
+2753,2000,PRT,Portugal,1
+2754,2000,PRY,Paraguay,1
+2755,2000,REU,Réunion,1
+2756,2000,ROU,Romania,5
+2757,2000,RUS,Russian Federation ,25
+2758,2000,RWA,Rwanda,1
+2759,2000,SAU,Saudi Arabia,2
+2760,2000,SCG,Serbia Montenegro,4
+2761,2000,SDN,Sudan ,1
+2762,2000,SEN,Senegal,1
+2763,2000,SGP,Singapore,1
+2764,2000,SLE,Sierra Leone,1
+2765,2000,SLV,El Salvador,3
+2766,2000,SOM,Somalia,7
+2767,2000,SVK,Slovakia,1
+2768,2000,SWZ,Swaziland,2
+2769,2000,TCD,Chad,2
+2770,2000,THA,Thailand,6
+2771,2000,TJK,Tajikistan,2
+2772,2000,TKM,Turkmenistan,1
+2773,2000,TUR,Turkey,6
+2774,2000,TWN,Taiwan ,2
+2775,2000,TZA,"Tanzania, United Republic of",6
+2776,2000,UGA,Uganda,5
+2777,2000,UKR,Ukraine,4
+2778,2000,URY,Uruguay,3
+2779,2000,USA,United States of America ,31
+2780,2000,UZB,Uzbekistan,1
+2781,2000,VEN,Venezuela ,2
+2782,2000,VNM,Viet Nam,11
+2783,2000,YEM,Yemen,1
+2784,2000,ZAF,South Africa,6
+2785,2000,ZMB,Zambia,3
+2786,2000,ZWE,Zimbabwe,4
+2787,2001,AFG,Afghanistan,6
+2788,2001,AGO,Angola,5
+2789,2001,ARG,Argentina,7
+2790,2001,BEN,Benin,3
+2791,2001,BFA,Burkina Faso,4
+2792,2001,BGD,Bangladesh,7
+2793,2001,BGR,Bulgaria,2
+2794,2001,BHS,Bahamas ,1
+2795,2001,BIH,Bosnia and Herzegovina,1
+2796,2001,BLZ,Belize,2
+2797,2001,BOL,Bolivia ,2
+2798,2001,BRA,Brazil,5
+2799,2001,CAF,Central African Republic,2
+2800,2001,CAN,Canada,3
+2801,2001,CHE,Switzerland,1
+2802,2001,CHL,Chile,4
+2803,2001,CHN,China,33
+2804,2001,CIV,Côte d’Ivoire,2
+2805,2001,CMR,Cameroon,4
+2806,2001,COD,Congo ,12
+2807,2001,COG,Congo ,1
+2808,2001,COL,Colombia,6
+2809,2001,CRI,Costa Rica,1
+2810,2001,CUB,Cuba,1
+2811,2001,CYM,Cayman Islands ,1
+2812,2001,DEU,Germany,1
+2813,2001,DOM,Dominican Republic ,1
+2814,2001,DZA,Algeria,1
+2815,2001,ECU,Ecuador,3
+2816,2001,ESP,Spain,2
+2817,2001,ETH,Ethiopia,5
+2818,2001,FRA,France,7
+2819,2001,GAB,Gabon,1
+2820,2001,GBR,United Kingdom of Great Britain and Northern Ireland ,3
+2821,2001,GEO,Georgia,1
+2822,2001,GHA,Ghana,3
+2823,2001,GIN,Guinea,2
+2824,2001,GMB,Gambia ,1
+2825,2001,GRC,Greece,3
+2826,2001,GTM,Guatemala,4
+2827,2001,HND,Honduras,2
+2828,2001,HRV,Croatia,1
+2829,2001,HTI,Haiti,2
+2830,2001,HUN,Hungary,2
+2831,2001,IDN,Indonesia,10
+2832,2001,IND,India,22
+2833,2001,IRN,Iran ,5
+2834,2001,ITA,Italy,4
+2835,2001,JAM,Jamaica,1
+2836,2001,JPN,Japan,6
+2837,2001,KAZ,Kazakhstan,2
+2838,2001,KEN,Kenya,5
+2839,2001,KHM,Cambodia,2
+2840,2001,KOR,Korea ,4
+2841,2001,LAO,Lao People's Democratic Republic ,1
+2842,2001,LKA,Sri Lanka,2
+2843,2001,LSO,Lesotho,2
+2844,2001,LTU,Lithuania,1
+2845,2001,LVA,Latvia,1
+2846,2001,MAR,Morocco,1
+2847,2001,MEX,Mexico,6
+2848,2001,MKD,Macedonia ,1
+2849,2001,MLI,Mali,2
+2850,2001,MMR,Myanmar,1
+2851,2001,MNG,Mongolia,1
+2852,2001,MOZ,Mozambique,5
+2853,2001,MRT,Mauritania,2
+2854,2001,MWI,Malawi,5
+2855,2001,MYS,Malaysia,4
+2856,2001,NAM,Namibia,2
+2857,2001,NER,Niger ,5
+2858,2001,NGA,Nigeria,8
+2859,2001,NIC,Nicaragua,2
+2860,2001,NOR,Norway,1
+2861,2001,NPL,Nepal,3
+2862,2001,PAK,Pakistan,7
+2863,2001,PAN,Panama,1
+2864,2001,PER,Peru,7
+2865,2001,PHL,Philippines ,11
+2866,2001,POL,Poland,2
+2867,2001,PRI,Puerto Rico,1
+2868,2001,PRK,Korea ,2
+2869,2001,PRT,Portugal,2
+2870,2001,ROU,Romania,3
+2871,2001,RUS,Russian Federation ,11
+2872,2001,RWA,Rwanda,2
+2873,2001,SAU,Saudi Arabia,1
+2874,2001,SCG,Serbia Montenegro,1
+2875,2001,SDN,Sudan ,1
+2876,2001,SHN,"Saint Helena, Ascension and Tristan da Cunha",1
+2877,2001,SLE,Sierra Leone,1
+2878,2001,SLV,El Salvador,4
+2879,2001,SOM,Somalia,2
+2880,2001,SPI,Canary Is,1
+2881,2001,SVK,Slovakia,1
+2882,2001,SWZ,Swaziland,1
+2883,2001,SYR,Syrian Arab Republic,1
+2884,2001,TCD,Chad,3
+2885,2001,TGO,Togo,2
+2886,2001,THA,Thailand,7
+2887,2001,TJK,Tajikistan,3
+2888,2001,TLS,Timor-Leste,1
+2889,2001,TUR,Turkey,7
+2890,2001,TWN,Taiwan ,5
+2891,2001,TZA,"Tanzania, United Republic of",5
+2892,2001,UGA,Uganda,4
+2893,2001,UKR,Ukraine,1
+2894,2001,URY,Uruguay,1
+2895,2001,USA,United States of America ,27
+2896,2001,VNM,Viet Nam,7
+2897,2001,YEM,Yemen,3
+2898,2001,ZAF,South Africa,6
+2899,2001,ZMB,Zambia,2
+2900,2001,ZWE,Zimbabwe,2
+2901,2002,AFG,Afghanistan,16
+2902,2002,AGO,Angola,1
+2903,2002,ALB,Albania,3
+2904,2002,ARG,Argentina,5
+2905,2002,AUT,Austria,3
+2906,2002,BDI,Burundi,5
+2907,2002,BEL,Belgium,5
+2908,2002,BEN,Benin,1
+2909,2002,BGD,Bangladesh,7
+2910,2002,BGR,Bulgaria,1
+2911,2002,BOL,Bolivia ,3
+2912,2002,BRA,Brazil,6
+2913,2002,BRB,Barbados,1
+2914,2002,CAF,Central African Republic,2
+2915,2002,CAN,Canada,4
+2916,2002,CHE,Switzerland,4
+2917,2002,CHL,Chile,5
+2918,2002,CHN,China,29
+2919,2002,CIV,Côte d’Ivoire,3
+2920,2002,COD,Congo ,11
+2921,2002,COG,Congo ,2
+2922,2002,COL,Colombia,5
+2923,2002,CPV,Cabo Verde,1
+2924,2002,CRI,Costa Rica,2
+2925,2002,CUB,Cuba,3
+2926,2002,CYM,Cayman Islands ,2
+2927,2002,CZE,Czech Republic ,3
+2928,2002,DEU,Germany,6
+2929,2002,DNK,Denmark,1
+2930,2002,DOM,Dominican Republic ,1
+2931,2002,DZA,Algeria,3
+2932,2002,ECU,Ecuador,6
+2933,2002,EGY,Egypt,3
+2934,2002,ESP,Spain,2
+2935,2002,ETH,Ethiopia,2
+2936,2002,FRA,France,6
+2937,2002,GBR,United Kingdom of Great Britain and Northern Ireland ,6
+2938,2002,GEO,Georgia,1
+2939,2002,GHA,Ghana,2
+2940,2002,GIN,Guinea,1
+2941,2002,GMB,Gambia ,1
+2942,2002,GNB,Guinea-Bissau,1
+2943,2002,GRC,Greece,6
+2944,2002,GTM,Guatemala,5
+2945,2002,HKG,Hong Kong,1
+2946,2002,HND,Honduras,5
+2947,2002,HTI,Haiti,2
+2948,2002,HUN,Hungary,1
+2949,2002,IDN,Indonesia,16
+2950,2002,IND,India,19
+2951,2002,IRL,Ireland,2
+2952,2002,IRN,Iran ,9
+2953,2002,ITA,Italy,9
+2954,2002,JAM,Jamaica,3
+2955,2002,JOR,Jordan,1
+2956,2002,JPN,Japan,6
+2957,2002,KEN,Kenya,5
+2958,2002,KGZ,Kyrgyzstan,1
+2959,2002,KHM,Cambodia,2
+2960,2002,KOR,Korea ,5
+2961,2002,KWT,Kuwait,1
+2962,2002,LAO,Lao People's Democratic Republic ,1
+2963,2002,LBN,Lebanon,1
+2964,2002,LBR,Liberia,1
+2965,2002,LKA,Sri Lanka,1
+2966,2002,LSO,Lesotho,1
+2967,2002,MAC,Macao,1
+2968,2002,MAR,Morocco,1
+2969,2002,MDA,Moldova ,1
+2970,2002,MDG,Madagascar,5
+2971,2002,MEX,Mexico,8
+2972,2002,MKD,Macedonia ,2
+2973,2002,MLI,Mali,2
+2974,2002,MMR,Myanmar,1
+2975,2002,MNG,Mongolia,3
+2976,2002,MOZ,Mozambique,3
+2977,2002,MRT,Mauritania,1
+2978,2002,MUS,Mauritius,1
+2979,2002,MWI,Malawi,5
+2980,2002,MYS,Malaysia,3
+2981,2002,NAM,Namibia,1
+2982,2002,NER,Niger ,3
+2983,2002,NGA,Nigeria,9
+2984,2002,NIC,Nicaragua,3
+2985,2002,NLD,Netherlands ,1
+2986,2002,NPL,Nepal,3
+2987,2002,OMN,Oman,1
+2988,2002,PAK,Pakistan,10
+2989,2002,PAN,Panama,3
+2990,2002,PER,Peru,5
+2991,2002,PHL,Philippines ,13
+2992,2002,POL,Poland,3
+2993,2002,PRK,Korea ,2
+2994,2002,PRT,Portugal,1
+2995,2002,PRY,Paraguay,2
+2996,2002,REU,Réunion,1
+2997,2002,ROU,Romania,5
+2998,2002,RUS,Russian Federation ,12
+2999,2002,RWA,Rwanda,3
+3000,2002,SAU,Saudi Arabia,1
+3001,2002,SCG,Serbia Montenegro,2
+3002,2002,SDN,Sudan ,4
+3003,2002,SEN,Senegal,4
+3004,2002,SGP,Singapore,1
+3005,2002,SLV,El Salvador,3
+3006,2002,SOM,Somalia,3
+3007,2002,SPI,Canary Is,1
+3008,2002,SVK,Slovakia,1
+3009,2002,SWE,Sweden,3
+3010,2002,SYC,Seychelles,1
+3011,2002,SYR,Syrian Arab Republic,1
+3012,2002,TGO,Togo,1
+3013,2002,THA,Thailand,7
+3014,2002,TJK,Tajikistan,6
+3015,2002,TUR,Turkey,3
+3016,2002,TWN,Taiwan ,4
+3017,2002,TZA,"Tanzania, United Republic of",3
+3018,2002,UGA,Uganda,4
+3019,2002,URY,Uruguay,2
+3020,2002,USA,United States of America ,32
+3021,2002,VCT,Saint Vincent and the Grenadines,1
+3022,2002,VEN,Venezuela ,1
+3023,2002,VNM,Viet Nam,7
+3024,2002,YEM,Yemen,4
+3025,2002,ZAF,South Africa,10
+3026,2002,ZWE,Zimbabwe,2
+3027,2003,AFG,Afghanistan,9
+3028,2003,AGO,Angola,2
+3029,2003,ARG,Argentina,4
+3030,2003,AUT,Austria,1
+3031,2003,AZE,Azerbaijan,1
+3032,2003,BDI,Burundi,2
+3033,2003,BEL,Belgium,2
+3034,2003,BEN,Benin,1
+3035,2003,BFA,Burkina Faso,2
+3036,2003,BGD,Bangladesh,8
+3037,2003,BIH,Bosnia and Herzegovina,1
+3038,2003,BMU,Bermuda,1
+3039,2003,BOL,Bolivia ,4
+3040,2003,BRA,Brazil,5
+3041,2003,CAF,Central African Republic,2
+3042,2003,CAN,Canada,7
+3043,2003,CHE,Switzerland,2
+3044,2003,CHL,Chile,1
+3045,2003,CHN,China,27
+3046,2003,CMR,Cameroon,1
+3047,2003,COD,Congo ,7
+3048,2003,COG,Congo ,1
+3049,2003,COL,Colombia,4
+3050,2003,COM,Comoros ,1
+3051,2003,CRI,Costa Rica,2
+3052,2003,CUB,Cuba,1
+3053,2003,CYP,Cyprus,1
+3054,2003,CZE,Czech Republic ,1
+3055,2003,DEU,Germany,3
+3056,2003,DOM,Dominican Republic ,4
+3057,2003,DZA,Algeria,7
+3058,2003,ECU,Ecuador,2
+3059,2003,ERI,Eritrea,1
+3060,2003,ESP,Spain,2
+3061,2003,ETH,Ethiopia,2
+3062,2003,FRA,France,6
+3063,2003,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+3064,2003,GIN,Guinea,1
+3065,2003,GMB,Gambia ,1
+3066,2003,GNB,Guinea-Bissau,1
+3067,2003,GRC,Greece,4
+3068,2003,GTM,Guatemala,2
+3069,2003,HKG,Hong Kong,2
+3070,2003,HND,Honduras,2
+3071,2003,HRV,Croatia,3
+3072,2003,HTI,Haiti,6
+3073,2003,HUN,Hungary,2
+3074,2003,IDN,Indonesia,16
+3075,2003,IND,India,17
+3076,2003,IRN,Iran ,7
+3077,2003,IRQ,Iraq,1
+3078,2003,ITA,Italy,4
+3079,2003,JPN,Japan,6
+3080,2003,KAZ,Kazakhstan,1
+3081,2003,KEN,Kenya,2
+3082,2003,KGZ,Kyrgyzstan,1
+3083,2003,KOR,Korea ,1
+3084,2003,LBN,Lebanon,1
+3085,2003,LBR,Liberia,2
+3086,2003,LKA,Sri Lanka,1
+3087,2003,LUX,Luxembourg,1
+3088,2003,LVA,Latvia,1
+3089,2003,MAR,Morocco,1
+3090,2003,MDG,Madagascar,4
+3091,2003,MEX,Mexico,9
+3092,2003,MKD,Macedonia ,2
+3093,2003,MLI,Mali,2
+3094,2003,MNG,Mongolia,1
+3095,2003,MOZ,Mozambique,9
+3096,2003,MRT,Mauritania,1
+3097,2003,MWI,Malawi,2
+3098,2003,MYS,Malaysia,3
+3099,2003,NAM,Namibia,1
+3100,2003,NER,Niger ,2
+3101,2003,NGA,Nigeria,1
+3102,2003,NLD,Netherlands ,1
+3103,2003,NPL,Nepal,2
+3104,2003,OMN,Oman,1
+3105,2003,PAK,Pakistan,6
+3106,2003,PAN,Panama,3
+3107,2003,PER,Peru,3
+3108,2003,PHL,Philippines ,10
+3109,2003,PRI,Puerto Rico,2
+3110,2003,PRT,Portugal,3
+3111,2003,ROU,Romania,2
+3112,2003,RUS,Russian Federation ,5
+3113,2003,RWA,Rwanda,2
+3114,2003,SAU,Saudi Arabia,2
+3115,2003,SDN,Sudan ,2
+3116,2003,SEN,Senegal,1
+3117,2003,SLE,Sierra Leone,1
+3118,2003,SLV,El Salvador,1
+3119,2003,SOM,Somalia,2
+3120,2003,SVK,Slovakia,1
+3121,2003,SVN,Slovenia,1
+3122,2003,TCD,Chad,1
+3123,2003,TGO,Togo,1
+3124,2003,THA,Thailand,5
+3125,2003,TJK,Tajikistan,4
+3126,2003,TLS,Timor-Leste,2
+3127,2003,TUN,Tunisia,2
+3128,2003,TUR,Turkey,5
+3129,2003,TWN,Taiwan ,1
+3130,2003,TZA,"Tanzania, United Republic of",2
+3131,2003,UGA,Uganda,3
+3132,2003,UKR,Ukraine,1
+3133,2003,URY,Uruguay,1
+3134,2003,USA,United States of America ,23
+3135,2003,VEN,Venezuela ,2
+3136,2003,VNM,Viet Nam,5
+3137,2003,YEM,Yemen,1
+3138,2003,ZAF,South Africa,2
+3139,2003,ZMB,Zambia,3
+3140,2003,ZWE,Zimbabwe,3
+3141,2004,AFG,Afghanistan,3
+3142,2004,AGO,Angola,5
+3143,2004,ALB,Albania,2
+3144,2004,ARG,Argentina,3
+3145,2004,ARM,Armenia,1
+3146,2004,BDI,Burundi,4
+3147,2004,BFA,Burkina Faso,2
+3148,2004,BGD,Bangladesh,10
+3149,2004,BHS,Bahamas ,3
+3150,2004,BIH,Bosnia and Herzegovina,2
+3151,2004,BOL,Bolivia ,1
+3152,2004,BRA,Brazil,5
+3153,2004,BRB,Barbados,1
+3154,2004,BTN,Bhutan,1
+3155,2004,BWA,Botswana,1
+3156,2004,CAF,Central African Republic,1
+3157,2004,CAN,Canada,4
+3158,2004,CHL,Chile,2
+3159,2004,CHN,China,25
+3160,2004,CMR,Cameroon,1
+3161,2004,COD,Congo ,5
+3162,2004,COL,Colombia,4
+3163,2004,CPV,Cabo Verde,1
+3164,2004,CRI,Costa Rica,3
+3165,2004,CUB,Cuba,3
+3166,2004,CYM,Cayman Islands ,2
+3167,2004,CYP,Cyprus,1
+3168,2004,DEU,Germany,2
+3169,2004,DJI,Djibouti,1
+3170,2004,DMA,Dominica,1
+3171,2004,DOM,Dominican Republic ,4
+3172,2004,DZA,Algeria,4
+3173,2004,EGY,Egypt,3
+3174,2004,ERI,Eritrea,1
+3175,2004,ESP,Spain,3
+3176,2004,FRA,France,1
+3177,2004,GAB,Gabon,1
+3178,2004,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+3179,2004,GEO,Georgia,2
+3180,2004,GIN,Guinea,2
+3181,2004,GLP,Guadeloupe,1
+3182,2004,GMB,Gambia ,2
+3183,2004,GNB,Guinea-Bissau,2
+3184,2004,GNQ,Equatorial Guinea,1
+3185,2004,GRC,Greece,2
+3186,2004,GRD,Grenada,1
+3187,2004,HND,Honduras,1
+3188,2004,HTI,Haiti,3
+3189,2004,HUN,Hungary,1
+3190,2004,IDN,Indonesia,19
+3191,2004,IND,India,7
+3192,2004,IRL,Ireland,1
+3193,2004,IRN,Iran ,4
+3194,2004,IRQ,Iraq,2
+3195,2004,ITA,Italy,1
+3196,2004,JAM,Jamaica,2
+3197,2004,JPN,Japan,12
+3198,2004,KAZ,Kazakhstan,1
+3199,2004,KEN,Kenya,5
+3200,2004,KGZ,Kyrgyzstan,3
+3201,2004,KHM,Cambodia,2
+3202,2004,KOR,Korea ,7
+3203,2004,LAO,Lao People's Democratic Republic ,1
+3204,2004,LCA,Saint Lucia,1
+3205,2004,LKA,Sri Lanka,3
+3206,2004,MAR,Morocco,2
+3207,2004,MDG,Madagascar,2
+3208,2004,MDV,Maldives,1
+3209,2004,MEX,Mexico,3
+3210,2004,MKD,Macedonia ,2
+3211,2004,MLI,Mali,1
+3212,2004,MMR,Myanmar,2
+3213,2004,MRT,Mauritania,1
+3214,2004,MYS,Malaysia,6
+3215,2004,NAM,Namibia,2
+3216,2004,NER,Niger ,3
+3217,2004,NGA,Nigeria,9
+3218,2004,NIC,Nicaragua,2
+3219,2004,NPL,Nepal,1
+3220,2004,PAK,Pakistan,4
+3221,2004,PAN,Panama,3
+3222,2004,PER,Peru,4
+3223,2004,PHL,Philippines ,13
+3224,2004,POL,Poland,1
+3225,2004,PRI,Puerto Rico,3
+3226,2004,PRK,Korea ,2
+3227,2004,PRT,Portugal,2
+3228,2004,PRY,Paraguay,1
+3229,2004,ROU,Romania,6
+3230,2004,RUS,Russian Federation ,8
+3231,2004,RWA,Rwanda,1
+3232,2004,SAU,Saudi Arabia,1
+3233,2004,SDN,Sudan ,3
+3234,2004,SEN,Senegal,3
+3235,2004,SLE,Sierra Leone,2
+3236,2004,SOM,Somalia,3
+3237,2004,SPI,Canary Is,1
+3238,2004,SVK,Slovakia,2
+3239,2004,SVN,Slovenia,1
+3240,2004,SYC,Seychelles,1
+3241,2004,SYR,Syrian Arab Republic,1
+3242,2004,TCA,Turks and Caicos Islands ,1
+3243,2004,TCD,Chad,3
+3244,2004,THA,Thailand,8
+3245,2004,TJK,Tajikistan,2
+3246,2004,TTO,Trinidad and Tobago,2
+3247,2004,TUR,Turkey,11
+3248,2004,TWN,Taiwan ,5
+3249,2004,TZA,"Tanzania, United Republic of",2
+3250,2004,UGA,Uganda,3
+3251,2004,URY,Uruguay,1
+3252,2004,USA,United States of America ,20
+3253,2004,VCT,Saint Vincent and the Grenadines,1
+3254,2004,VEN,Venezuela ,2
+3255,2004,VIR,Virgin Island ,1
+3256,2004,VNM,Viet Nam,7
+3257,2004,ZAF,South Africa,3
+3258,2004,ZMB,Zambia,1
+3259,2005,AFG,Afghanistan,14
+3260,2005,AGO,Angola,1
+3261,2005,ALB,Albania,2
+3262,2005,ARG,Argentina,1
+3263,2005,AUT,Austria,3
+3264,2005,BDI,Burundi,2
+3265,2005,BEL,Belgium,3
+3266,2005,BEN,Benin,1
+3267,2005,BFA,Burkina Faso,1
+3268,2005,BGD,Bangladesh,12
+3269,2005,BGR,Bulgaria,7
+3270,2005,BHS,Bahamas ,1
+3271,2005,BIH,Bosnia and Herzegovina,2
+3272,2005,BLR,Belarus,1
+3273,2005,BLZ,Belize,2
+3274,2005,BOL,Bolivia ,1
+3275,2005,BRA,Brazil,4
+3276,2005,CAF,Central African Republic,1
+3277,2005,CAN,Canada,5
+3278,2005,CHE,Switzerland,2
+3279,2005,CHL,Chile,4
+3280,2005,CHN,China,31
+3281,2005,CIV,Côte d’Ivoire,1
+3282,2005,CMR,Cameroon,3
+3283,2005,COD,Congo ,5
+3284,2005,COG,Congo ,2
+3285,2005,COL,Colombia,5
+3286,2005,COM,Comoros ,4
+3287,2005,CRI,Costa Rica,3
+3288,2005,CUB,Cuba,2
+3289,2005,CZE,Czech Republic ,3
+3290,2005,DEU,Germany,5
+3291,2005,DJI,Djibouti,1
+3292,2005,DNK,Denmark,1
+3293,2005,DOM,Dominican Republic ,3
+3294,2005,DZA,Algeria,3
+3295,2005,ESP,Spain,2
+3296,2005,EST,Estonia,2
+3297,2005,ETH,Ethiopia,8
+3298,2005,FIN,Finland,1
+3299,2005,FRA,France,5
+3300,2005,GBR,United Kingdom of Great Britain and Northern Ireland ,4
+3301,2005,GEO,Georgia,1
+3302,2005,GHA,Ghana,1
+3303,2005,GIN,Guinea,1
+3304,2005,GNB,Guinea-Bissau,1
+3305,2005,GTM,Guatemala,4
+3306,2005,GUY,Guyana,1
+3307,2005,HKG,Hong Kong,1
+3308,2005,HND,Honduras,5
+3309,2005,HRV,Croatia,3
+3310,2005,HTI,Haiti,8
+3311,2005,HUN,Hungary,4
+3312,2005,IDN,Indonesia,10
+3313,2005,IND,India,31
+3314,2005,IRL,Ireland,1
+3315,2005,IRN,Iran ,9
+3316,2005,ITA,Italy,1
+3317,2005,JAM,Jamaica,3
+3318,2005,JPN,Japan,6
+3319,2005,KAZ,Kazakhstan,1
+3320,2005,KEN,Kenya,6
+3321,2005,KGZ,Kyrgyzstan,1
+3322,2005,KHM,Cambodia,2
+3323,2005,KOR,Korea ,5
+3324,2005,LBR,Liberia,1
+3325,2005,LKA,Sri Lanka,1
+3326,2005,LTU,Lithuania,2
+3327,2005,LVA,Latvia,3
+3328,2005,MAR,Morocco,1
+3329,2005,MDA,Moldova ,2
+3330,2005,MDG,Madagascar,4
+3331,2005,MEX,Mexico,7
+3332,2005,MKD,Macedonia ,2
+3333,2005,MLI,Mali,5
+3334,2005,MMR,Myanmar,1
+3335,2005,MOZ,Mozambique,3
+3336,2005,MRT,Mauritania,2
+3337,2005,MUS,Mauritius,1
+3338,2005,MWI,Malawi,3
+3339,2005,MYS,Malaysia,3
+3340,2005,NER,Niger ,2
+3341,2005,NGA,Nigeria,6
+3342,2005,NIC,Nicaragua,2
+3343,2005,NLD,Netherlands ,3
+3344,2005,NOR,Norway,1
+3345,2005,NPL,Nepal,3
+3346,2005,PAK,Pakistan,11
+3347,2005,PAN,Panama,1
+3348,2005,PER,Peru,2
+3349,2005,PHL,Philippines ,4
+3350,2005,POL,Poland,4
+3351,2005,PRK,Korea ,1
+3352,2005,PRT,Portugal,2
+3353,2005,PRY,Paraguay,1
+3354,2005,REU,Réunion,1
+3355,2005,ROU,Romania,9
+3356,2005,RUS,Russian Federation ,9
+3357,2005,SAU,Saudi Arabia,2
+3358,2005,SCG,Serbia Montenegro,3
+3359,2005,SDN,Sudan ,5
+3360,2005,SEN,Senegal,2
+3361,2005,SLE,Sierra Leone,1
+3362,2005,SLV,El Salvador,6
+3363,2005,SOM,Somalia,5
+3364,2005,SPI,Canary Is,1
+3365,2005,STP,Sao Tome and Principe,1
+3366,2005,SVK,Slovakia,2
+3367,2005,SVN,Slovenia,1
+3368,2005,SWE,Sweden,2
+3369,2005,SWZ,Swaziland,1
+3370,2005,SYC,Seychelles,1
+3371,2005,TCD,Chad,1
+3372,2005,THA,Thailand,6
+3373,2005,TJK,Tajikistan,3
+3374,2005,TLS,Timor-Leste,1
+3375,2005,TTO,Trinidad and Tobago,1
+3376,2005,TUR,Turkey,8
+3377,2005,TWN,Taiwan ,5
+3378,2005,TZA,"Tanzania, United Republic of",3
+3379,2005,UGA,Uganda,3
+3380,2005,UKR,Ukraine,2
+3381,2005,URY,Uruguay,1
+3382,2005,USA,United States of America ,16
+3383,2005,UZB,Uzbekistan,1
+3384,2005,VCT,Saint Vincent and the Grenadines,1
+3385,2005,VEN,Venezuela ,4
+3386,2005,VNM,Viet Nam,11
+3387,2005,YEM,Yemen,4
+3388,2005,ZAF,South Africa,1
+3389,2005,ZMB,Zambia,3
+3390,2005,ZWE,Zimbabwe,2
+3391,2006,AFG,Afghanistan,13
+3392,2006,AGO,Angola,3
+3393,2006,ARG,Argentina,1
+3394,2006,AUT,Austria,1
+3395,2006,BDI,Burundi,7
+3396,2006,BEL,Belgium,1
+3397,2006,BFA,Burkina Faso,3
+3398,2006,BGD,Bangladesh,7
+3399,2006,BGR,Bulgaria,3
+3400,2006,BOL,Bolivia ,2
+3401,2006,BRA,Brazil,2
+3402,2006,BWA,Botswana,1
+3403,2006,CAN,Canada,5
+3404,2006,CHE,Switzerland,2
+3405,2006,CHL,Chile,1
+3406,2006,CHN,China,37
+3407,2006,CIV,Côte d’Ivoire,2
+3408,2006,CMR,Cameroon,1
+3409,2006,COD,Congo ,11
+3410,2006,COG,Congo ,2
+3411,2006,COL,Colombia,3
+3412,2006,COM,Comoros ,1
+3413,2006,CUB,Cuba,2
+3414,2006,CZE,Czech Republic ,2
+3415,2006,DEU,Germany,5
+3416,2006,DZA,Algeria,2
+3417,2006,ECU,Ecuador,3
+3418,2006,ESP,Spain,3
+3419,2006,ETH,Ethiopia,9
+3420,2006,FRA,France,3
+3421,2006,GEO,Georgia,1
+3422,2006,GIN,Guinea,3
+3423,2006,GNB,Guinea-Bissau,1
+3424,2006,GRC,Greece,3
+3425,2006,GTM,Guatemala,1
+3426,2006,GUY,Guyana,1
+3427,2006,HND,Honduras,1
+3428,2006,HRV,Croatia,1
+3429,2006,HTI,Haiti,3
+3430,2006,HUN,Hungary,2
+3431,2006,IDN,Indonesia,18
+3432,2006,IND,India,20
+3433,2006,IRN,Iran ,4
+3434,2006,IRQ,Iraq,2
+3435,2006,ITA,Italy,2
+3436,2006,JAM,Jamaica,2
+3437,2006,JPN,Japan,5
+3438,2006,KEN,Kenya,7
+3439,2006,KGZ,Kyrgyzstan,2
+3440,2006,KHM,Cambodia,3
+3441,2006,KOR,Korea ,1
+3442,2006,LKA,Sri Lanka,1
+3443,2006,LTU,Lithuania,1
+3444,2006,MAR,Morocco,3
+3445,2006,MDG,Madagascar,2
+3446,2006,MEX,Mexico,7
+3447,2006,MKD,Macedonia ,1
+3448,2006,MLI,Mali,3
+3449,2006,MMR,Myanmar,2
+3450,2006,MOZ,Mozambique,2
+3451,2006,MRT,Mauritania,2
+3452,2006,MSR,Montserrat,1
+3453,2006,MWI,Malawi,3
+3454,2006,MYS,Malaysia,4
+3455,2006,NAM,Namibia,3
+3456,2006,NER,Niger ,3
+3457,2006,NGA,Nigeria,3
+3458,2006,NLD,Netherlands ,1
+3459,2006,NPL,Nepal,4
+3460,2006,PAK,Pakistan,9
+3461,2006,PAN,Panama,3
+3462,2006,PER,Peru,3
+3463,2006,PHL,Philippines ,20
+3464,2006,POL,Poland,1
+3465,2006,PRK,Korea ,3
+3466,2006,PRT,Portugal,2
+3467,2006,PRY,Paraguay,1
+3468,2006,ROU,Romania,7
+3469,2006,RUS,Russian Federation ,4
+3470,2006,RWA,Rwanda,2
+3471,2006,SCG,Serbia Montenegro,2
+3472,2006,SDN,Sudan ,8
+3473,2006,SLV,El Salvador,2
+3474,2006,SOM,Somalia,10
+3475,2006,SUR,Suriname,1
+3476,2006,SVK,Slovakia,2
+3477,2006,SWZ,Swaziland,1
+3478,2006,SYR,Syrian Arab Republic,1
+3479,2006,TCD,Chad,2
+3480,2006,TGO,Togo,1
+3481,2006,THA,Thailand,3
+3482,2006,TJK,Tajikistan,3
+3483,2006,TLS,Timor-Leste,1
+3484,2006,TUR,Turkey,3
+3485,2006,TWN,Taiwan ,4
+3486,2006,TZA,"Tanzania, United Republic of",8
+3487,2006,UGA,Uganda,6
+3488,2006,UKR,Ukraine,2
+3489,2006,USA,United States of America ,29
+3490,2006,VEN,Venezuela ,1
+3491,2006,VNM,Viet Nam,11
+3492,2006,YEM,Yemen,2
+3493,2006,ZAF,South Africa,2
+3494,2006,ZMB,Zambia,1
+3495,2007,AFG,Afghanistan,7
+3496,2007,AGO,Angola,4
+3497,2007,ALB,Albania,2
+3498,2007,ARG,Argentina,3
+3499,2007,AUT,Austria,2
+3500,2007,BDI,Burundi,2
+3501,2007,BEL,Belgium,1
+3502,2007,BEN,Benin,1
+3503,2007,BFA,Burkina Faso,2
+3504,2007,BGD,Bangladesh,7
+3505,2007,BGR,Bulgaria,6
+3506,2007,BHS,Bahamas ,1
+3507,2007,BIH,Bosnia and Herzegovina,1
+3508,2007,BLR,Belarus,1
+3509,2007,BLZ,Belize,1
+3510,2007,BOL,Bolivia ,4
+3511,2007,BRA,Brazil,6
+3512,2007,BRB,Barbados,1
+3513,2007,CAF,Central African Republic,1
+3514,2007,CAN,Canada,3
+3515,2007,CHE,Switzerland,3
+3516,2007,CHL,Chile,3
+3517,2007,CHN,China,20
+3518,2007,CIV,Côte d’Ivoire,2
+3519,2007,CMR,Cameroon,1
+3520,2007,COD,Congo ,3
+3521,2007,COG,Congo ,1
+3522,2007,COL,Colombia,6
+3523,2007,COM,Comoros ,1
+3524,2007,CRI,Costa Rica,2
+3525,2007,CUB,Cuba,3
+3526,2007,CYP,Cyprus,1
+3527,2007,CZE,Czech Republic ,1
+3528,2007,DEU,Germany,3
+3529,2007,DJI,Djibouti,2
+3530,2007,DMA,Dominica,1
+3531,2007,DNK,Denmark,1
+3532,2007,DOM,Dominican Republic ,5
+3533,2007,DZA,Algeria,7
+3534,2007,ESP,Spain,4
+3535,2007,ETH,Ethiopia,3
+3536,2007,FRA,France,3
+3537,2007,GAB,Gabon,1
+3538,2007,GBR,United Kingdom of Great Britain and Northern Ireland ,5
+3539,2007,GHA,Ghana,1
+3540,2007,GIN,Guinea,2
+3541,2007,GLP,Guadeloupe,1
+3542,2007,GMB,Gambia ,1
+3543,2007,GRC,Greece,4
+3544,2007,GTM,Guatemala,3
+3545,2007,HND,Honduras,4
+3546,2007,HRV,Croatia,2
+3547,2007,HTI,Haiti,7
+3548,2007,HUN,Hungary,1
+3549,2007,IDN,Indonesia,19
+3550,2007,IND,India,20
+3551,2007,IRN,Iran ,2
+3552,2007,IRQ,Iraq,1
+3553,2007,ITA,Italy,2
+3554,2007,JAM,Jamaica,2
+3555,2007,JPN,Japan,8
+3556,2007,KEN,Kenya,4
+3557,2007,KGZ,Kyrgyzstan,1
+3558,2007,KHM,Cambodia,2
+3559,2007,KOR,Korea ,2
+3560,2007,LBN,Lebanon,1
+3561,2007,LBR,Liberia,2
+3562,2007,LCA,Saint Lucia,2
+3563,2007,LKA,Sri Lanka,3
+3564,2007,LSO,Lesotho,1
+3565,2007,MDA,Moldova ,1
+3566,2007,MDG,Madagascar,4
+3567,2007,MDV,Maldives,1
+3568,2007,MEX,Mexico,7
+3569,2007,MKD,Macedonia ,2
+3570,2007,MLI,Mali,2
+3571,2007,MMR,Myanmar,5
+3572,2007,MNE,Montenegro,1
+3573,2007,MOZ,Mozambique,7
+3574,2007,MRT,Mauritania,2
+3575,2007,MTQ,Martinique,2
+3576,2007,MUS,Mauritius,1
+3577,2007,MWI,Malawi,5
+3578,2007,MYS,Malaysia,3
+3579,2007,NAM,Namibia,2
+3580,2007,NER,Niger ,1
+3581,2007,NGA,Nigeria,4
+3582,2007,NIC,Nicaragua,2
+3583,2007,NLD,Netherlands ,1
+3584,2007,NPL,Nepal,1
+3585,2007,OMN,Oman,1
+3586,2007,PAK,Pakistan,10
+3587,2007,PAN,Panama,1
+3588,2007,PER,Peru,3
+3589,2007,PHL,Philippines ,16
+3590,2007,POL,Poland,2
+3591,2007,PRI,Puerto Rico,1
+3592,2007,PRK,Korea ,2
+3593,2007,PRY,Paraguay,1
+3594,2007,REU,Réunion,1
+3595,2007,ROU,Romania,6
+3596,2007,RUS,Russian Federation ,3
+3597,2007,RWA,Rwanda,2
+3598,2007,SDN,Sudan ,4
+3599,2007,SEN,Senegal,2
+3600,2007,SLE,Sierra Leone,1
+3601,2007,SLV,El Salvador,2
+3602,2007,SOM,Somalia,3
+3603,2007,SPI,Canary Is,1
+3604,2007,SRB,Serbia,2
+3605,2007,SVK,Slovakia,1
+3606,2007,SVN,Slovenia,2
+3607,2007,SWZ,Swaziland,2
+3608,2007,TCD,Chad,3
+3609,2007,TGO,Togo,1
+3610,2007,THA,Thailand,5
+3611,2007,TJK,Tajikistan,4
+3612,2007,TLS,Timor-Leste,3
+3613,2007,TUN,Tunisia,2
+3614,2007,TUR,Turkey,4
+3615,2007,TWN,Taiwan ,2
+3616,2007,TZA,"Tanzania, United Republic of",2
+3617,2007,UGA,Uganda,4
+3618,2007,UKR,Ukraine,2
+3619,2007,URY,Uruguay,3
+3620,2007,USA,United States of America ,23
+3621,2007,VNM,Viet Nam,7
+3622,2007,YEM,Yemen,4
+3623,2007,ZAF,South Africa,3
+3624,2007,ZMB,Zambia,4
+3625,2007,ZWE,Zimbabwe,5
+3626,2008,AFG,Afghanistan,4
+3627,2008,AGO,Angola,3
+3628,2008,ARG,Argentina,2
+3629,2008,ATG,Antigua and Barbuda,1
+3630,2008,AUT,Austria,1
+3631,2008,BDI,Burundi,3
+3632,2008,BEL,Belgium,2
+3633,2008,BEN,Benin,4
+3634,2008,BFA,Burkina Faso,4
+3635,2008,BGD,Bangladesh,5
+3636,2008,BGR,Bulgaria,1
+3637,2008,BHS,Bahamas ,2
+3638,2008,BLZ,Belize,2
+3639,2008,BOL,Bolivia ,4
+3640,2008,BRA,Brazil,6
+3641,2008,BWA,Botswana,1
+3642,2008,CAF,Central African Republic,1
+3643,2008,CAN,Canada,2
+3644,2008,CHL,Chile,3
+3645,2008,CHN,China,30
+3646,2008,CIV,Côte d’Ivoire,2
+3647,2008,CMR,Cameroon,1
+3648,2008,COD,Congo ,3
+3649,2008,COG,Congo ,2
+3650,2008,COL,Colombia,8
+3651,2008,CRI,Costa Rica,4
+3652,2008,CUB,Cuba,5
+3653,2008,CYM,Cayman Islands ,2
+3654,2008,CZE,Czech Republic ,1
+3655,2008,DEU,Germany,3
+3656,2008,DJI,Djibouti,1
+3657,2008,DOM,Dominican Republic ,3
+3658,2008,DZA,Algeria,1
+3659,2008,ECU,Ecuador,1
+3660,2008,EGY,Egypt,1
+3661,2008,ERI,Eritrea,1
+3662,2008,ETH,Ethiopia,5
+3663,2008,FRA,France,4
+3664,2008,GBR,United Kingdom of Great Britain and Northern Ireland ,3
+3665,2008,GHA,Ghana,1
+3666,2008,GIN,Guinea,1
+3667,2008,GMB,Gambia ,2
+3668,2008,GNB,Guinea-Bissau,2
+3669,2008,GRC,Greece,1
+3670,2008,GTM,Guatemala,4
+3671,2008,GUY,Guyana,1
+3672,2008,HKG,Hong Kong,3
+3673,2008,HND,Honduras,2
+3674,2008,HTI,Haiti,4
+3675,2008,HUN,Hungary,1
+3676,2008,IDN,Indonesia,17
+3677,2008,IND,India,11
+3678,2008,IRN,Iran ,5
+3679,2008,IRQ,Iraq,2
+3680,2008,ITA,Italy,3
+3681,2008,JAM,Jamaica,2
+3682,2008,JPN,Japan,4
+3683,2008,KAZ,Kazakhstan,1
+3684,2008,KEN,Kenya,9
+3685,2008,KGZ,Kyrgyzstan,2
+3686,2008,KOR,Korea ,1
+3687,2008,LAO,Lao People's Democratic Republic ,1
+3688,2008,LBR,Liberia,1
+3689,2008,LKA,Sri Lanka,4
+3690,2008,LSO,Lesotho,1
+3691,2008,MAR,Morocco,2
+3692,2008,MDA,Moldova ,1
+3693,2008,MDG,Madagascar,5
+3694,2008,MEX,Mexico,3
+3695,2008,MLI,Mali,1
+3696,2008,MMR,Myanmar,1
+3697,2008,MNG,Mongolia,2
+3698,2008,MOZ,Mozambique,5
+3699,2008,MWI,Malawi,2
+3700,2008,MYS,Malaysia,2
+3701,2008,NAM,Namibia,2
+3702,2008,NER,Niger ,3
+3703,2008,NGA,Nigeria,3
+3704,2008,NIC,Nicaragua,3
+3705,2008,NLD,Netherlands ,1
+3706,2008,NOR,Norway,1
+3707,2008,NPL,Nepal,2
+3708,2008,PAK,Pakistan,4
+3709,2008,PAN,Panama,2
+3710,2008,PER,Peru,1
+3711,2008,PHL,Philippines ,20
+3712,2008,POL,Poland,2
+3713,2008,PRT,Portugal,2
+3714,2008,PRY,Paraguay,5
+3715,2008,PSE,"Palestine, State of",1
+3716,2008,ROU,Romania,3
+3717,2008,RUS,Russian Federation ,1
+3718,2008,RWA,Rwanda,2
+3719,2008,SDN,Sudan ,2
+3720,2008,SEN,Senegal,1
+3721,2008,SLE,Sierra Leone,1
+3722,2008,SLV,El Salvador,2
+3723,2008,SOM,Somalia,3
+3724,2008,SSD,South Sudan,3
+3725,2008,SUR,Suriname,1
+3726,2008,SWZ,Swaziland,1
+3727,2008,SYR,Syrian Arab Republic,1
+3728,2008,TCA,Turks and Caicos Islands ,3
+3729,2008,TCD,Chad,3
+3730,2008,TGO,Togo,2
+3731,2008,THA,Thailand,6
+3732,2008,TJK,Tajikistan,2
+3733,2008,TUR,Turkey,1
+3734,2008,TWN,Taiwan ,5
+3735,2008,TZA,"Tanzania, United Republic of",4
+3736,2008,UGA,Uganda,3
+3737,2008,UKR,Ukraine,2
+3738,2008,USA,United States of America ,22
+3739,2008,VEN,Venezuela ,1
+3740,2008,VNM,Viet Nam,10
+3741,2008,YEM,Yemen,1
+3742,2008,ZAF,South Africa,4
+3743,2008,ZMB,Zambia,2
+3744,2008,ZWE,Zimbabwe,1
+3745,2009,AFG,Afghanistan,5
+3746,2009,AGO,Angola,5
+3747,2009,ALB,Albania,2
+3748,2009,ARG,Argentina,6
+3749,2009,AUT,Austria,4
+3750,2009,AZE,Azerbaijan,1
+3751,2009,BDI,Burundi,2
+3752,2009,BEN,Benin,3
+3753,2009,BFA,Burkina Faso,3
+3754,2009,BGD,Bangladesh,6
+3755,2009,BIH,Bosnia and Herzegovina,3
+3756,2009,BOL,Bolivia ,1
+3757,2009,BRA,Brazil,10
+3758,2009,BTN,Bhutan,2
+3759,2009,BWA,Botswana,3
+3760,2009,CAF,Central African Republic,3
+3761,2009,CAN,Canada,3
+3762,2009,CHE,Switzerland,1
+3763,2009,CHN,China,26
+3764,2009,CIV,Côte d’Ivoire,1
+3765,2009,CMR,Cameroon,1
+3766,2009,COD,Congo ,6
+3767,2009,COL,Colombia,3
+3768,2009,COM,Comoros ,1
+3769,2009,CPV,Cabo Verde,2
+3770,2009,CRI,Costa Rica,1
+3771,2009,CZE,Czech Republic ,2
+3772,2009,DEU,Germany,3
+3773,2009,DOM,Dominican Republic ,3
+3774,2009,DZA,Algeria,2
+3775,2009,ECU,Ecuador,2
+3776,2009,ESP,Spain,2
+3777,2009,ETH,Ethiopia,2
+3778,2009,FRA,France,4
+3779,2009,GAB,Gabon,1
+3780,2009,GBR,United Kingdom of Great Britain and Northern Ireland ,3
+3781,2009,GEO,Georgia,1
+3782,2009,GHA,Ghana,2
+3783,2009,GIN,Guinea,1
+3784,2009,GMB,Gambia ,2
+3785,2009,GRC,Greece,2
+3786,2009,GTM,Guatemala,3
+3787,2009,HKG,Hong Kong,1
+3788,2009,HND,Honduras,3
+3789,2009,HTI,Haiti,3
+3790,2009,IDN,Indonesia,12
+3791,2009,IND,India,18
+3792,2009,IRL,Ireland,1
+3793,2009,IRN,Iran ,1
+3794,2009,IRQ,Iraq,1
+3795,2009,ITA,Italy,5
+3796,2009,JPN,Japan,6
+3797,2009,KEN,Kenya,5
+3798,2009,KGZ,Kyrgyzstan,1
+3799,2009,KHM,Cambodia,2
+3800,2009,LAO,Lao People's Democratic Republic ,2
+3801,2009,LBR,Liberia,2
+3802,2009,LKA,Sri Lanka,4
+3803,2009,MAR,Morocco,2
+3804,2009,MDG,Madagascar,4
+3805,2009,MEX,Mexico,8
+3806,2009,MLI,Mali,2
+3807,2009,MMR,Myanmar,1
+3808,2009,MNE,Montenegro,1
+3809,2009,MNG,Mongolia,2
+3810,2009,MOZ,Mozambique,4
+3811,2009,MRT,Mauritania,1
+3812,2009,MWI,Malawi,3
+3813,2009,MYS,Malaysia,2
+3814,2009,NAM,Namibia,1
+3815,2009,NER,Niger ,3
+3816,2009,NGA,Nigeria,4
+3817,2009,NIC,Nicaragua,4
+3818,2009,NPL,Nepal,6
+3819,2009,PAK,Pakistan,3
+3820,2009,PAN,Panama,1
+3821,2009,PER,Peru,7
+3822,2009,PHL,Philippines ,25
+3823,2009,POL,Poland,3
+3824,2009,PRY,Paraguay,4
+3825,2009,ROU,Romania,3
+3826,2009,SAU,Saudi Arabia,1
+3827,2009,SDN,Sudan ,1
+3828,2009,SEN,Senegal,1
+3829,2009,SLE,Sierra Leone,1
+3830,2009,SLV,El Salvador,3
+3831,2009,SOM,Somalia,1
+3832,2009,SRB,Serbia,2
+3833,2009,SSD,South Sudan,1
+3834,2009,TCD,Chad,4
+3835,2009,TGO,Togo,1
+3836,2009,THA,Thailand,1
+3837,2009,TJK,Tajikistan,1
+3838,2009,TUN,Tunisia,1
+3839,2009,TUR,Turkey,4
+3840,2009,TWN,Taiwan ,1
+3841,2009,TZA,"Tanzania, United Republic of",4
+3842,2009,UGA,Uganda,2
+3843,2009,UKR,Ukraine,1
+3844,2009,URY,Uruguay,1
+3845,2009,USA,United States of America ,17
+3846,2009,VEN,Venezuela ,1
+3847,2009,VNM,Viet Nam,6
+3848,2009,YEM,Yemen,1
+3849,2009,ZAF,South Africa,4
+3850,2009,ZMB,Zambia,2
+3851,2009,ZWE,Zimbabwe,2
+3852,2010,AFG,Afghanistan,5
+3853,2010,AGO,Angola,3
+3854,2010,ALB,Albania,1
+3855,2010,ARG,Argentina,1
+3856,2010,ATG,Antigua and Barbuda,1
+3857,2010,AZE,Azerbaijan,1
+3858,2010,BDI,Burundi,4
+3859,2010,BEL,Belgium,3
+3860,2010,BEN,Benin,4
+3861,2010,BFA,Burkina Faso,2
+3862,2010,BGD,Bangladesh,6
+3863,2010,BGR,Bulgaria,2
+3864,2010,BIH,Bosnia and Herzegovina,3
+3865,2010,BLZ,Belize,1
+3866,2010,BOL,Bolivia ,5
+3867,2010,BRA,Brazil,6
+3868,2010,BRB,Barbados,2
+3869,2010,CAF,Central African Republic,1
+3870,2010,CAN,Canada,1
+3871,2010,CHE,Switzerland,2
+3872,2010,CHL,Chile,2
+3873,2010,CHN,China,26
+3874,2010,CIV,Côte d’Ivoire,2
+3875,2010,CMR,Cameroon,2
+3876,2010,COD,Congo ,6
+3877,2010,COG,Congo ,1
+3878,2010,COL,Colombia,6
+3879,2010,CRI,Costa Rica,2
+3880,2010,CZE,Czech Republic ,4
+3881,2010,DEU,Germany,4
+3882,2010,DJI,Djibouti,1
+3883,2010,DNK,Denmark,1
+3884,2010,DOM,Dominican Republic ,4
+3885,2010,ECU,Ecuador,4
+3886,2010,EGY,Egypt,3
+3887,2010,ESP,Spain,2
+3888,2010,ETH,Ethiopia,4
+3889,2010,FRA,France,4
+3890,2010,GAB,Gabon,4
+3891,2010,GBR,United Kingdom of Great Britain and Northern Ireland ,2
+3892,2010,GHA,Ghana,3
+3893,2010,GIN,Guinea,2
+3894,2010,GLP,Guadeloupe,1
+3895,2010,GMB,Gambia ,2
+3896,2010,GNB,Guinea-Bissau,1
+3897,2010,GRC,Greece,1
+3898,2010,GRD,Grenada,1
+3899,2010,GTM,Guatemala,6
+3900,2010,GUY,Guyana,1
+3901,2010,HKG,Hong Kong,1
+3902,2010,HND,Honduras,5
+3903,2010,HRV,Croatia,3
+3904,2010,HTI,Haiti,7
+3905,2010,HUN,Hungary,1
+3906,2010,IDN,Indonesia,12
+3907,2010,IND,India,17
+3908,2010,IRN,Iran ,6
+3909,2010,ISL,Iceland,1
+3910,2010,ISR,Israel,2
+3911,2010,ITA,Italy,3
+3912,2010,JAM,Jamaica,1
+3913,2010,JPN,Japan,2
+3914,2010,KAZ,Kazakhstan,2
+3915,2010,KEN,Kenya,6
+3916,2010,KGZ,Kyrgyzstan,2
+3917,2010,KHM,Cambodia,1
+3918,2010,KOR,Korea ,1
+3919,2010,LBR,Liberia,1
+3920,2010,LCA,Saint Lucia,3
+3921,2010,LKA,Sri Lanka,2
+3922,2010,LTU,Lithuania,2
+3923,2010,LUX,Luxembourg,1
+3924,2010,MAR,Morocco,2
+3925,2010,MDA,Moldova ,1
+3926,2010,MDG,Madagascar,2
+3927,2010,MEX,Mexico,9
+3928,2010,MLI,Mali,3
+3929,2010,MMR,Myanmar,2
+3930,2010,MNE,Montenegro,2
+3931,2010,MOZ,Mozambique,3
+3932,2010,MRT,Mauritania,2
+3933,2010,MTQ,Martinique,1
+3934,2010,MWI,Malawi,1
+3935,2010,NAM,Namibia,1
+3936,2010,NER,Niger ,4
+3937,2010,NGA,Nigeria,3
+3938,2010,NIC,Nicaragua,5
+3939,2010,NLD,Netherlands ,1
+3940,2010,NPL,Nepal,4
+3941,2010,OMN,Oman,1
+3942,2010,PAK,Pakistan,7
+3943,2010,PAN,Panama,4
+3944,2010,PER,Peru,4
+3945,2010,PHL,Philippines ,15
+3946,2010,POL,Poland,3
+3947,2010,PRK,Korea ,3
+3948,2010,PRT,Portugal,3
+3949,2010,PRY,Paraguay,2
+3950,2010,PSE,"Palestine, State of",1
+3951,2010,ROU,Romania,2
+3952,2010,RUS,Russian Federation ,8
+3953,2010,RWA,Rwanda,2
+3954,2010,SAU,Saudi Arabia,2
+3955,2010,SDN,Sudan ,2
+3956,2010,SEN,Senegal,2
+3957,2010,SLE,Sierra Leone,2
+3958,2010,SLV,El Salvador,3
+3959,2010,SOM,Somalia,3
+3960,2010,SRB,Serbia,6
+3961,2010,SSD,South Sudan,2
+3962,2010,SVK,Slovakia,3
+3963,2010,TCD,Chad,4
+3964,2010,TGO,Togo,3
+3965,2010,THA,Thailand,3
+3966,2010,TJK,Tajikistan,4
+3967,2010,TTO,Trinidad and Tobago,1
+3968,2010,TUR,Turkey,2
+3969,2010,TWN,Taiwan ,3
+3970,2010,UGA,Uganda,3
+3971,2010,UKR,Ukraine,1
+3972,2010,URY,Uruguay,1
+3973,2010,USA,United States of America ,16
+3974,2010,VCT,Saint Vincent and the Grenadines,2
+3975,2010,VEN,Venezuela ,3
+3976,2010,VNM,Viet Nam,7
+3977,2010,YEM,Yemen,2
+3978,2010,ZAF,South Africa,1
+3979,2010,ZMB,Zambia,2
+3980,2010,ZWE,Zimbabwe,4
+3981,2011,AFG,Afghanistan,4
+3982,2011,AGO,Angola,4
+3983,2011,ARG,Argentina,1
+3984,2011,BDI,Burundi,3
+3985,2011,BEL,Belgium,2
+3986,2011,BEN,Benin,1
+3987,2011,BFA,Burkina Faso,1
+3988,2011,BGD,Bangladesh,5
+3989,2011,BHS,Bahamas ,1
+3990,2011,BOL,Bolivia ,2
+3991,2011,BRA,Brazil,8
+3992,2011,BTN,Bhutan,1
+3993,2011,BWA,Botswana,1
+3994,2011,CAF,Central African Republic,3
+3995,2011,CAN,Canada,4
+3996,2011,CHE,Switzerland,1
+3997,2011,CHL,Chile,5
+3998,2011,CHN,China,20
+3999,2011,CMR,Cameroon,1
+4000,2011,COD,Congo ,4
+4001,2011,COG,Congo ,3
+4002,2011,COL,Colombia,3
+4003,2011,CRI,Costa Rica,1
+4004,2011,DEU,Germany,1
+4005,2011,DMA,Dominica,1
+4006,2011,DOM,Dominican Republic ,4
+4007,2011,DZA,Algeria,1
+4008,2011,ECU,Ecuador,2
+4009,2011,ESP,Spain,2
+4010,2011,ETH,Ethiopia,2
+4011,2011,FRA,France,2
+4012,2011,GEO,Georgia,1
+4013,2011,GHA,Ghana,3
+4014,2011,GIN,Guinea,1
+4015,2011,GTM,Guatemala,7
+4016,2011,HND,Honduras,1
+4017,2011,HTI,Haiti,4
+4018,2011,IDN,Indonesia,12
+4019,2011,IND,India,13
+4020,2011,IRL,Ireland,1
+4021,2011,IRQ,Iraq,1
+4022,2011,ITA,Italy,4
+4023,2011,JPN,Japan,7
+4024,2011,KAZ,Kazakhstan,1
+4025,2011,KEN,Kenya,4
+4026,2011,KGZ,Kyrgyzstan,1
+4027,2011,KHM,Cambodia,1
+4028,2011,KOR,Korea ,3
+4029,2011,LAO,Lao People's Democratic Republic ,2
+4030,2011,LKA,Sri Lanka,5
+4031,2011,LSO,Lesotho,3
+4032,2011,MDG,Madagascar,1
+4033,2011,MDV,Maldives,1
+4034,2011,MEX,Mexico,12
+4035,2011,MLI,Mali,3
+4036,2011,MMR,Myanmar,2
+4037,2011,MOZ,Mozambique,4
+4038,2011,MRT,Mauritania,1
+4039,2011,MTQ,Martinique,1
+4040,2011,MWI,Malawi,3
+4041,2011,MYS,Malaysia,2
+4042,2011,NAM,Namibia,1
+4043,2011,NER,Niger ,4
+4044,2011,NGA,Nigeria,6
+4045,2011,NIC,Nicaragua,1
+4046,2011,NOR,Norway,1
+4047,2011,NPL,Nepal,7
+4048,2011,OMN,Oman,1
+4049,2011,PAK,Pakistan,2
+4050,2011,PAN,Panama,2
+4051,2011,PER,Peru,6
+4052,2011,PHL,Philippines ,36
+4053,2011,POL,Poland,1
+4054,2011,PRI,Puerto Rico,2
+4055,2011,PRK,Korea ,3
+4056,2011,PRY,Paraguay,2
+4057,2011,RUS,Russian Federation ,3
+4058,2011,RWA,Rwanda,1
+4059,2011,SAU,Saudi Arabia,1
+4060,2011,SDN,Sudan ,2
+4061,2011,SEN,Senegal,2
+4062,2011,SLE,Sierra Leone,1
+4063,2011,SLV,El Salvador,1
+4064,2011,SOM,Somalia,2
+4065,2011,TCD,Chad,2
+4066,2011,THA,Thailand,6
+4067,2011,TJK,Tajikistan,2
+4068,2011,TUR,Turkey,4
+4069,2011,TZA,"Tanzania, United Republic of",4
+4070,2011,UGA,Uganda,2
+4071,2011,USA,United States of America ,23
+4072,2011,UZB,Uzbekistan,1
+4073,2011,VCT,Saint Vincent and the Grenadines,1
+4074,2011,VEN,Venezuela ,3
+4075,2011,VNM,Viet Nam,5
+4076,2011,ZAF,South Africa,3
+4077,2011,ZMB,Zambia,1
+4078,2011,ZWE,Zimbabwe,2
+4079,2012,AFG,Afghanistan,11
+4080,2012,AGO,Angola,1
+4081,2012,ALB,Albania,1
+4082,2012,ARG,Argentina,3
+4083,2012,AUT,Austria,1
+4084,2012,AZE,Azerbaijan,3
+4085,2012,BEL,Belgium,1
+4086,2012,BEN,Benin,1
+4087,2012,BFA,Burkina Faso,1
+4088,2012,BGD,Bangladesh,5
+4089,2012,BGR,Bulgaria,4
+4090,2012,BHS,Bahamas ,1
+4091,2012,BIH,Bosnia and Herzegovina,1
+4092,2012,BLR,Belarus,1
+4093,2012,BOL,Bolivia ,1
+4094,2012,BRA,Brazil,3
+4095,2012,CAF,Central African Republic,2
+4096,2012,CAN,Canada,3
+4097,2012,CHE,Switzerland,2
+4098,2012,CHL,Chile,3
+4099,2012,CHN,China,28
+4100,2012,CMR,Cameroon,3
+4101,2012,COD,Congo ,5
+4102,2012,COG,Congo ,3
+4103,2012,COL,Colombia,4
+4104,2012,COM,Comoros ,1
+4105,2012,CRI,Costa Rica,2
+4106,2012,CUB,Cuba,3
+4107,2012,CZE,Czech Republic ,2
+4108,2012,DEU,Germany,2
+4109,2012,DOM,Dominican Republic ,5
+4110,2012,DZA,Algeria,2
+4111,2012,ECU,Ecuador,3
+4112,2012,ESP,Spain,2
+4113,2012,EST,Estonia,1
+4114,2012,FRA,France,1
+4115,2012,GAB,Gabon,1
+4116,2012,GBR,United Kingdom of Great Britain and Northern Ireland ,5
+4117,2012,GEO,Georgia,2
+4118,2012,GHA,Ghana,2
+4119,2012,GIN,Guinea,1
+4120,2012,GMB,Gambia ,1
+4121,2012,GRC,Greece,2
+4122,2012,GTM,Guatemala,3
+4123,2012,HND,Honduras,1
+4124,2012,HRV,Croatia,3
+4125,2012,HTI,Haiti,7
+4126,2012,HUN,Hungary,1
+4127,2012,IDN,Indonesia,13
+4128,2012,IND,India,10
+4129,2012,IRN,Iran ,4
+4130,2012,IRQ,Iraq,1
+4131,2012,ITA,Italy,5
+4132,2012,JAM,Jamaica,1
+4133,2012,JPN,Japan,7
+4134,2012,KAZ,Kazakhstan,2
+4135,2012,KEN,Kenya,1
+4136,2012,KGZ,Kyrgyzstan,2
+4137,2012,KHM,Cambodia,1
+4138,2012,KOR,Korea ,3
+4139,2012,LKA,Sri Lanka,3
+4140,2012,LTU,Lithuania,2
+4141,2012,LVA,Latvia,1
+4142,2012,MAR,Morocco,1
+4143,2012,MDA,Moldova ,2
+4144,2012,MDG,Madagascar,3
+4145,2012,MEX,Mexico,3
+4146,2012,MKD,Macedonia ,1
+4147,2012,MMR,Myanmar,2
+4148,2012,MNE,Montenegro,1
+4149,2012,MOZ,Mozambique,3
+4150,2012,MWI,Malawi,4
+4151,2012,NAM,Namibia,1
+4152,2012,NER,Niger ,3
+4153,2012,NGA,Nigeria,3
+4154,2012,NIC,Nicaragua,1
+4155,2012,NLD,Netherlands ,1
+4156,2012,NPL,Nepal,3
+4157,2012,PAK,Pakistan,5
+4158,2012,PAN,Panama,2
+4159,2012,PER,Peru,5
+4160,2012,PHL,Philippines ,22
+4161,2012,POL,Poland,4
+4162,2012,PRI,Puerto Rico,1
+4163,2012,PRK,Korea ,3
+4164,2012,PRY,Paraguay,3
+4165,2012,PSE,"Palestine, State of",1
+4166,2012,ROU,Romania,1
+4167,2012,RUS,Russian Federation ,8
+4168,2012,RWA,Rwanda,1
+4169,2012,SAU,Saudi Arabia,1
+4170,2012,SDN,Sudan ,2
+4171,2012,SEN,Senegal,1
+4172,2012,SLE,Sierra Leone,1
+4173,2012,SOM,Somalia,2
+4174,2012,SRB,Serbia,3
+4175,2012,SSD,South Sudan,2
+4176,2012,SVK,Slovakia,1
+4177,2012,SVN,Slovenia,1
+4178,2012,TCD,Chad,4
+4179,2012,THA,Thailand,2
+4180,2012,TJK,Tajikistan,3
+4181,2012,TUR,Turkey,1
+4182,2012,TWN,Taiwan ,3
+4183,2012,TZA,"Tanzania, United Republic of",1
+4184,2012,UGA,Uganda,5
+4185,2012,UKR,Ukraine,3
+4186,2012,USA,United States of America ,25
+4187,2012,VEN,Venezuela ,1
+4188,2012,VNM,Viet Nam,4
+4189,2012,ZAF,South Africa,2
+4190,2012,ZMB,Zambia,1
+4191,2013,AFG,Afghanistan,6
+4192,2013,AGO,Angola,1
+4193,2013,ARG,Argentina,2
+4194,2013,ARM,Armenia,2
+4195,2013,AUT,Austria,1
+4196,2013,BEL,Belgium,2
+4197,2013,BEN,Benin,3
+4198,2013,BFA,Burkina Faso,1
+4199,2013,BGD,Bangladesh,3
+4200,2013,BHS,Bahamas ,1
+4201,2013,BLR,Belarus,1
+4202,2013,BOL,Bolivia ,5
+4203,2013,BRA,Brazil,6
+4204,2013,BWA,Botswana,1
+4205,2013,CAF,Central African Republic,3
+4206,2013,CAN,Canada,3
+4207,2013,CHE,Switzerland,2
+4208,2013,CHL,Chile,1
+4209,2013,CHN,China,43
+4210,2013,CMR,Cameroon,1
+4211,2013,COG,Congo ,1
+4212,2013,COL,Colombia,3
+4213,2013,CRI,Costa Rica,1
+4214,2013,CUB,Cuba,1
+4215,2013,CZE,Czech Republic ,1
+4216,2013,DEU,Germany,4
+4217,2013,DNK,Denmark,2
+4218,2013,DOM,Dominican Republic ,1
+4219,2013,ECU,Ecuador,4
+4220,2013,ESP,Spain,2
+4221,2013,ETH,Ethiopia,4
+4222,2013,FRA,France,3
+4223,2013,GBR,United Kingdom of Great Britain and Northern Ireland ,5
+4224,2013,GEO,Georgia,3
+4225,2013,GHA,Ghana,2
+4226,2013,GIN,Guinea,2
+4227,2013,GMB,Gambia ,1
+4228,2013,GTM,Guatemala,2
+4229,2013,HND,Honduras,1
+4230,2013,HTI,Haiti,1
+4231,2013,HUN,Hungary,3
+4232,2013,IDN,Indonesia,16
+4233,2013,IND,India,12
+4234,2013,IRN,Iran ,3
+4235,2013,IRQ,Iraq,1
+4236,2013,ISR,Israel,1
+4237,2013,ITA,Italy,1
+4238,2013,JPN,Japan,10
+4239,2013,KEN,Kenya,4
+4240,2013,KHM,Cambodia,1
+4241,2013,LAO,Lao People's Democratic Republic ,3
+4242,2013,LBY,Libya,1
+4243,2013,LCA,Saint Lucia,1
+4244,2013,LKA,Sri Lanka,3
+4245,2013,MDG,Madagascar,3
+4246,2013,MEX,Mexico,5
+4247,2013,MKD,Macedonia ,1
+4248,2013,MLI,Mali,2
+4249,2013,MMR,Myanmar,2
+4250,2013,MOZ,Mozambique,2
+4251,2013,MRT,Mauritania,1
+4252,2013,MUS,Mauritius,1
+4253,2013,MWI,Malawi,1
+4254,2013,MYS,Malaysia,1
+4255,2013,NAM,Namibia,3
+4256,2013,NER,Niger ,2
+4257,2013,NGA,Nigeria,1
+4258,2013,NIC,Nicaragua,2
+4259,2013,NLD,Netherlands ,3
+4260,2013,NPL,Nepal,2
+4261,2013,PAK,Pakistan,5
+4262,2013,PAN,Panama,1
+4263,2013,PER,Peru,5
+4264,2013,PHL,Philippines ,14
+4265,2013,POL,Poland,2
+4266,2013,PRK,Korea ,1
+4267,2013,PRT,Portugal,3
+4268,2013,PRY,Paraguay,3
+4269,2013,PSE,"Palestine, State of",2
+4270,2013,ROU,Romania,1
+4271,2013,RUS,Russian Federation ,3
+4272,2013,SAU,Saudi Arabia,2
+4273,2013,SDN,Sudan ,1
+4274,2013,SEN,Senegal,1
+4275,2013,SLE,Sierra Leone,1
+4276,2013,SLV,El Salvador,1
+4277,2013,SOM,Somalia,3
+4278,2013,SRB,Serbia,2
+4279,2013,SSD,South Sudan,3
+4280,2013,SVK,Slovakia,1
+4281,2013,SWE,Sweden,1
+4282,2013,SYC,Seychelles,1
+4283,2013,TGO,Togo,1
+4284,2013,THA,Thailand,3
+4285,2013,TJK,Tajikistan,1
+4286,2013,TUR,Turkey,1
+4287,2013,TWN,Taiwan ,5
+4288,2013,UGA,Uganda,4
+4289,2013,UKR,Ukraine,1
+4290,2013,USA,United States of America ,28
+4291,2013,VCT,Saint Vincent and the Grenadines,1
+4292,2013,VNM,Viet Nam,10
+4293,2013,YEM,Yemen,1
+4294,2013,ZAF,South Africa,1
+4295,2013,ZMB,Zambia,1
+4296,2013,ZWE,Zimbabwe,2
+4297,2014,AFG,Afghanistan,3
+4298,2014,ARG,Argentina,4
+4299,2014,BDI,Burundi,1
+4300,2014,BEL,Belgium,1
+4301,2014,BFA,Burkina Faso,1
+4302,2014,BGD,Bangladesh,4
+4303,2014,BGR,Bulgaria,5
+4304,2014,BIH,Bosnia and Herzegovina,4
+4305,2014,BLR,Belarus,1
+4306,2014,BOL,Bolivia ,4
+4307,2014,BRA,Brazil,5
+4308,2014,CAN,Canada,2
+4309,2014,CHE,Switzerland,1
+4310,2014,CHL,Chile,3
+4311,2014,CHN,China,41
+4312,2014,CIV,Côte d’Ivoire,2
+4313,2014,CMR,Cameroon,3
+4314,2014,COD,Congo ,3
+4315,2014,COL,Colombia,5
+4316,2014,COM,Comoros ,2
+4317,2014,CPV,Cabo Verde,1
+4318,2014,CRI,Costa Rica,1
+4319,2014,DEU,Germany,2
+4320,2014,DOM,Dominican Republic ,1
+4321,2014,DZA,Algeria,1
+4322,2014,ECU,Ecuador,1
+4323,2014,ESP,Spain,1
+4324,2014,FRA,France,7
+4325,2014,GBR,United Kingdom of Great Britain and Northern Ireland ,2
+4326,2014,GEO,Georgia,1
+4327,2014,GHA,Ghana,1
+4328,2014,GIN,Guinea,1
+4329,2014,GMB,Gambia ,1
+4330,2014,GRC,Greece,3
+4331,2014,GTM,Guatemala,5
+4332,2014,HND,Honduras,3
+4333,2014,HRV,Croatia,2
+4334,2014,HTI,Haiti,3
+4335,2014,HUN,Hungary,1
+4336,2014,IDN,Indonesia,10
+4337,2014,IND,India,16
+4338,2014,IRL,Ireland,1
+4339,2014,IRN,Iran ,3
+4340,2014,ITA,Italy,5
+4341,2014,JAM,Jamaica,1
+4342,2014,JPN,Japan,13
+4343,2014,KAZ,Kazakhstan,1
+4344,2014,KEN,Kenya,2
+4345,2014,KGZ,Kyrgyzstan,1
+4346,2014,KHM,Cambodia,1
+4347,2014,KOR,Korea ,3
+4348,2014,LAO,Lao People's Democratic Republic ,1
+4349,2014,LBR,Liberia,1
+4350,2014,LKA,Sri Lanka,7
+4351,2014,LSO,Lesotho,1
+4352,2014,MAR,Morocco,3
+4353,2014,MDG,Madagascar,2
+4354,2014,MEX,Mexico,8
+4355,2014,MKD,Macedonia ,1
+4356,2014,MLI,Mali,1
+4357,2014,MMR,Myanmar,2
+4358,2014,MOZ,Mozambique,3
+4359,2014,MWI,Malawi,1
+4360,2014,MYS,Malaysia,2
+4361,2014,NER,Niger ,4
+4362,2014,NGA,Nigeria,3
+4363,2014,NIC,Nicaragua,3
+4364,2014,NPL,Nepal,6
+4365,2014,PAK,Pakistan,3
+4366,2014,PAN,Panama,1
+4367,2014,PER,Peru,5
+4368,2014,PHL,Philippines ,13
+4369,2014,POL,Poland,1
+4370,2014,PRI,Puerto Rico,1
+4371,2014,PRT,Portugal,2
+4372,2014,PRY,Paraguay,2
+4373,2014,REU,Réunion,1
+4374,2014,ROU,Romania,3
+4375,2014,RUS,Russian Federation ,1
+4376,2014,SDN,Sudan ,1
+4377,2014,SEN,Senegal,2
+4378,2014,SLE,Sierra Leone,1
+4379,2014,SLV,El Salvador,2
+4380,2014,SOM,Somalia,2
+4381,2014,SRB,Serbia,5
+4382,2014,SSD,South Sudan,2
+4383,2014,SVN,Slovenia,2
+4384,2014,SWZ,Swaziland,1
+4385,2014,SYC,Seychelles,1
+4386,2014,THA,Thailand,8
+4387,2014,TJK,Tajikistan,2
+4388,2014,TLS,Timor-Leste,1
+4389,2014,TUR,Turkey,1
+4390,2014,TWN,Taiwan ,2
+4391,2014,TZA,"Tanzania, United Republic of",2
+4392,2014,USA,United States of America ,20
+4393,2014,VNM,Viet Nam,3
+4394,2014,ZAF,South Africa,2
+4395,2014,ZMB,Zambia,1
+4396,2014,ZWE,Zimbabwe,3
+4397,2015,AFG,Afghanistan,7
+4398,2015,AGO,Angola,4
+4399,2015,ALB,Albania,3
+4400,2015,ARG,Argentina,5
+4401,2015,BDI,Burundi,2
+4402,2015,BEL,Belgium,1
+4403,2015,BFA,Burkina Faso,1
+4404,2015,BGD,Bangladesh,8
+4405,2015,BGR,Bulgaria,1
+4406,2015,BHS,Bahamas ,1
+4407,2015,BIH,Bosnia and Herzegovina,1
+4408,2015,BLZ,Belize,1
+4409,2015,BOL,Bolivia ,1
+4410,2015,BRA,Brazil,6
+4411,2015,BWA,Botswana,1
+4412,2015,CAF,Central African Republic,1
+4413,2015,CAN,Canada,1
+4414,2015,CHL,Chile,7
+4415,2015,CHN,China,36
+4416,2015,CIV,Côte d’Ivoire,1
+4417,2015,CMR,Cameroon,2
+4418,2015,COD,Congo ,5
+4419,2015,COL,Colombia,5
+4420,2015,CPV,Cabo Verde,1
+4421,2015,CRI,Costa Rica,2
+4422,2015,CUB,Cuba,2
+4423,2015,DMA,Dominica,1
+4424,2015,DOM,Dominican Republic ,3
+4425,2015,DZA,Algeria,2
+4426,2015,ECU,Ecuador,3
+4427,2015,EGY,Egypt,3
+4428,2015,ESP,Spain,2
+4429,2015,ETH,Ethiopia,2
+4430,2015,FRA,France,3
+4431,2015,GBR,United Kingdom of Great Britain and Northern Ireland ,2
+4432,2015,GEO,Georgia,1
+4433,2015,GHA,Ghana,2
+4434,2015,GIN,Guinea,2
+4435,2015,GMB,Gambia ,1
+4436,2015,GRC,Greece,2
+4437,2015,GTM,Guatemala,4
+4438,2015,GUY,Guyana,1
+4439,2015,HRV,Croatia,1
+4440,2015,HTI,Haiti,3
+4441,2015,IDN,Indonesia,12
+4442,2015,IND,India,22
+4443,2015,IRL,Ireland,1
+4444,2015,IRN,Iran ,5
+4445,2015,IRQ,Iraq,2
+4446,2015,ISR,Israel,1
+4447,2015,ITA,Italy,4
+4448,2015,JPN,Japan,10
+4449,2015,KAZ,Kazakhstan,1
+4450,2015,KEN,Kenya,3
+4451,2015,KGZ,Kyrgyzstan,1
+4452,2015,KHM,Cambodia,2
+4453,2015,KOR,Korea ,1
+4454,2015,LAO,Lao People's Democratic Republic ,2
+4455,2015,LBN,Lebanon,3
+4456,2015,LKA,Sri Lanka,2
+4457,2015,MDG,Madagascar,3
+4458,2015,MEX,Mexico,4
+4459,2015,MKD,Macedonia ,2
+4460,2015,MLI,Mali,1
+4461,2015,MMR,Myanmar,6
+4462,2015,MNG,Mongolia,1
+4463,2015,MOZ,Mozambique,1
+4464,2015,MWI,Malawi,3
+4465,2015,MYS,Malaysia,2
+4466,2015,NAM,Namibia,1
+4467,2015,NER,Niger ,3
+4468,2015,NGA,Nigeria,2
+4469,2015,NIC,Nicaragua,1
+4470,2015,NPL,Nepal,4
+4471,2015,OMN,Oman,1
+4472,2015,PAK,Pakistan,10
+4473,2015,PAN,Panama,2
+4474,2015,PER,Peru,3
+4475,2015,PHL,Philippines ,16
+4476,2015,POL,Poland,2
+4477,2015,PRK,Korea ,2
+4478,2015,PRT,Portugal,1
+4479,2015,PRY,Paraguay,3
+4480,2015,PSE,"Palestine, State of",2
+4481,2015,ROU,Romania,1
+4482,2015,RUS,Russian Federation ,2
+4483,2015,RWA,Rwanda,1
+4484,2015,SAU,Saudi Arabia,2
+4485,2015,SDN,Sudan ,3
+4486,2015,SLE,Sierra Leone,1
+4487,2015,SLV,El Salvador,2
+4488,2015,SOM,Somalia,5
+4489,2015,SSD,South Sudan,1
+4490,2015,SYR,Syrian Arab Republic,2
+4491,2015,TGO,Togo,1
+4492,2015,THA,Thailand,2
+4493,2015,TJK,Tajikistan,4
+4494,2015,TLS,Timor-Leste,1
+4495,2015,TUR,Turkey,2
+4496,2015,TWN,Taiwan ,3
+4497,2015,TZA,"Tanzania, United Republic of",4
+4498,2015,URY,Uruguay,3
+4499,2015,USA,United States of America ,29
+4500,2015,VEN,Venezuela ,1
+4501,2015,VNM,Viet Nam,5
+4502,2015,YEM,Yemen,3
+4503,2015,ZAF,South Africa,1
+4504,2015,ZWE,Zimbabwe,1
+4505,2016,AFG,Afghanistan,4
+4506,2016,AGO,Angola,4
+4507,2016,ALB,Albania,1
+4508,2016,ARG,Argentina,2
+4509,2016,ARM,Armenia,1
+4510,2016,AUT,Austria,1
+4511,2016,BDI,Burundi,1
+4512,2016,BEL,Belgium,2
+4513,2016,BEN,Benin,1
+4514,2016,BFA,Burkina Faso,1
+4515,2016,BGD,Bangladesh,4
+4516,2016,BHS,Bahamas ,1
+4517,2016,BLZ,Belize,1
+4518,2016,BOL,Bolivia ,3
+4519,2016,BRA,Brazil,3
+4520,2016,CAF,Central African Republic,1
+4521,2016,CAN,Canada,2
+4522,2016,CHL,Chile,1
+4523,2016,CHN,China,33
+4524,2016,CIV,Côte d’Ivoire,1
+4525,2016,COD,Congo ,4
+4526,2016,COL,Colombia,3
+4527,2016,CRI,Costa Rica,1
+4528,2016,CUB,Cuba,1
+4529,2016,DEU,Germany,1
+4530,2016,DOM,Dominican Republic ,3
+4531,2016,ECU,Ecuador,4
+4532,2016,EGY,Egypt,1
+4533,2016,ESP,Spain,1
+4534,2016,ETH,Ethiopia,2
+4535,2016,FRA,France,1
+4536,2016,GHA,Ghana,2
+4537,2016,GRC,Greece,1
+4538,2016,GTM,Guatemala,2
+4539,2016,HND,Honduras,3
+4540,2016,HTI,Haiti,9
+4541,2016,HUN,Hungary,1
+4542,2016,IDN,Indonesia,15
+4543,2016,IND,India,16
+4544,2016,IRN,Iran ,1
+4545,2016,ISR,Israel,1
+4546,2016,ITA,Italy,4
+4547,2016,JAM,Jamaica,1
+4548,2016,JPN,Japan,10
+4549,2016,KEN,Kenya,3
+4550,2016,KHM,Cambodia,1
+4551,2016,KOR,Korea ,3
+4552,2016,LAO,Lao People's Democratic Republic ,1
+4553,2016,LBR,Liberia,1
+4554,2016,LCA,Saint Lucia,1
+4555,2016,LKA,Sri Lanka,2
+4556,2016,LSO,Lesotho,1
+4557,2016,MAR,Morocco,1
+4558,2016,MDG,Madagascar,1
+4559,2016,MEX,Mexico,7
+4560,2016,MKD,Macedonia ,2
+4561,2016,MLI,Mali,1
+4562,2016,MMR,Myanmar,7
+4563,2016,MNG,Mongolia,1
+4564,2016,MOZ,Mozambique,4
+4565,2016,MWI,Malawi,1
+4566,2016,MYS,Malaysia,4
+4567,2016,NER,Niger ,3
+4568,2016,NGA,Nigeria,4
+4569,2016,NIC,Nicaragua,1
+4570,2016,NLD,Netherlands ,1
+4571,2016,NPL,Nepal,3
+4572,2016,OMN,Oman,1
+4573,2016,PAK,Pakistan,9
+4574,2016,PAN,Panama,1
+4575,2016,PER,Peru,4
+4576,2016,PHL,Philippines ,11
+4577,2016,POL,Poland,2
+4578,2016,PRK,Korea ,2
+4579,2016,PRT,Portugal,1
+4580,2016,PRY,Paraguay,1
+4581,2016,ROU,Romania,2
+4582,2016,RUS,Russian Federation ,3
+4583,2016,RWA,Rwanda,2
+4584,2016,SAU,Saudi Arabia,3
+4585,2016,SDN,Sudan ,2
+4586,2016,SEN,Senegal,1
+4587,2016,SGP,Singapore,1
+4588,2016,SOM,Somalia,2
+4589,2016,SRB,Serbia,2
+4590,2016,SSD,South Sudan,4
+4591,2016,SWZ,Swaziland,1
+4592,2016,SYC,Seychelles,1
+4593,2016,THA,Thailand,4
+4594,2016,TJK,Tajikistan,2
+4595,2016,TLS,Timor-Leste,1
+4596,2016,TWN,Taiwan ,5
+4597,2016,TZA,"Tanzania, United Republic of",4
+4598,2016,UGA,Uganda,3
+4599,2016,UKR,Ukraine,2
+4600,2016,URY,Uruguay,1
+4601,2016,USA,United States of America ,27
+4602,2016,VCT,Saint Vincent and the Grenadines,2
+4603,2016,VEN,Venezuela ,1
+4604,2016,VNM,Viet Nam,9
+4605,2016,YEM,Yemen,3
+4606,2016,ZAF,South Africa,3
+4607,2016,ZWE,Zimbabwe,1
+4608,2017,AFG,Afghanistan,5
+4609,2017,AGO,Angola,2
+4610,2017,AIA,Anguilla,1
+4611,2017,ALB,Albania,2
+4612,2017,ARE,United Arab Emirates ,1
+4613,2017,ARG,Argentina,4
+4614,2017,ATG,Antigua and Barbuda,1
+4615,2017,AUT,Austria,2
+4616,2017,BDI,Burundi,1
+4617,2017,BFA,Burkina Faso,2
+4618,2017,BGD,Bangladesh,6
+4619,2017,BHS,Bahamas ,1
+4620,2017,BLM,Saint Barthélemy,1
+4621,2017,BLR,Belarus,1
+4622,2017,BRA,Brazil,2
+4623,2017,BRB,Barbados,1
+4624,2017,BWA,Botswana,1
+4625,2017,CAF,Central African Republic,2
+4626,2017,CAN,Canada,3
+4627,2017,CHE,Switzerland,1
+4628,2017,CHL,Chile,5
+4629,2017,CHN,China,30
+4630,2017,CIV,Côte d’Ivoire,2
+4631,2017,CMR,Cameroon,1
+4632,2017,COD,Congo ,3
+4633,2017,COL,Colombia,7
+4634,2017,CPV,Cabo Verde,1
+4635,2017,CRI,Costa Rica,1
+4636,2017,CUB,Cuba,1
+4637,2017,CZE,Czech Republic ,1
+4638,2017,DEU,Germany,3
+4639,2017,DMA,Dominica,1
+4640,2017,DOM,Dominican Republic ,3
+4641,2017,DZA,Algeria,1
+4642,2017,ESP,Spain,2
+4643,2017,FRA,France,3
+4644,2017,GBR,United Kingdom of Great Britain and Northern Ireland ,1
+4645,2017,GHA,Ghana,2
+4646,2017,GIN,Guinea,2
+4647,2017,GLP,Guadeloupe,1
+4648,2017,GMB,Gambia ,1
+4649,2017,GRC,Greece,4
+4650,2017,GTM,Guatemala,7
+4651,2017,GUY,Guyana,1
+4652,2017,HKG,Hong Kong,2
+4653,2017,HND,Honduras,4
+4654,2017,HRV,Croatia,2
+4655,2017,HTI,Haiti,5
+4656,2017,HUN,Hungary,1
+4657,2017,IDN,Indonesia,12
+4658,2017,IND,India,18
+4659,2017,IRL,Ireland,1
+4660,2017,IRN,Iran ,5
+4661,2017,IRQ,Iraq,1
+4662,2017,ITA,Italy,6
+4663,2017,JAM,Jamaica,1
+4664,2017,JPN,Japan,4
+4665,2017,KAZ,Kazakhstan,1
+4666,2017,KEN,Kenya,4
+4667,2017,KGZ,Kyrgyzstan,2
+4668,2017,KNA,Saint Kitts and Nevis,1
+4669,2017,KOR,Korea ,1
+4670,2017,LAO,Lao People's Democratic Republic ,1
+4671,2017,LKA,Sri Lanka,4
+4672,2017,MAC,Macao,2
+4673,2017,MAF,Saint Martin ,1
+4674,2017,MAR,Morocco,2
+4675,2017,MDG,Madagascar,3
+4676,2017,MEX,Mexico,7
+4677,2017,MKD,Macedonia ,1
+4678,2017,MMR,Myanmar,2
+4679,2017,MNE,Montenegro,1
+4680,2017,MNG,Mongolia,1
+4681,2017,MOZ,Mozambique,2
+4682,2017,MRT,Mauritania,2
+4683,2017,MTQ,Martinique,1
+4684,2017,MWI,Malawi,2
+4685,2017,MYS,Malaysia,4
+4686,2017,NAM,Namibia,1
+4687,2017,NER,Niger ,5
+4688,2017,NGA,Nigeria,4
+4689,2017,NIC,Nicaragua,2
+4690,2017,NPL,Nepal,3
+4691,2017,OMN,Oman,1
+4692,2017,PAK,Pakistan,6
+4693,2017,PAN,Panama,1
+4694,2017,PER,Peru,3
+4695,2017,PHL,Philippines ,14
+4696,2017,POL,Poland,1
+4697,2017,PRI,Puerto Rico,2
+4698,2017,PRK,Korea ,2
+4699,2017,PRT,Portugal,2
+4700,2017,ROU,Romania,1
+4701,2017,RUS,Russian Federation ,2
+4702,2017,RWA,Rwanda,2
+4703,2017,SAU,Saudi Arabia,1
+4704,2017,SDN,Sudan ,2
+4705,2017,SLE,Sierra Leone,1
+4706,2017,SLV,El Salvador,1
+4707,2017,SOM,Somalia,1
+4708,2017,SRB,Serbia,1
+4709,2017,SVK,Slovakia,1
+4710,2017,SXM,Sint Maarten ,1
+4711,2017,TCA,Turks and Caicos Islands ,1
+4712,2017,TCD,Chad,2
+4713,2017,TGO,Togo,1
+4714,2017,THA,Thailand,6
+4715,2017,TJK,Tajikistan,3
+4716,2017,TUN,Tunisia,1
+4717,2017,TUR,Turkey,2
+4718,2017,TWN,Taiwan ,2
+4719,2017,TZA,"Tanzania, United Republic of",1
+4720,2017,UGA,Uganda,2
+4721,2017,UKR,Ukraine,1
+4722,2017,URY,Uruguay,1
+4723,2017,USA,United States of America ,24
+4724,2017,VGB,Virgin Island ,2
+4725,2017,VIR,Virgin Island ,2
+4726,2017,VNM,Viet Nam,9
+4727,2017,YEM,Yemen,3
+4728,2017,ZAF,South Africa,5
+4729,2017,ZMB,Zambia,1
+4730,2017,ZWE,Zimbabwe,2
+4731,2018,AFG,Afghanistan,6
+4732,2018,AGO,Angola,2
+4733,2018,ALB,Albania,1
+4734,2018,ARG,Argentina,5
+4735,2018,ARM,Armenia,1
+4736,2018,BDI,Burundi,3
+4737,2018,BEL,Belgium,2
+4738,2018,BGD,Bangladesh,4
+4739,2018,BGR,Bulgaria,1
+4740,2018,BLR,Belarus,1
+4741,2018,BOL,Bolivia ,2
+4742,2018,BRA,Brazil,3
+4743,2018,BWA,Botswana,1
+4744,2018,CAF,Central African Republic,1
+4745,2018,CAN,Canada,4
+4746,2018,CHE,Switzerland,1
+4747,2018,CHN,China,22
+4748,2018,CIV,Côte d’Ivoire,1
+4749,2018,CMR,Cameroon,1
+4750,2018,COD,Congo ,3
+4751,2018,COL,Colombia,2
+4752,2018,CRI,Costa Rica,2
+4753,2018,CUB,Cuba,2
+4754,2018,CZE,Czech Republic ,1
+4755,2018,DEU,Germany,2
+4756,2018,DJI,Djibouti,1
+4757,2018,DOM,Dominican Republic ,2
+4758,2018,DZA,Algeria,1
+4759,2018,ESP,Spain,4
+4760,2018,EST,Estonia,1
+4761,2018,ETH,Ethiopia,3
+4762,2018,FRA,France,7
+4763,2018,GBR,United Kingdom of Great Britain and Northern Ireland ,2
+4764,2018,GEO,Georgia,1
+4765,2018,GHA,Ghana,1
+4766,2018,GNB,Guinea-Bissau,1
+4767,2018,GRC,Greece,1
+4768,2018,GTM,Guatemala,4
+4769,2018,HKG,Hong Kong,1
+4770,2018,HND,Honduras,2
+4771,2018,HRV,Croatia,1
+4772,2018,HTI,Haiti,1
+4773,2018,HUN,Hungary,1
+4774,2018,IDN,Indonesia,15
+4775,2018,IND,India,23
+4776,2018,IRL,Ireland,1
+4777,2018,IRN,Iran ,4
+4778,2018,IRQ,Iraq,1
+4779,2018,ISR,Israel,1
+4780,2018,ITA,Italy,5
+4781,2018,JOR,Jordan,2
+4782,2018,JPN,Japan,7
+4783,2018,KAZ,Kazakhstan,1
+4784,2018,KEN,Kenya,3
+4785,2018,KHM,Cambodia,1
+4786,2018,KOR,Korea ,1
+4787,2018,KWT,Kuwait,1
+4788,2018,LAO,Lao People's Democratic Republic ,3
+4789,2018,LBN,Lebanon,1
+4790,2018,LKA,Sri Lanka,3
+4791,2018,LTU,Lithuania,2
+4792,2018,LVA,Latvia,1
+4793,2018,MAR,Morocco,1
+4794,2018,MDG,Madagascar,3
+4795,2018,MEX,Mexico,4
+4796,2018,MLI,Mali,1
+4797,2018,MMR,Myanmar,5
+4798,2018,MNG,Mongolia,3
+4799,2018,MOZ,Mozambique,2
+4800,2018,MRT,Mauritania,1
+4801,2018,MUS,Mauritius,1
+4802,2018,MWI,Malawi,3
+4803,2018,MYS,Malaysia,2
+4804,2018,NAM,Namibia,1
+4805,2018,NER,Niger ,2
+4806,2018,NGA,Nigeria,3
+4807,2018,NIC,Nicaragua,2
+4808,2018,NLD,Netherlands ,2
+4809,2018,NPL,Nepal,2
+4810,2018,OMN,Oman,2
+4811,2018,PAK,Pakistan,2
+4812,2018,PAN,Panama,1
+4813,2018,PER,Peru,1
+4814,2018,PHL,Philippines ,12
+4815,2018,POL,Poland,2
+4816,2018,PRI,Puerto Rico,2
+4817,2018,PRK,Korea ,3
+4818,2018,PRT,Portugal,3
+4819,2018,PRY,Paraguay,2
+4820,2018,QAT,Qatar,1
+4821,2018,REU,Réunion,1
+4822,2018,ROU,Romania,3
+4823,2018,RUS,Russian Federation ,2
+4824,2018,RWA,Rwanda,4
+4825,2018,SDN,Sudan ,3
+4826,2018,SEN,Senegal,1
+4827,2018,SLV,El Salvador,3
+4828,2018,SOM,Somalia,2
+4829,2018,SRB,Serbia,1
+4830,2018,SWE,Sweden,1
+4831,2018,TCD,Chad,1
+4832,2018,TJK,Tajikistan,1
+4833,2018,TTO,Trinidad and Tobago,1
+4834,2018,TUN,Tunisia,2
+4835,2018,TUR,Turkey,1
+4836,2018,TWN,Taiwan ,2
+4837,2018,TZA,"Tanzania, United Republic of",1
+4838,2018,UGA,Uganda,2
+4839,2018,UKR,Ukraine,1
+4840,2018,URY,Uruguay,1
+4841,2018,USA,United States of America ,20
+4842,2018,VEN,Venezuela ,2
+4843,2018,VNM,Viet Nam,7
+4844,2018,YEM,Yemen,2
+4845,2018,ZWE,Zimbabwe,1
+4846,2019,AFG,Afghanistan,7
+4847,2019,AGO,Angola,3
+4848,2019,ALB,Albania,3
+4849,2019,ARG,Argentina,4
+4850,2019,ARM,Armenia,1
+4851,2019,AUT,Austria,2
+4852,2019,BDI,Burundi,3
+4853,2019,BEL,Belgium,3
+4854,2019,BEN,Benin,1
+4855,2019,BGD,Bangladesh,6
+4856,2019,BHS,Bahamas ,1
+4857,2019,BIH,Bosnia and Herzegovina,2
+4858,2019,BOL,Bolivia ,5
+4859,2019,BRA,Brazil,8
+4860,2019,BWA,Botswana,1
+4861,2019,CAF,Central African Republic,2
+4862,2019,CAN,Canada,2
+4863,2019,CHE,Switzerland,1
+4864,2019,CHL,Chile,3
+4865,2019,CHN,China,17
+4866,2019,CIV,Côte d’Ivoire,1
+4867,2019,CMR,Cameroon,1
+4868,2019,COD,Congo ,5
+4869,2019,COG,Congo ,5
+4870,2019,COL,Colombia,7
+4871,2019,COM,Comoros ,2
+4872,2019,CRI,Costa Rica,1
+4873,2019,CUB,Cuba,1
+4874,2019,DEU,Germany,3
+4875,2019,DJI,Djibouti,2
+4876,2019,DOM,Dominican Republic ,1
+4877,2019,DZA,Algeria,1
+4878,2019,ECU,Ecuador,4
+4879,2019,ERI,Eritrea,1
+4880,2019,ESP,Spain,8
+4881,2019,ETH,Ethiopia,5
+4882,2019,FRA,France,10
+4883,2019,GBR,United Kingdom of Great Britain and Northern Ireland ,3
+4884,2019,GEO,Georgia,1
+4885,2019,GHA,Ghana,2
+4886,2019,GMB,Gambia ,1
+4887,2019,GRC,Greece,1
+4888,2019,GTM,Guatemala,3
+4889,2019,HND,Honduras,1
+4890,2019,HRV,Croatia,1
+4891,2019,HTI,Haiti,2
+4892,2019,HUN,Hungary,1
+4893,2019,IDN,Indonesia,19
+4894,2019,IND,India,14
+4895,2019,IRN,Iran ,5
+4896,2019,IRQ,Iraq,1
+4897,2019,ITA,Italy,5
+4898,2019,JPN,Japan,10
+4899,2019,KEN,Kenya,5
+4900,2019,KHM,Cambodia,1
+4901,2019,KOR,Korea ,4
+4902,2019,LAO,Lao People's Democratic Republic ,2
+4903,2019,LBN,Lebanon,1
+4904,2019,LBY,Libya,1
+4905,2019,LKA,Sri Lanka,7
+4906,2019,LSO,Lesotho,1
+4907,2019,LUX,Luxembourg,1
+4908,2019,MAR,Morocco,3
+4909,2019,MDA,Moldova ,1
+4910,2019,MDG,Madagascar,3
+4911,2019,MDV,Maldives,1
+4912,2019,MEX,Mexico,6
+4913,2019,MLI,Mali,2
+4914,2019,MMR,Myanmar,3
+4915,2019,MNG,Mongolia,3
+4916,2019,MOZ,Mozambique,6
+4917,2019,MRT,Mauritania,1
+4918,2019,MWI,Malawi,3
+4919,2019,MYS,Malaysia,4
+4920,2019,NER,Niger ,2
+4921,2019,NGA,Nigeria,6
+4922,2019,NIC,Nicaragua,1
+4923,2019,NLD,Netherlands ,1
+4924,2019,NOR,Norway,1
+4925,2019,NPL,Nepal,2
+4926,2019,OMN,Oman,1
+4927,2019,PAK,Pakistan,12
+4928,2019,PER,Peru,7
+4929,2019,PHL,Philippines ,18
+4930,2019,POL,Poland,1
+4931,2019,PRK,Korea ,2
+4932,2019,PRT,Portugal,1
+4933,2019,PRY,Paraguay,4
+4934,2019,ROU,Romania,1
+4935,2019,RUS,Russian Federation ,5
+4936,2019,RWA,Rwanda,2
+4937,2019,SAU,Saudi Arabia,3
+4938,2019,SDN,Sudan ,4
+4939,2019,SEN,Senegal,1
+4940,2019,SLE,Sierra Leone,2
+4941,2019,SLV,El Salvador,2
+4942,2019,SOM,Somalia,4
+4943,2019,SRB,Serbia,1
+4944,2019,SSD,South Sudan,4
+4945,2019,SVK,Slovakia,1
+4946,2019,SWZ,Swaziland,1
+4947,2019,SYR,Syrian Arab Republic,1
+4948,2019,TCD,Chad,2
+4949,2019,THA,Thailand,3
+4950,2019,TJK,Tajikistan,1
+4951,2019,TUR,Turkey,4
+4952,2019,TWN,Taiwan ,1
+4953,2019,TZA,"Tanzania, United Republic of",7
+4954,2019,UGA,Uganda,9
+4955,2019,URY,Uruguay,3
+4956,2019,USA,United States of America ,21
+4957,2019,VEN,Venezuela ,1
+4958,2019,VNM,Viet Nam,8
+4959,2019,YEM,Yemen,5
+4960,2019,ZAF,South Africa,6
+4961,2019,ZMB,Zambia,2
+4962,2019,ZWE,Zimbabwe,2
+4963,2020,AFG,Afghanistan,7
+4964,2020,AGO,Angola,3
+4965,2020,ARG,Argentina,2
+4966,2020,ARM,Armenia,1
+4967,2020,BDI,Burundi,3
+4968,2020,BEL,Belgium,2
+4969,2020,BEN,Benin,1
+4970,2020,BFA,Burkina Faso,4
+4971,2020,BGD,Bangladesh,2
+4972,2020,BIH,Bosnia and Herzegovina,1
+4973,2020,BLZ,Belize,1
+4974,2020,BOL,Bolivia ,2
+4975,2020,BRA,Brazil,7
+4976,2020,CAN,Canada,2
+4977,2020,CHE,Switzerland,1
+4978,2020,CHN,China,12
+4979,2020,CIV,Côte d’Ivoire,1
+4980,2020,CMR,Cameroon,1
+4981,2020,COD,Congo ,7
+4982,2020,COG,Congo ,2
+4983,2020,COL,Colombia,6
+4984,2020,CRI,Costa Rica,1
+4985,2020,CUB,Cuba,2
+4986,2020,CZE,Czech Republic ,1
+4987,2020,DEU,Germany,1
+4988,2020,DJI,Djibouti,1
+4989,2020,DOM,Dominican Republic ,2
+4990,2020,DZA,Algeria,1
+4991,2020,ECU,Ecuador,2
+4992,2020,EGY,Egypt,1
+4993,2020,ESP,Spain,1
+4994,2020,ETH,Ethiopia,4
+4995,2020,FRA,France,7
+4996,2020,GBR,United Kingdom of Great Britain and Northern Ireland ,3
+4997,2020,GEO,Georgia,1
+4998,2020,GHA,Ghana,2
+4999,2020,GIN,Guinea,1
+5000,2020,GRC,Greece,3
+5001,2020,GTM,Guatemala,5
+5002,2020,GUF,French Guiana,1
+5003,2020,HND,Honduras,4
+5004,2020,HRV,Croatia,2
+5005,2020,HTI,Haiti,1
+5006,2020,IDN,Indonesia,29
+5007,2020,IMN,Isle of Man,1
+5008,2020,IND,India,11
+5009,2020,IRL,Ireland,1
+5010,2020,IRN,Iran ,9
+5011,2020,IRQ,Iraq,1
+5012,2020,ISR,Israel,2
+5013,2020,ITA,Italy,7
+5014,2020,JPN,Japan,4
+5015,2020,KAZ,Kazakhstan,1
+5016,2020,KEN,Kenya,1
+5017,2020,KHM,Cambodia,2
+5018,2020,KOR,Korea ,5
+5019,2020,LAO,Lao People's Democratic Republic ,2
+5020,2020,LBN,Lebanon,1
+5021,2020,LCA,Saint Lucia,1
+5022,2020,LKA,Sri Lanka,3
+5023,2020,LSO,Lesotho,1
+5024,2020,MDG,Madagascar,3
+5025,2020,MEX,Mexico,8
+5026,2020,MLI,Mali,1
+5027,2020,MMR,Myanmar,2
+5028,2020,MNG,Mongolia,4
+5029,2020,MOZ,Mozambique,3
+5030,2020,MRT,Mauritania,3
+5031,2020,MWI,Malawi,1
+5032,2020,MYS,Malaysia,5
+5033,2020,NAM,Namibia,1
+5034,2020,NER,Niger ,3
+5035,2020,NGA,Nigeria,5
+5036,2020,NIC,Nicaragua,2
+5037,2020,NLD,Netherlands ,1
+5038,2020,NOR,Norway,1
+5039,2020,NPL,Nepal,1
+5040,2020,OMN,Oman,1
+5041,2020,PAK,Pakistan,7
+5042,2020,PAN,Panama,3
+5043,2020,PER,Peru,4
+5044,2020,PHL,Philippines ,9
+5045,2020,POL,Poland,2
+5046,2020,PRI,Puerto Rico,3
+5047,2020,PRK,Korea ,1
+5048,2020,PRY,Paraguay,1
+5049,2020,PSE,"Palestine, State of",1
+5050,2020,ROU,Romania,1
+5051,2020,RWA,Rwanda,5
+5052,2020,SAU,Saudi Arabia,1
+5053,2020,SDN,Sudan ,1
+5054,2020,SEN,Senegal,1
+5055,2020,SLV,El Salvador,4
+5056,2020,SOM,Somalia,3
+5057,2020,SRB,Serbia,1
+5058,2020,SSD,South Sudan,1
+5059,2020,SVK,Slovakia,1
+5060,2020,SVN,Slovenia,1
+5061,2020,SWE,Sweden,1
+5062,2020,SYR,Syrian Arab Republic,1
+5063,2020,TCD,Chad,2
+5064,2020,TGO,Togo,1
+5065,2020,THA,Thailand,7
+5066,2020,TJK,Tajikistan,1
+5067,2020,TLS,Timor-Leste,1
+5068,2020,TUN,Tunisia,1
+5069,2020,TUR,Turkey,10
+5070,2020,TWN,Taiwan ,1
+5071,2020,TZA,"Tanzania, United Republic of",4
+5072,2020,UGA,Uganda,6
+5073,2020,UKR,Ukraine,3
+5074,2020,URY,Uruguay,2
+5075,2020,USA,United States of America ,23
+5076,2020,UZB,Uzbekistan,1
+5077,2020,VCT,Saint Vincent and the Grenadines,1
+5078,2020,VEN,Venezuela ,1
+5079,2020,VNM,Viet Nam,11
+5080,2020,YEM,Yemen,5
+5081,2020,ZAF,South Africa,2
+5082,2020,ZMB,Zambia,3
