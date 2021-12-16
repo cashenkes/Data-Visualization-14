@@ -1,0 +1,43 @@
+{
+    "children": [
+        {
+            "name": "Adaptation Funds",
+            "children": [
+                {
+                    "name": "Adaptation Fund",
+                    "value": 316.23
+                },
+                {
+                    "name": "Adaptation for Smallholder Agriculture Programme",
+                    "value": 289.39
+                },
+                {
+                    "name": "Least Developed Countries Fund",
+                    "value": 825.29
+                },
+                {
+                    "name": "MDG Achievement Fund",
+                    "value": 89.50
+                },
+                {
+                    "name": "Pilot Programme for Climate and Resilience",
+                    "value": 1094.00
+                },
+                {
+                    "name": "Special Climate Change Fund",
+                    "value": 299.34
+                }
+            ]
+        },
+        {
+            "name": "Mitigation Funds",
+            "children": [
+                {
+                    "name": "Mitigation Fund",
+                    "value": 7741.00
+                }
+            ]
+        }
+    ],
+    "name": "CEO"
+}
